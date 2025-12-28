@@ -1,0 +1,203 @@
+2025-12-28 20:10:43 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50> (referer: None)
+2025-12-28 20:10:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50>
+{'author': 'kiddman007',
+ 'created_utc': 1766904677.0,
+ 'keyword': 'indian_politics',
+ 'num_comments': 186,
+ 'permalink': 'https://reddit.com/r/IndiaTax/comments/1pxksgn/indian_system_is_flawed/',
+ 'post_type': 'high_engagement',
+ 'score': 2514,
+ 'subreddit': 'IndiaTax',
+ 'title': "'Indian system is flawed '",
+ 'url': 'https://i.redd.it/h0zghn6r6w9g1.jpeg'}
+2025-12-28 20:10:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50>
+{'author': 'dauji',
+ 'created_utc': 1766890823.0,
+ 'keyword': 'indian_politics',
+ 'num_comments': 117,
+ 'permalink': 'https://reddit.com/r/indiadiscussion/comments/1pxgdp9/questions_about_legal_firearm_ownership_in_india/',
+ 'post_type': 'high_engagement',
+ 'score': 322,
+ 'subreddit': 'indiadiscussion',
+ 'title': 'Questions about legal firearm ownership in India?',
+ 'url': 'https://i.redd.it/aqbtyjgi1v9g1.jpeg'}
+2025-12-28 20:10:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50>
+{'author': 'ObviousDistrict2542',
+ 'created_utc': 1766904262.0,
+ 'keyword': 'indian_politics',
+ 'num_comments': 14,
+ 'permalink': 'https://reddit.com/r/IndiaTax/comments/1pxko8q/wondering/',
+ 'post_type': 'high_engagement',
+ 'score': 257,
+ 'subreddit': 'IndiaTax',
+ 'title': 'Wondering',
+ 'url': 'https://i.redd.it/pxv7u89i5w9g1.jpeg'}
+2025-12-28 20:10:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50>
+{'author': 'dauji',
+ 'created_utc': 1766891395.0,
+ 'keyword': 'indian_politics',
+ 'num_comments': 75,
+ 'permalink': 'https://reddit.com/r/unitedstatesofindia/comments/1pxgkp3/questions_about_legal_firearm_ownership_in_india/',
+ 'post_type': 'high_engagement',
+ 'score': 203,
+ 'subreddit': 'unitedstatesofindia',
+ 'title': 'Questions about legal firearm ownership in India?',
+ 'url': 'https://i.redd.it/pwr0gsx83v9g1.png'}
+2025-12-28 20:10:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50>
+{'author': 'Better-Rub-3912',
+ 'created_utc': 1766926483.0,
+ 'keyword': 'indian_politics',
+ 'num_comments': 20,
+ 'permalink': 'https://reddit.com/r/unitedstatesofindia/comments/1pxqp2b/the_modi_govt_has_been_highly_successful_in/',
+ 'post_type': 'high_engagement',
+ 'score': 152,
+ 'subreddit': 'unitedstatesofindia',
+ 'title': 'The Modi govt has been highly successful in spreading fake news and '
+          'propaganda',
+ 'url': 'https://i.redd.it/0ytrpbflzx9g1.png'}
+2025-12-28 20:10:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50>
+{'author': 'Minute-Cheetah-8570',
+ 'created_utc': 1766912234.0,
+ 'keyword': 'indian_politics',
+ 'num_comments': 21,
+ 'permalink': 'https://reddit.com/r/india/comments/1pxmtaz/a_nation_of_potential_wasted_by_politics_pr_and/',
+ 'post_type': 'high_engagement',
+ 'score': 93,
+ 'subreddit': 'india',
+ 'title': 'A Nation of Potential Wasted by Politics, PR, and Poor Priorities',
+ 'url': 'https://www.reddit.com/r/india/comments/1pxmtaz/a_nation_of_potential_wasted_by_politics_pr_and/'}
+2025-12-28 20:10:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50>
+{'author': 'tequila100123',
+ 'created_utc': 1766894102.0,
+ 'keyword': 'indian_politics',
+ 'num_comments': 11,
+ 'permalink': 'https://reddit.com/r/cf4cf/comments/1pxhhjm/29_f4m_californiaanywhere_where_is_my_soulmate/',
+ 'post_type': 'high_engagement',
+ 'score': 65,
+ 'subreddit': 'cf4cf',
+ 'title': '29 [F4M] California/Anywhere, Where is my soulmate ?',
+ 'url': 'https://www.reddit.com/gallery/1pxhhjm'}
+2025-12-28 20:10:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50>
+{'author': 'CtrlVChef',
+ 'created_utc': 1766882279.0,
+ 'keyword': 'indian_politics',
+ 'num_comments': 20,
+ 'permalink': 'https://reddit.com/r/CriticalThinkingIndia/comments/1pxddox/arab_x_accounts_expose_mufti_shamail_nadwis/',
+ 'post_type': 'high_engagement',
+ 'score': 51,
+ 'subreddit': 'CriticalThinkingIndia',
+ 'title': 'Arab X Accounts Expose Mufti Shamail Nadwi’s Muslim Brotherhood and '
+          'Qatari Links as He Praises Erdoğan. What Should India Learn From '
+          'This?',
+ 'url': 'https://www.reddit.com/gallery/1pxddox'}
+2025-12-28 20:10:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50>
+{'author': 'StatusTadpole4713',
+ 'created_utc': 1766931173.0,
+ 'keyword': 'indian_politics',
+ 'num_comments': 25,
+ 'permalink': 'https://reddit.com/r/InstaCelebsGossip/comments/1pxsadw/extroverted_indian_needs_to_be_called_out/',
+ 'post_type': 'high_engagement',
+ 'score': 45,
+ 'subreddit': 'InstaCelebsGossip',
+ 'title': 'Extroverted indian needs to be called out',
+ 'url': 'https://v.redd.it/kndkpoejdy9g1'}
+2025-12-28 20:10:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50>
+{'author': 'Adventurous_Run664',
+ 'created_utc': 1766916666.0,
+ 'keyword': 'indian_politics',
+ 'num_comments': 29,
+ 'permalink': 'https://reddit.com/r/InsideIndianMarriage/comments/1pxnynq/unannounced_family_visit_before_marriage_who/',
+ 'post_type': 'high_engagement',
+ 'score': 34,
+ 'subreddit': 'InsideIndianMarriage',
+ 'title': 'Unannounced Family Visit Before Marriage — Who Crossed the Line? '
+          '(29F, 27M)',
+ 'url': 'https://www.reddit.com/r/InsideIndianMarriage/comments/1pxnynq/unannounced_family_visit_before_marriage_who/'}
+2025-12-28 20:10:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50>
+{'author': 'VirtualAppearance691',
+ 'created_utc': 1766901883.0,
+ 'keyword': 'indian_politics',
+ 'num_comments': 139,
+ 'permalink': 'https://reddit.com/r/StartUpIndia/comments/1pxjz6k/would_an_indian_mla_pay_4lyear_for_a_247_voice_ai/',
+ 'post_type': 'high_engagement',
+ 'score': 24,
+ 'subreddit': 'StartUpIndia',
+ 'title': 'Would an Indian MLA pay ₹4L/year for a 24×7 Voice AI grievance '
+          'system',
+ 'url': 'https://www.reddit.com/r/StartUpIndia/comments/1pxjz6k/would_an_indian_mla_pay_4lyear_for_a_247_voice_ai/'}
+2025-12-28 20:10:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50>
+{'author': 'INTJ-5w4-AuDHD',
+ 'created_utc': 1766923264.0,
+ 'keyword': 'indian_politics',
+ 'num_comments': 65,
+ 'permalink': 'https://reddit.com/r/DeepThoughts/comments/1pxpqzo/the_allies_werent_saints_no_country_involved_in/',
+ 'post_type': 'high_engagement',
+ 'score': 15,
+ 'subreddit': 'DeepThoughts',
+ 'title': 'The Allies weren’t saints. No country involved in WWII was '
+          'innocent. Period.',
+ 'url': 'https://www.reddit.com/r/DeepThoughts/comments/1pxpqzo/the_allies_werent_saints_no_country_involved_in/'}
+2025-12-28 20:10:45 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50&after=t3_1pxbcjt> (referer: https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50)
+2025-12-28 20:10:45 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50&after=t3_1pxbcjt>
+{'author': 'r4p5sir123',
+ 'created_utc': 1766832128.0,
+ 'keyword': 'indian_politics',
+ 'num_comments': 227,
+ 'permalink': 'https://reddit.com/r/india/comments/1pwuxxn/have_we_become_the_reason_behind_the_rising/',
+ 'post_type': 'high_engagement',
+ 'score': 598,
+ 'subreddit': 'india',
+ 'title': 'Have We Become the Reason Behind the Rising Hatred Toward Indians '
+          'Abroad?',
+ 'url': 'https://www.reddit.com/r/india/comments/1pwuxxn/have_we_become_the_reason_behind_the_rising/'}
+2025-12-28 20:10:45 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50&after=t3_1pxbcjt>
+{'author': 'Lone_Emperor1289',
+ 'created_utc': 1766835210.0,
+ 'keyword': 'indian_politics',
+ 'num_comments': 120,
+ 'permalink': 'https://reddit.com/r/IndianGaming/comments/1pwvrr5/india_needs_more_citizens_to_dominate_the_server/',
+ 'post_type': 'high_engagement',
+ 'score': 266,
+ 'subreddit': 'IndianGaming',
+ 'title': 'India needs more citizens to dominate the server in WarEra. We are '
+          'building a Superpower and need YOU. [WarEra.io]',
+ 'url': 'https://www.reddit.com/gallery/1pwvrr5'}
+2025-12-28 20:10:45 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_politics&sort=new&limit=50&after=t3_1pxbcjt>
+{'author': 'stonedeadeyes',
+ 'created_utc': 1766861108.0,
+ 'keyword': 'indian_politics',
+ 'num_comments': 25,
+ 'permalink': 'https://reddit.com/r/Dashcamindia/comments/1px58nh/beware_of_taliban_didi/',
+ 'post_type': 'high_engagement',
+ 'score': 247,
+ 'subreddit': 'Dashcamindia',
+ 'title': 'Beware of Taliban Didi',
+ 'url': 'https://v.redd.it/8xe6qek6ls9g1'}
+2025-12-28 20:10:48 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=indian_politics&sort=relevance&limit=50> (referer: None)
+2025-12-28 20:10:48 [scrapy] INFO: Closing spider (finished)
+2025-12-28 20:10:48 [scrapy] INFO: Stored json feed (15 items) in: posts/spiders/output/high_engagement_indian_politics_2025-12-28T14-40-41+00-00.json
+2025-12-28 20:10:48 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 1904,
+ 'downloader/request_count': 3,
+ 'downloader/request_method_count/GET': 3,
+ 'downloader/response_bytes': 549692,
+ 'downloader/response_count': 3,
+ 'downloader/response_status_count/200': 3,
+ 'elapsed_time_seconds': 6.750003,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 12, 28, 14, 40, 48, 134495, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 2175935,
+ 'httpcompression/response_count': 3,
+ 'item_scraped_count': 15,
+ 'log_count/DEBUG': 20,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'request_depth_max': 1,
+ 'response_received_count': 3,
+ 'scheduler/dequeued': 3,
+ 'scheduler/dequeued/memory': 3,
+ 'scheduler/enqueued': 3,
+ 'scheduler/enqueued/memory': 3,
+ 'start_time': datetime.datetime(2025, 12, 28, 14, 40, 41, 384492, tzinfo=datetime.timezone.utc)}
+2025-12-28 20:10:48 [scrapy] INFO: Spider closed (finished)

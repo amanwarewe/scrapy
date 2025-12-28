@@ -1,0 +1,414 @@
+2025-12-28 20:49:58 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50> (referer: None)
+2025-12-28 20:50:02 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/cscareerquestions/comments/1n3dqoa/if_you_can_get_a_tech_job_in_this_marketit_only/.json> (referer: https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50)
+2025-12-28 20:50:02 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/cscareerquestions/comments/1n3dqoa/if_you_can_get_a_tech_job_in_this_marketit_only/.json>
+{'author': 'VirtualRun706',
+ 'body': "You're competing with scammers, overseas applicants, crazy interview "
+         'cycles, arrogant interviewers, H1B favoritism and nepotism, AI, it '
+         'goes on....if you navigated all that and they still picked you out '
+         "of 4000 applicants for a role you're too qualified for...well done! ",
+ 'created_utc': 1756488643.0,
+ 'keyword': 'tech_market',
+ 'num_comments': 200,
+ 'permalink': 'https://reddit.com/r/cscareerquestions/comments/1n3dqoa/if_you_can_get_a_tech_job_in_this_marketit_only/',
+ 'post_type': 'competitor_post',
+ 'score': 1156,
+ 'subreddit': 'cscareerquestions',
+ 'title': 'If You Can Get a Tech Job in this Market...it only goes up from '
+          'here.',
+ 'top_comments': [],
+ 'url': 'https://www.reddit.com/r/cscareerquestions/comments/1n3dqoa/if_you_can_get_a_tech_job_in_this_marketit_only/'}
+2025-12-28 20:50:03 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/cscareerquestions/comments/1npw1h9/is_tech_job_market_really_cooked/.json> (referer: https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50)
+2025-12-28 20:50:03 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/cscareerquestions/comments/1npw1h9/is_tech_job_market_really_cooked/.json>
+{'author': 'Tall_Side_8556',
+ 'body': 'I am SWE with 8 YOE. Nothing too niche, full stack developer that '
+         'knows a few web dev tech stacks with most recent titles of senior '
+         'and tech lead. No AI or ML. I was laid off in June. Prepared hard, '
+         'polished my resume with AI many times, applied to between 200-300 '
+         'jobs in the span of 2 months. Got about 15 interviews, 4 offers. I '
+         'think I could get more offers tbh but after I found the company I '
+         'really liked I accepted an offer and stopped the interview process '
+         'with the rest. I interviewed with Capital One, Visa, UKG, Amazon, '
+         'Circle, Apollo, Citadel, FICO, GM and some no names or startups. '
+         'That’s all to say that after reading reddit I was anxious to even '
+         'apply but I think I got a decent amount of interviews and negotiated '
+         'my offers to be either at the higher end of the salary range for the '
+         'role or even above advertised. I do recognize it’s much harder for '
+         'junior engineers these days but is there really a shortage for '
+         'experienced engineers? I haven’t felt that. I’m not even a native '
+         'English speaker although I do speak English fluently. I’m in the US. '
+         'I also didnt lie on resume or cheated during coding rounds. Some of '
+         'them I solved 100%, some not. For example for C1 I got 450/600 '
+         'points on CodeSignal and still got a callback and an offer after '
+         'clearing their power day. Ask me anything I guess. Happy to help '
+         'someone if I can. No referrals though, sorry. I’ve just started a '
+         'few weeks ago, too early to refer especially someone I don’t '
+         'personally know. Here are a few things that I believe gave me an '
+         'edge or worked in my favor:\n'
+         '- referrals from my network\n'
+         '- local jobs that required hybrid schedule\n'
+         '- tailored resumes\n'
+         '- soft skills\n'
+         '- activity on LinkedIn (mostly commenting)\n'
+         '\n'
+         'I also tried to outsource the filling out job applications part so I '
+         'can focus on preparing and interviewing but I didn’t have much '
+         'success with freelancers from Fiverr. I was also approached by a “do '
+         'it for you” company but they charge % of your first year salary + a '
+         'fixed fee and I decided to just do it myself.',
+ 'created_utc': 1758769848.0,
+ 'keyword': 'tech_market',
+ 'num_comments': 385,
+ 'permalink': 'https://reddit.com/r/cscareerquestions/comments/1npw1h9/is_tech_job_market_really_cooked/',
+ 'post_type': 'competitor_post',
+ 'score': 675,
+ 'subreddit': 'cscareerquestions',
+ 'title': 'Is tech job market really cooked ?',
+ 'top_comments': [],
+ 'url': 'https://www.reddit.com/r/cscareerquestions/comments/1npw1h9/is_tech_job_market_really_cooked/'}
+2025-12-28 20:50:06 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/dataisbeautiful/comments/b1rgt9/market_capitalization_of_tech_companies_over_the/.json> (referer: https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50)
+2025-12-28 20:50:06 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/dataisbeautiful/comments/b1rgt9/market_capitalization_of_tech_companies_over_the/.json>
+{'author': 'TheNerdistRedditor',
+ 'body': '',
+ 'created_utc': 1552735518.0,
+ 'keyword': 'tech_market',
+ 'num_comments': 891,
+ 'permalink': 'https://reddit.com/r/dataisbeautiful/comments/b1rgt9/market_capitalization_of_tech_companies_over_the/',
+ 'post_type': 'competitor_post',
+ 'score': 24016,
+ 'subreddit': 'dataisbeautiful',
+ 'title': 'Market Capitalization of Tech Companies over the Last 23 Years [OC]',
+ 'top_comments': [],
+ 'url': 'https://v.redd.it/8wkyznnkrgm21'}
+2025-12-28 20:50:08 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/Futurology/comments/b8y8jn/toyota_to_allow_free_access_to_24000_hybrid_and/.json> (referer: https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50)
+2025-12-28 20:50:08 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/Futurology/comments/b8y8jn/toyota_to_allow_free_access_to_24000_hybrid_and/.json>
+{'author': 'ManiaforBeatles',
+ 'body': '',
+ 'created_utc': 1554299601.0,
+ 'keyword': 'tech_market',
+ 'num_comments': 877,
+ 'permalink': 'https://reddit.com/r/Futurology/comments/b8y8jn/toyota_to_allow_free_access_to_24000_hybrid_and/',
+ 'post_type': 'competitor_post',
+ 'score': 28491,
+ 'subreddit': 'Futurology',
+ 'title': 'Toyota to allow free access to 24,000 hybrid and electric vehicle '
+          'tech patents to boost market',
+ 'top_comments': [],
+ 'url': 'https://www.japantimes.co.jp/news/2019/04/03/business/corporate-business/toyota-allow-free-access-24000-hybrid-electric-vehicle-tech-patents-boost-market/#.XKS4Opgzbcs'}
+2025-12-28 20:50:11 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/cyberpunkgame/comments/174itxx/why_didnt_v_not_just_record_yonibou_murdering/.json> (referer: https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50)
+2025-12-28 20:50:11 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/cyberpunkgame/comments/174itxx/why_didnt_v_not_just_record_yonibou_murdering/.json>
+{'author': 'Appropriate-Fudge810',
+ 'body': '',
+ 'created_utc': 1696937320.0,
+ 'keyword': 'tech_market',
+ 'num_comments': 628,
+ 'permalink': 'https://reddit.com/r/cyberpunkgame/comments/174itxx/why_didnt_v_not_just_record_yonibou_murdering/',
+ 'post_type': 'competitor_post',
+ 'score': 4110,
+ 'subreddit': 'cyberpunkgame',
+ 'title': "why didn't V not just record yonibou murdering saburo ? kiroshi "
+          'optics are top shop self tech nothing tops it on the market they '
+          'should have a camera/record feature.Is v stupid ?',
+ 'top_comments': [],
+ 'url': 'https://i.redd.it/has7an2n0dtb1.jpg'}
+2025-12-28 20:50:13 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/Showerthoughts/comments/1fk6cn4/high_tech_cars_that_rely_on_software_updates/.json> (referer: https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50)
+2025-12-28 20:50:13 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/Showerthoughts/comments/1fk6cn4/high_tech_cars_that_rely_on_software_updates/.json>
+{'author': 'Ocean2178',
+ 'body': '',
+ 'created_utc': 1726700879.0,
+ 'keyword': 'tech_market',
+ 'num_comments': 277,
+ 'permalink': 'https://reddit.com/r/Showerthoughts/comments/1fk6cn4/high_tech_cars_that_rely_on_software_updates/',
+ 'post_type': 'competitor_post',
+ 'score': 5359,
+ 'subreddit': 'Showerthoughts',
+ 'title': 'High tech cars that rely on software updates, subscription '
+          'services, and special dealer-provided maintenance will probably '
+          'tank the used car market in 20-30 years.',
+ 'top_comments': [],
+ 'url': 'https://www.reddit.com/r/Showerthoughts/comments/1fk6cn4/high_tech_cars_that_rely_on_software_updates/'}
+2025-12-28 20:50:14 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/ProgrammerHumor/comments/1lyd0t4/techcompaniesmarketing/.json> (referer: https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50)
+2025-12-28 20:50:14 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/ProgrammerHumor/comments/1lyd0t4/techcompaniesmarketing/.json>
+{'author': 'IntroductionSad3329',
+ 'body': 'Is it just me or does every recent headline feels more like a '
+         'campaign to scare off future devs? Instagram is full of it...\n'
+         '\n'
+         'Honestly, I’m losing trust in companies pushing this narrative. '
+         'Feels more like manipulation than progress.',
+ 'created_utc': 1752359565.0,
+ 'keyword': 'tech_market',
+ 'num_comments': 104,
+ 'permalink': 'https://reddit.com/r/ProgrammerHumor/comments/1lyd0t4/techcompaniesmarketing/',
+ 'post_type': 'competitor_post',
+ 'score': 8040,
+ 'subreddit': 'ProgrammerHumor',
+ 'title': 'techCompaniesMarketing',
+ 'top_comments': [],
+ 'url': 'https://i.redd.it/ob69m814sicf1.jpeg'}
+2025-12-28 20:50:17 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/science/comments/1kuusxv/a_new_uk_study_finds_that_companies_where/.json> (referer: https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50)
+2025-12-28 20:50:17 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/science/comments/1kuusxv/a_new_uk_study_finds_that_companies_where/.json>
+{'author': 'calliope_kekule',
+ 'body': '',
+ 'created_utc': 1748149971.0,
+ 'keyword': 'tech_market',
+ 'num_comments': 141,
+ 'permalink': 'https://reddit.com/r/science/comments/1kuusxv/a_new_uk_study_finds_that_companies_where/',
+ 'post_type': 'competitor_post',
+ 'score': 7981,
+ 'subreddit': 'science',
+ 'title': 'A new UK study finds that companies where employees are happier '
+          'consistently outperform the market – especially in tech. It takes '
+          'time, but the value is real.',
+ 'top_comments': [],
+ 'url': 'https://www.nature.com/articles/s41599-025-05024-2'}
+2025-12-28 20:50:21 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/p3od64/zillow_other_tech_firms_are_in_an_arms_race_to/.json> (referer: https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50)
+2025-12-28 20:50:21 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/p3od64/zillow_other_tech_firms_are_in_an_arms_race_to/.json>
+{'author': '_hiddenscout',
+ 'body': '',
+ 'created_utc': 1628871487.0,
+ 'keyword': 'tech_market',
+ 'num_comments': 3731,
+ 'permalink': 'https://reddit.com/r/technology/comments/p3od64/zillow_other_tech_firms_are_in_an_arms_race_to/',
+ 'post_type': 'competitor_post',
+ 'score': 23908,
+ 'subreddit': 'technology',
+ 'title': 'Zillow, Other Tech Firms Are in an ‘Arms Race’ To Buy Up American '
+          'Homes - "iBuyers" are gearing up to grow massively in the coming '
+          'years, with unforeseen consequences for the U.S. housing market.',
+ 'top_comments': [],
+ 'url': 'https://www.vice.com/en/article/93ymxz/zillow-other-tech-firms-are-in-an-arms-race-to-buy-up-american-homes'}
+2025-12-28 20:50:23 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/jobsearchhacks/comments/1fdr7sq/wtf_is_going_on_with_the_tech_job_market/.json> (referer: https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50)
+2025-12-28 20:50:23 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/jobsearchhacks/comments/1fdr7sq/wtf_is_going_on_with_the_tech_job_market/.json>
+{'author': 'QandA_monster',
+ 'body': 'My husband has been in senior exec-level tech jobs for several years '
+         'now. He has 15+ years of niche technical experience that’s in high '
+         'demand. An MBA. Presents and markets really well. I have personally '
+         'witnessed him get high-paying job offers within days of looking (and '
+         'sometimes just through inbound) maybe a dozen times. \n'
+         'He lost his job like many people in tech in spring. Since then, he’s '
+         'applied to more jobs than his whole life combined. He’s applied to '
+         'remote, non-remote, hybrid etc (we live in CA). He’s broadened his '
+         'search to go down 2-3 levels and 100s of thousand in pay. He’s '
+         'redone his resume through professional services. He’s doing custom '
+         'direct messaging etc. anything we can think of. In these 6 months of '
+         'looking and 100+ applications, he’s gotten a total of 4 HR screener '
+         'calls that just died. Felt like the positions weren’t even real. We '
+         'have savings but I’m starting to panic. This is the worst market '
+         'I’ve ever seen and I graduated in 2008. Any tips? Any hacks? I think '
+         'his skill level and seniority is actually hurting him but it is what '
+         'it is.\n'
+         '\n'
+         '[EDIT to add]: WOW amazed at the outpouring of support and sympathy. '
+         'Clearly this is a serious market problem if so many are experiencing '
+         'the same. I’m not sure how to process this or respond to the '
+         'situation. It just seems like you have to keep trying and hope for '
+         'the best.',
+ 'created_utc': 1725998127.0,
+ 'keyword': 'tech_market',
+ 'num_comments': 1272,
+ 'permalink': 'https://reddit.com/r/jobsearchhacks/comments/1fdr7sq/wtf_is_going_on_with_the_tech_job_market/',
+ 'post_type': 'competitor_post',
+ 'score': 2975,
+ 'subreddit': 'jobsearchhacks',
+ 'title': 'WTF is going on with the tech job market ',
+ 'top_comments': [],
+ 'url': 'https://www.reddit.com/r/jobsearchhacks/comments/1fdr7sq/wtf_is_going_on_with_the_tech_job_market/'}
+2025-12-28 20:50:25 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/apple/comments/1dl8dy9/apple_wont_roll_out_ai_tech_in_eu_market_over/.json> (referer: https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50)
+2025-12-28 20:50:25 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/apple/comments/1dl8dy9/apple_wont_roll_out_ai_tech_in_eu_market_over/.json>
+{'author': 'iMacmatician',
+ 'body': '',
+ 'created_utc': 1718987933.0,
+ 'keyword': 'tech_market',
+ 'num_comments': 1696,
+ 'permalink': 'https://reddit.com/r/apple/comments/1dl8dy9/apple_wont_roll_out_ai_tech_in_eu_market_over/',
+ 'post_type': 'competitor_post',
+ 'score': 3776,
+ 'subreddit': 'apple',
+ 'title': 'Apple Won’t Roll Out AI Tech In EU Market Over Regulatory Concerns',
+ 'top_comments': [],
+ 'url': 'https://www.bloomberg.com/news/articles/2024-06-21/apple-won-t-roll-out-ai-tech-in-eu-market-over-regulatory-concerns'}
+2025-12-28 20:50:28 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/cscareerquestions/comments/1nto6kw/psa_the_real_reason_youre_struggling_in_the_tech/.json> (referer: https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50)
+2025-12-28 20:50:28 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/cscareerquestions/comments/1nto6kw/psa_the_real_reason_youre_struggling_in_the_tech/.json>
+{'author': 'cs-grad-person-man',
+ 'body': '(TL;DR at bottom of post)\n'
+         '\n'
+         "First let's get one thing out of the way: I'm not suggesting that "
+         "you lie as well. That's an individual decision. I'm here just to "
+         'tell you about my experiences as being part of the hiring process '
+         'for a FAANG-adjacent company.\n'
+         '\n'
+         'Secondly, I just want to state right away that I believe this is an '
+         'issue that stems from the hiring / recruiter side more than it does '
+         'on the candidate side. We are the ones who have drilled into your '
+         'heads that you MUST have metrics, impacts and keywords or else your '
+         'resume is "trash". Candidates are simply doing what they need to do '
+         'to survive in this crazy market.\n'
+         '\n'
+         'With that out of the way.... let me tell you about my experiences.\n'
+         '\n'
+         'Every job posting that our team puts up receives roughly 2000 - 3000 '
+         'applicants within a day or two. Out of this 3000, maybe 300 make it '
+         'past the initial automated resume screen and online assessment. Out '
+         'of those 300, a recruiter might chat with 30-50. And from that pool, '
+         'only about 20-30 candidates ever make it to the initial phone screen '
+         'and subsequent onsites.\n'
+         '\n'
+         'Now here’s the part that really opened my eyes: once you’re sitting '
+         'on the other side of the table long enough, you start to notice '
+         'patterns, and one of the biggest is how much of what’s on those '
+         'resumes is either overstated, strategically worded, or just not '
+         'true.\n'
+         '\n'
+         'I’ve lost count of the number of times we’ve brought someone in who '
+         'claimed to have “architected a high-scale distributed system” and it '
+         'turned out they wrote a couple of endpoints under heavy supervision. '
+         'Or people who listed “launched a revenue-generating product used by '
+         'millions” when, digging deeper, they built an internal tool with a '
+         'handful of users. I’ve seen candidates inflate internship projects '
+         'into “production systems,” or even list companies that, when we '
+         'checked, they’d never actually worked at in any real capacity.\n'
+         '\n'
+         'A big one that’s become increasingly common is people lying about '
+         'the technology stacks they’ve used. You’d be shocked how many '
+         'resumes list technologies like Kubernetes, Terraform, or Kafka as '
+         '“production experience,” but when we ask follow-ups in the '
+         'interview, it’s clear they’ve maybe followed a tutorial or briefly '
+         'shadowed someone who worked with those tools.\n'
+         '\n'
+         'And here’s an important reality that most candidates (and even some '
+         'hiring managers) don’t fully realize: background checks almost never '
+         'verify WHAT you did. They usually just confirm your job title and '
+         'employment dates. So if someone says they built a large-scale React '
+         'application or ran infrastructure on AWS, there’s no background '
+         'check that’s going to expose that as false. Unless an interviewer '
+         'digs into the details, the exaggeration often goes completely '
+         'unchallenged.\n'
+         '\n'
+         'And the thing is, many of these candidates still get interviews. '
+         'Sometimes they even get offers. Not because they’re necessarily more '
+         'skilled, but because their resumes are packed with the right '
+         'keywords and “impact statements” that our systems and recruiters are '
+         'trained to look for. Meanwhile, a candidate who honestly describes '
+         'their experience with modest, accurate language often never even '
+         'gets a shot.\n'
+         '\n'
+         'This creates a really frustrating dynamic. The people who embellish '
+         'tend to stand out in the resume pile, which pressures others to do '
+         'the same just to keep up. And from where I’m sitting as a SWE '
+         'involved in this process, that pressure is entirely on us, the '
+         'hiring side, for building a system that rewards buzzwords and '
+         'inflated claims over substance and honesty.\n'
+         '\n'
+         'So if you’re sitting there wondering why you’re not getting '
+         'callbacks despite real skills and solid experience, it might not be '
+         'because you’re underqualified. It might just be that you’re '
+         'competing with a lot of resumes that have been heavily optimized, or '
+         'outright fabricated, for the hiring process. And unfortunately, '
+         'those are the ones that often float to the top.\n'
+         '\n'
+         'Our team specifically now mostly just relies on references or '
+         '"people who know people". We value that far more than trying to hire '
+         'someone who noone on the team can speak about.\n'
+         '\n'
+         '**TL;DR:**\n'
+         '\n'
+         '* People are inflating, exaggerating and lying on their resumes like '
+         "you wouldn't believe.\n"
+         '* The vast majority of honest candidates never even make it to the '
+         'recruiter screening\n'
+         "* I'm noticing it happen more and more (at least 70%+ of candidates "
+         'who make it to onsite). Every resume has tons of impact, tons of '
+         "metrics, tons of technologies. Yet the candidates can't speak about "
+         'any of it in the interview.\n'
+         '* I believe the blame is on the hiring side, not the candidates. '
+         "It's been drilled into your heads to have metrics, impacts, and "
+         'keywords to beat the ATS and impress recruiters\n'
+         '* Our team is shifting to mostly just hiring people based on '
+         'references instead. Far less risky.\n'
+         '\n'
+         "Has anyone else experienced this? I'm not sure what the solution is. "
+         'Like I said, our team is now focused more on references than '
+         "anything else but even that isn't a perfect system.",
+ 'created_utc': 1759166665.0,
+ 'keyword': 'tech_market',
+ 'num_comments': 371,
+ 'permalink': 'https://reddit.com/r/cscareerquestions/comments/1nto6kw/psa_the_real_reason_youre_struggling_in_the_tech/',
+ 'post_type': 'competitor_post',
+ 'score': 1767,
+ 'subreddit': 'cscareerquestions',
+ 'title': "[PSA] The real reason you're struggling in the tech market: Almost "
+          'EVERYONE is lying.',
+ 'top_comments': [],
+ 'url': 'https://www.reddit.com/r/cscareerquestions/comments/1nto6kw/psa_the_real_reason_youre_struggling_in_the_tech/'}
+2025-12-28 20:50:30 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/pcmasterrace/comments/1ibimjm/nvidia_loses_465bn_in_value_biggest_in_us_stock/.json> (referer: https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50)
+2025-12-28 20:50:30 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/pcmasterrace/comments/1ibimjm/nvidia_loses_465bn_in_value_biggest_in_us_stock/.json>
+{'author': 'epicalepical',
+ 'body': '',
+ 'created_utc': 1738008374.0,
+ 'keyword': 'tech_market',
+ 'num_comments': 432,
+ 'permalink': 'https://reddit.com/r/pcmasterrace/comments/1ibimjm/nvidia_loses_465bn_in_value_biggest_in_us_stock/',
+ 'post_type': 'competitor_post',
+ 'score': 6595,
+ 'subreddit': 'pcmasterrace',
+ 'title': 'Nvidia loses $465bn in value - biggest in US stock market history, '
+          'as DeepSeek sparks US tech sell-off',
+ 'top_comments': [],
+ 'url': 'https://www.theguardian.com/business/live/2025/jan/27/gsk-deal-oxford-university-cancer-vaccines-dollar-rises-after-trump-u-turn-colombia-tariffs-business-live?CMP=share_btn_url'}
+2025-12-28 20:50:32 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/pcgaming/comments/1ibim6n/nvidia_loses_465bn_in_value_biggest_in_us_stock/.json> (referer: https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50)
+2025-12-28 20:50:32 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/pcgaming/comments/1ibim6n/nvidia_loses_465bn_in_value_biggest_in_us_stock/.json>
+{'author': 'epicalepical',
+ 'body': '',
+ 'created_utc': 1738008349.0,
+ 'keyword': 'tech_market',
+ 'num_comments': 646,
+ 'permalink': 'https://reddit.com/r/pcgaming/comments/1ibim6n/nvidia_loses_465bn_in_value_biggest_in_us_stock/',
+ 'post_type': 'competitor_post',
+ 'score': 7747,
+ 'subreddit': 'pcgaming',
+ 'title': 'Nvidia loses $465bn in value - biggest in US stock market history, '
+          'as DeepSeek sparks US tech sell-off',
+ 'top_comments': [],
+ 'url': 'https://www.theguardian.com/business/live/2025/jan/27/gsk-deal-oxford-university-cancer-vaccines-dollar-rises-after-trump-u-turn-colombia-tariffs-business-live?CMP=share_btn_url'}
+2025-12-28 20:50:36 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1mkersp/goldman_sachs_economist_warns_gen_z_tech_workers/.json> (referer: https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50)
+2025-12-28 20:50:36 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1mkersp/goldman_sachs_economist_warns_gen_z_tech_workers/.json>
+{'author': 'lurker_bee',
+ 'body': '',
+ 'created_utc': 1754607359.0,
+ 'keyword': 'tech_market',
+ 'num_comments': 648,
+ 'permalink': 'https://reddit.com/r/technology/comments/1mkersp/goldman_sachs_economist_warns_gen_z_tech_workers/',
+ 'post_type': 'competitor_post',
+ 'score': 4660,
+ 'subreddit': 'technology',
+ 'title': 'Goldman Sachs economist warns Gen Z tech workers are first on the '
+          'chopping block as AI shows signs of shaking up the labor market',
+ 'top_comments': [],
+ 'url': 'https://finance.yahoo.com/news/goldman-sachs-economist-warns-gen-162037869.html'}
+2025-12-28 20:50:38 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=tech_market&sort=relevance&limit=50> (referer: None)
+2025-12-28 20:50:38 [scrapy] INFO: Closing spider (finished)
+2025-12-28 20:50:38 [scrapy] INFO: Stored json feed (15 items) in: posts/spiders/output/competitor_mentions_tech_market_2025-12-28T15-19-56+00-00.json
+2025-12-28 20:50:38 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 15014,
+ 'downloader/request_count': 17,
+ 'downloader/request_method_count/GET': 17,
+ 'downloader/response_bytes': 875905,
+ 'downloader/response_count': 17,
+ 'downloader/response_status_count/200': 17,
+ 'elapsed_time_seconds': 41.67247,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 12, 28, 15, 20, 38, 510489, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 7204996,
+ 'httpcompression/response_count': 17,
+ 'item_scraped_count': 15,
+ 'log_count/DEBUG': 34,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'request_depth_max': 1,
+ 'response_received_count': 17,
+ 'scheduler/dequeued': 17,
+ 'scheduler/dequeued/memory': 17,
+ 'scheduler/enqueued': 17,
+ 'scheduler/enqueued/memory': 17,
+ 'start_time': datetime.datetime(2025, 12, 28, 15, 19, 56, 838019, tzinfo=datetime.timezone.utc)}
+2025-12-28 20:50:38 [scrapy] INFO: Spider closed (finished)

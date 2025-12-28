@@ -1,0 +1,1210 @@
+2025-12-28 20:58:28 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50> (referer: None)
+2025-12-28 20:58:30 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/iphone/comments/14dozg3/tim_cook_showcasing_the_next_generation_of_apple/.json> (referer: https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50)
+2025-12-28 20:58:31 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/iphone/comments/14dozg3/tim_cook_showcasing_the_next_generation_of_apple/.json>
+{'author': 'INVEST_ONLY_IN_GOURD',
+ 'body': '',
+ 'created_utc': 1687204867.0,
+ 'keyword': 'apple_products',
+ 'num_comments': 942,
+ 'permalink': 'https://reddit.com/r/iphone/comments/14dozg3/tim_cook_showcasing_the_next_generation_of_apple/',
+ 'post_type': 'google_ranked',
+ 'score': 20451,
+ 'subreddit': 'iphone',
+ 'title': 'Tim Cook showcasing the next generation of Apple products',
+ 'top_comments': [{'author': 'Quicksonator',
+                   'body': 'Teleport definitely a cash grab. You need at least '
+                           'two',
+                   'score': 1700},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 1245},
+                  {'author': 'zerok_nyc',
+                   'body': 'Maybe it’s just me, but the car, jet pack, and '
+                           'teleport all seem reasonably priced by Apple '
+                           'standards.  \n'
+                           '\n'
+                           'Edit: Just realized the battery packs aren’t '
+                           'included.',
+                   'score': 940},
+                  {'author': 'GhettoFob',
+                   'body': 'Can’t wait to see what other colors the Apple '
+                           'Orange will come in.',
+                   'score': 494},
+                  {'author': 'tinseltoast',
+                   'body': 'The ship should be called apple sauce(r)',
+                   'score': 156},
+                  {'author': '[deleted]',
+                   'body': 'Can’t wait for my apple orange 🌟',
+                   'score': 155},
+                  {'author': 'kthrynnnn',
+                   'body': 'I thought this was real until the space ship 🫣',
+                   'score': 89},
+                  {'author': 'bugoy_dos',
+                   'body': 'They should name the the scooter. I Scoot.',
+                   'score': 71},
+                  {'author': '4paul',
+                   'body': 'This Tim Cook stuff is hilarious, can someone tell '
+                           'me why Tim Cook is all over this sub? I think it’s '
+                           'due to the Reddit protest stuff trending lately',
+                   'score': 38},
+                  {'author': '[deleted]',
+                   'body': 'I’m interested in the Apple iHouse',
+                   'score': 28}],
+ 'url': 'https://www.reddit.com/gallery/14dozg3'}
+2025-12-28 20:58:33 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/iphone/comments/1nn5w9k/apple_has_asked_suppliers_to_boost_production_of/.json> (referer: https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50)
+2025-12-28 20:58:33 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/iphone/comments/1nn5w9k/apple_has_asked_suppliers_to_boost_production_of/.json>
+{'author': 'Melodic-Range2667',
+ 'body': 'There is also reported high demand for the pros, the air so far '
+         'seems to be selling the least and is the least popular.\n'
+         '\n'
+         '[https://www.reuters.com/business/apple-has-asked-suppliers-boost-production-iphone-17-model-information-reports-2025-09-19/](https://www.reuters.com/business/apple-has-asked-suppliers-boost-production-iphone-17-model-information-reports-2025-09-19/)',
+ 'created_utc': 1758494388.0,
+ 'keyword': 'apple_products',
+ 'num_comments': 323,
+ 'permalink': 'https://reddit.com/r/iphone/comments/1nn5w9k/apple_has_asked_suppliers_to_boost_production_of/',
+ 'post_type': 'google_ranked',
+ 'score': 1892,
+ 'subreddit': 'iphone',
+ 'title': 'Apple has asked suppliers to boost production of Base Model 17s by '
+          '30-40%',
+ 'top_comments': [{'author': 'winterblink',
+                   'body': 'Not surprising, it seemed that the base model was '
+                           'going to be amazing with all the previously pro '
+                           'level features showing up at a cheaper price. \n'
+                           '\n'
+                           'Love my 17 pro so far but if I had less money to '
+                           'spend the standard 17 would be perfectly fine.',
+                   'score': 743},
+                  {'author': 'tubezninja',
+                   'body': 'Remember this is cyclical.\n'
+                           '\n'
+                           'In December/January, Apple is going to send out '
+                           'emails to the suppliers asking them to cut '
+                           'production. \n'
+                           '\n'
+                           '[News sources will (erroneously) read that as '
+                           'falling '
+                           'demand](https://9to5mac.com/2024/10/01/apple-cuts-iphone-16-orders-at-key-supplier-barclays-claims/) '
+                           'and scream “APPLE IS DOOMED!”\n'
+                           '\n'
+                           'They do it EVERY year.',
+                   'score': 190},
+                  {'author': 'neatgeek83',
+                   'body': 'Good. I emailed this to caudabe and asked them to '
+                           'come up with more cases for the base models. first '
+                           'time in 10 years i didnt have a day 1 caudabe '
+                           'sheath.',
+                   'score': 100},
+                  {'author': 'GlumIce852',
+                   'body': 'Got the 17 in lavender and I absolutely love it. '
+                           'And 30-40% is a lot. Apple wants to make sure they '
+                           'have enough for the holiday season',
+                   'score': 85},
+                  {'author': 'Keikobad',
+                   'body': 'Probably won’t happen, but — as a loyal 13 Mini '
+                           'owner — I’ll feel that there’s order in the '
+                           'universe if the proportion of Airs sold is roughly '
+                           'that of the proportion of Minis.',
+                   'score': 57},
+                  {'author': 'MisterSpicy',
+                   'body': 'I got the Air and love it. But on paper, the base '
+                           '17 makes the most sense for most people',
+                   'score': 56},
+                  {'author': 'Beercules1993',
+                   'body': 'I’m sad that air isn’t getting more love. I got '
+                           'air and absolutely love it',
+                   'score': 40},
+                  {'author': 'SadLas',
+                   'body': 'Apple has sold out of all base iPhone 17’s in '
+                           'Metro Atlanta. I’m so bummed because I really '
+                           'wanted to upgrade this weekend.',
+                   'score': 33},
+                  {'author': 'Redcarborundum',
+                   'body': 'Base model is actually discounted, because last '
+                           'year it started at the same price with only 128GB '
+                           'storage. This year it starts at 256GB. And of '
+                           'course the 120Hz screen is driving everybody nuts.',
+                   'score': 28},
+                  {'author': 'WakaiSenshi',
+                   'body': "I'm still getting the air",
+                   'score': 15}],
+ 'url': 'https://www.reddit.com/r/iphone/comments/1nn5w9k/apple_has_asked_suppliers_to_boost_production_of/'}
+2025-12-28 20:58:35 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/WallStreetbetsELITE/comments/1jws546/why_china_is_hard_to_replace_for_the_us_companies/.json> (referer: https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50)
+2025-12-28 20:58:35 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/WallStreetbetsELITE/comments/1jws546/why_china_is_hard_to_replace_for_the_us_companies/.json>
+{'author': 'Caldite',
+ 'body': 'Tim Cook explains why Apple manufactures products in China.\n'
+         '\n'
+         'The true reason is because of the skill, the quantity of skill in '
+         'one location, and the type of skill it is. Not because of labor cost '
+         'since China stopped being a low labour cost country many years ago.\n'
+         '\n'
+         'The Apple CEO elaborated on the advanced tooling and precision '
+         "required to produce the products and highlighted China's vocational "
+         'expertise in these areas.',
+ 'created_utc': 1744384065.0,
+ 'keyword': 'apple_products',
+ 'num_comments': 516,
+ 'permalink': 'https://reddit.com/r/WallStreetbetsELITE/comments/1jws546/why_china_is_hard_to_replace_for_the_us_companies/',
+ 'post_type': 'google_ranked',
+ 'score': 3046,
+ 'subreddit': 'WallStreetbetsELITE',
+ 'title': 'Why China is hard to replace for the US companies. Here, Tim Cook '
+          'explains why Apple manufactures products in China. The true reason '
+          'is because of the skill, the quantity of skill in one location, and '
+          'the type of skill it is. Not because of labor cost since China '
+          'stopped being a low labour cost...',
+ 'top_comments': [{'author': 'Successful-Train-259',
+                   'body': 'Wait, you mean there is a shortage of tooling '
+                           'engineers here in say... Mississippi? Our standard '
+                           'of education is very high in this country. /s',
+                   'score': 423},
+                  {'author': 'Rurumo666',
+                   'body': "TSMC can't even find enough qualified workers to "
+                           'staff their one fab in AZ.  China is actively '
+                           'outsourcing its low wage jobs, such as textile '
+                           'work, to African countries like Ethiopia.  '
+                           'Americans have very dusty, outdated ideas about '
+                           'Chinese manufacturing.',
+                   'score': 274},
+                  {'author': 'jackrabbit323',
+                   'body': 'Saying the US is going to do manufacturing the way '
+                           'China does is like a high school basketball player '
+                           "saying he's the next LeBron James and not a single "
+                           'college has offered a scholarship.\n'
+                           '\n'
+                           "We're so behind in the race we've been lapped "
+                           'several times and have an illusion we can still '
+                           'catch up.',
+                   'score': 85},
+                  {'author': 'Daily-Trader-247',
+                   'body': "He's right you know.  Somewhat.   \n"
+                           '\n'
+                           'He is into it for profit and cheap labor.\n'
+                           '\n'
+                           'But even the smallest manufactures in China have '
+                           'machinery that most machine shops in the USA '
+                           'wishes they could afford. \n'
+                           '\n'
+                           'I assume the China government is helping companies '
+                           'where in the USA if you want to start something '
+                           'you are really on your own.',
+                   'score': 73},
+                  {'author': 'Popular_Stick_8367',
+                   'body': 'die or mold makers is who he is talking about. In '
+                           'the US it can cost from $50k to millions and take '
+                           'up to 6 months to have made. In China it cost '
+                           'maybe $5k and can be done in a week or so. There '
+                           'are maybe a few hundred to a thousand people '
+                           'trained in this located in the entire USA but in '
+                           'China there are tens of thousands of people '
+                           'trained in one city alone. \n'
+                           '\n'
+                           '  \n'
+                           'This is the number one reason why small stuff is '
+                           'not made here, one small product like a bird '
+                           'feeder can require 5 seperate custom dies or '
+                           'molds. There is no way you can have those all made '
+                           'in the USA in a costly or timely manner compared '
+                           'to China. \n'
+                           '\n'
+                           'The USA can make large machinery though and we do '
+                           'a hell of a lot for the rest of the world. But we '
+                           "don't have the skill in die or mold making.",
+                   'score': 34},
+                  {'author': 'mrGeaRbOx',
+                   'body': "Because you're average conservative leaning guy in "
+                           'the midwest is strung out on drugs and/or drunk '
+                           "and probably beats his wife. They don't show up "
+                           "for work on time they don't stay at their station, "
+                           'we heard this during the factory owner  interviews '
+                           'about the Haitian migrants. \n'
+                           '\n'
+                           "It's all these good old boys in the midwest who "
+                           "aren't willing to actually do hard work being the "
+                           "real reason we can't have manufacturing in "
+                           'America.',
+                   'score': 20},
+                  {'author': 'notflashgordon1975',
+                   'body': 'China is still a much lower labour cost. What he '
+                           'means is that they are no longer the lowest.',
+                   'score': 11},
+                  {'author': '[deleted]',
+                   'body': 'Oh, so you mean a bunch of American dumb dumbs '
+                           'with 4th grade reading levels and a poor grasp of '
+                           "elementary level mathematics can't build smart "
+                           'phones? Imagine that.',
+                   'score': 11},
+                  {'author': 'Special_Beefsandwich',
+                   'body': 'This is why it’s good to send jobs to China and '
+                           'sell its products and services in usa. Its win '
+                           'win, \n'
+                           'Tim Cook is cooking',
+                   'score': 6},
+                  {'author': 'Any-Ad-446',
+                   'body': 'China cost of living is pretty low..From rent to '
+                           'healthcare..If Chinese wages seems low to '
+                           'americans those wages can afford these workers a '
+                           'lot of everyday products and housing..Much more '
+                           'than what americans receives with higher '
+                           'wages.Trump America first is another BS slogan for '
+                           'him like MAGA.',
+                   'score': 6}],
+ 'url': 'https://v.redd.it/u1iehyxe18ue1'}
+2025-12-28 20:58:37 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/todayilearned/comments/1cz8om9/til_that_apple_designs_and_tests_its_product/.json> (referer: https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50)
+2025-12-28 20:58:37 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/todayilearned/comments/1cz8om9/til_that_apple_designs_and_tests_its_product/.json>
+{'author': 'Brix001',
+ 'body': '',
+ 'created_utc': 1716512358.0,
+ 'keyword': 'apple_products',
+ 'num_comments': 664,
+ 'permalink': 'https://reddit.com/r/todayilearned/comments/1cz8om9/til_that_apple_designs_and_tests_its_product/',
+ 'post_type': 'google_ranked',
+ 'score': 13730,
+ 'subreddit': 'todayilearned',
+ 'title': 'TIL that Apple designs and tests its product boxes so that they '
+          'open at just the right speed',
+ 'top_comments': [{'author': 'PoopMobile9000',
+                   'body': 'I dated a girl who’s sister was a packaging '
+                           'engineer. Apple isn’t the only one spending money '
+                           'to optimize the unboxing process.',
+                   'score': 7648},
+                  {'author': '0utlook',
+                   'body': 'At one time Dell was tossing boxes off the roof of '
+                           'their office to test impact.',
+                   'score': 2860},
+                  {'author': 'GarysCrispLettuce',
+                   'body': 'And yet precision-positioning the cursor within a '
+                           'body of text with your finger is still a giant '
+                           "pain in the ass that I can't seem to master\n"
+                           '\n'
+                           'EDIT: I\'m so triggered by all the "hold down the '
+                           'space bar" comments that I refuse to do it out of '
+                           'petty minded spite',
+                   'score': 2219},
+                  {'author': 'hudson2_3',
+                   'body': 'Cue that guy showing off his brand new phone '
+                           'outside the Apple store and dropping it on the '
+                           'floor.',
+                   'score': 1895},
+                  {'author': 'RedSonGamble',
+                   'body': 'Just for fun they should design the most annoying '
+                           'and difficult to open box. Just clamshell wrapped '
+                           'inside but the outside is a thin cardboard with a '
+                           'really thick tape over where you’re supposed to '
+                           'pop it open. So when you try to open it it just '
+                           'rips in half',
+                   'score': 616},
+                  {'author': 'Dark4ce',
+                   'body': 'I remember when the boxes for the IphoneX farted. '
+                           'This was considered a major blunder and forced '
+                           'them to redesign the entire box.',
+                   'score': 521},
+                  {'author': 'SquawkandAwe',
+                   'body': 'I used to be in tech sales. Sat through a 30min '
+                           'apple training on the unboxing experience. It was '
+                           'unbelievably stupid.',
+                   'score': 293},
+                  {'author': 'BottAndPaid',
+                   'body': 'As a person that worked at apple doing "personal '
+                           'setup" can confirm and confirm it\'s fucking '
+                           'annoying because it slows the process down so '
+                           'much.',
+                   'score': 170},
+                  {'author': '[deleted]',
+                   'body': 'Yeah, I believe it. Unboxing a device is part of '
+                           "the experience of owning it. I don't think that's "
+                           'a mystery to anyone.',
+                   'score': 120},
+                  {'author': 'Acegk',
+                   'body': 'They are nice boxes, which either go straight in '
+                           'the trash/"recycled", repurposed as oddly sized '
+                           'drawer organizers, or placed in the darkest '
+                           'reaches of a closet. \n'
+                           '\n'
+                           'I usually keep boxes for easy RMA packaging, then '
+                           "discard them a year or two later. I'd rather the "
+                           'box be able to be repurposed, like the half dozen '
+                           'ugly shoe boxes I use as closet storage '
+                           'containers. At least the shoe boxes can be reused. '
+                           'Trying to open an apple product box after the '
+                           'initial unboxing is unnecessarily difficult',
+                   'score': 100}],
+ 'url': 'https://www.fastcompany.com/90916642/unboxing-the-delightful-ux-of-apples-boxes'}
+2025-12-28 20:58:38 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/apple/comments/1ofc3pk/apples_iphone_air_experiment_fails_as_supply/.json> (referer: https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50)
+2025-12-28 20:58:38 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/apple/comments/1ofc3pk/apples_iphone_air_experiment_fails_as_supply/.json>
+{'author': 'MareViewer',
+ 'body': '',
+ 'created_utc': 1761346915.0,
+ 'keyword': 'apple_products',
+ 'num_comments': 576,
+ 'permalink': 'https://reddit.com/r/apple/comments/1ofc3pk/apples_iphone_air_experiment_fails_as_supply/',
+ 'post_type': 'google_ranked',
+ 'score': 1435,
+ 'subreddit': 'apple',
+ 'title': "Apple's iPhone Air Experiment Fails as Supply Chain Cuts Production "
+          'by 80%',
+ 'top_comments': [{'author': 'hellofriend19',
+                   'body': 'So this is how mini users used to feel :(',
+                   'score': 847},
+                  {'author': 'Just_Maintenance',
+                   'body': 'At this rate I think we will end with just  yearly '
+                           '3 iPhone lineup. Base, Pro and Pro Max.  \n'
+                           'Maybe an extra "SE" every a few years.',
+                   'score': 464},
+                  {'author': 'ultraHDs',
+                   'body': 'Just price the iPhone Air reasonably. The pricing '
+                           'doesn’t justify the poorer camera and speaker',
+                   'score': 379},
+                  {'author': 'caliform',
+                   'body': "I wouldn't mind if the amount of articles "
+                           'portending the death of the iPhone Air and how '
+                           'much of a disappointment it supposedly is fell by '
+                           '80%, too',
+                   'score': 203},
+                  {'author': 'SophonParticle',
+                   'body': 'I honestly don’t know why it’s not selling. I like '
+                           'mine.\n'
+                           '\n'
+                           'Edit: I like my Air and some people in the '
+                           'comments are mad at me. 😒',
+                   'score': 116},
+                  {'author': 'toekneegg',
+                   'body': 'Just bought mine today. Absolutely love it.',
+                   'score': 100},
+                  {'author': 'dissected_gossamer',
+                   'body': 'Apple is a multi-trillion dollar company. It can '
+                           'afford to experiment with various models and see '
+                           'what sticks.',
+                   'score': 85},
+                  {'author': 'Oldpuzzlehead',
+                   'body': 'Samsung did the same thing. Thin is not in.',
+                   'score': 78},
+                  {'author': 'wanjuggler',
+                   'body': 'I can think of mini reasons to revisit this',
+                   'score': 44},
+                  {'author': 'MyLastNewAccount_',
+                   'body': 'This article again? It’s been the same article '
+                           'respun for days in a row',
+                   'score': 34}],
+ 'url': 'https://www.macrumors.com/2025/10/22/iphone-air-supply-chain-cuts/'}
+2025-12-28 20:58:40 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1o9k6ir/apple_said_to_cut_iphone_air_production_amid/.json> (referer: https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50)
+2025-12-28 20:58:40 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1o9k6ir/apple_said_to_cut_iphone_air_production_amid/.json>
+{'author': 'ControlCAD',
+ 'body': '',
+ 'created_utc': 1760754417.0,
+ 'keyword': 'apple_products',
+ 'num_comments': 618,
+ 'permalink': 'https://reddit.com/r/technology/comments/1o9k6ir/apple_said_to_cut_iphone_air_production_amid/',
+ 'post_type': 'google_ranked',
+ 'score': 1942,
+ 'subreddit': 'technology',
+ 'title': 'Apple Said to Cut iPhone Air Production Amid Underwhelming Sales',
+ 'top_comments': [{'author': 'someexgoogler',
+                   'body': 'They want to make a thinner phone, but they refuse '
+                           'to make a shorter phone.',
+                   'score': 1353},
+                  {'author': '[deleted]', 'body': '[deleted]', 'score': 1009},
+                  {'author': 'TLKimball',
+                   'body': 'I remember be downvoted for asking “who wants '
+                           'this.”  I guess not as many as expected.',
+                   'score': 787},
+                  {'author': 'amacey3000',
+                   'body': 'Really love my iPhone Air for what it’s worth. '
+                           'Battery life hasn’t been an issue at all. Feels '
+                           'great in hand (I don’t use a case), and it’s light '
+                           'enough that I still find myself double checking '
+                           'I’ve got it in my pocket.',
+                   'score': 352},
+                  {'author': 'Adventurous_Web_7961',
+                   'body': 'Bring back the mini!',
+                   'score': 241},
+                  {'author': '8bitmorals',
+                   'body': 'Is a thin phone with a humpback, but the only '
+                           'reason is thin is because they sell you the '
+                           'battery as an accessory',
+                   'score': 150},
+                  {'author': 'swrrrrg',
+                   'body': 'I don’t understand the point of this when it’s '
+                           'nearly ½” longer than the phone I have. I want a '
+                           'smaller iPhone; not a bigger one.',
+                   'score': 57},
+                  {'author': 'Silicon_Knight',
+                   'body': 'Didn’t they also just say it sold out instantly in '
+                           'china? '
+                           'https://www.macrumors.com/2025/10/17/iphone-air-sells-out-in-china/',
+                   'score': 48},
+                  {'author': 'BeginningFew8188',
+                   'body': 'Base iPhone 17 is way better than anything else. '
+                           'Buy that',
+                   'score': 44},
+                  {'author': 'davidecibel',
+                   'body': 'I’m still waiting for the iPhone THICC with no '
+                           'camera bulge and a battery that lasts 3 days.',
+                   'score': 38}],
+ 'url': 'https://www.macrumors.com/2025/10/17/iphone-air-production-to-be-cut-amid-lower-sales/'}
+2025-12-28 20:58:43 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1hjkana/airpods_sales_totaled_over_18_billion_last_year/.json> (referer: https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50)
+2025-12-28 20:58:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1hjkana/airpods_sales_totaled_over_18_billion_last_year/.json>
+{'author': 'chrisdh79',
+ 'body': '',
+ 'created_utc': 1734818494.0,
+ 'keyword': 'apple_products',
+ 'num_comments': 945,
+ 'permalink': 'https://reddit.com/r/technology/comments/1hjkana/airpods_sales_totaled_over_18_billion_last_year/',
+ 'post_type': 'google_ranked',
+ 'score': 6780,
+ 'subreddit': 'technology',
+ 'title': 'AirPods sales totaled over $18 billion last year, more than all of '
+          "Nintendo | Earbuds likely to become Apple's 3rd biggest product "
+          'behind iPhone and Mac',
+ 'top_comments': [{'author': 'KingDave46',
+                   'body': 'I know multiple people who’ve bought them more '
+                           'than once cause they lost them so that’s a plus '
+                           'for Apple too',
+                   'score': 2591},
+                  {'author': '[deleted]', 'body': '[deleted]', 'score': 1216},
+                  {'author': 'Grendel832',
+                   'body': 'Why did Nintendo catch a stray here? lol',
+                   'score': 584},
+                  {'author': 'rnilf',
+                   'body': "They've come a long way from people mocking them "
+                           "for looking like q-tips sticking out of someone's "
+                           'ears.',
+                   'score': 211},
+                  {'author': 'RAITguy',
+                   'body': "I'm sure the 2 year lifespan and headphone jack "
+                           'removal have something to do with it',
+                   'score': 210},
+                  {'author': 'Time-Caterpillar4103',
+                   'body': 'The guy who runs ifixit is pretty clear about his '
+                           'hatred of these because you absolutely can’t '
+                           'repair them.',
+                   'score': 180},
+                  {'author': 'LarryLobster69',
+                   'body': 'I just wish the battery life wasnt so atrocious, i '
+                           'got some jbl ear buds that last 10 hours and with '
+                           'the charging case up to 32… $40 on Amazon',
+                   'score': 96},
+                  {'author': 'the_midnight_society',
+                   'body': "I just can't get on board with paying $200+ on a "
+                           'pair of buds. Especially since I see so many lost '
+                           "at my workplace. I guess if you've got the money "
+                           'to burn.',
+                   'score': 68},
+                  {'author': 'HighOnGoofballs',
+                   'body': 'I wanted to hate them but my mom got me a pair and '
+                           'they honestly work amazingly well',
+                   'score': 67},
+                  {'author': 'littleemp',
+                   'body': 'Makes perfect sense. You cant beat the convenience '
+                           'aspect of it.\n'
+                           '\n'
+                           'Having a competent, decent quality audio solution '
+                           'available at all times and small enough to be part '
+                           "of someone's EDC. Also it just works.",
+                   'score': 62}],
+ 'url': 'https://www.techspot.com/news/106057-airpods-sales-totaled-over-18-billion-last-year.html'}
+2025-12-28 20:58:45 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/apple/comments/1j2lxjc/tim_cook_teases_new_apple_product_this_week/.json> (referer: https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50)
+2025-12-28 20:58:45 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/apple/comments/1j2lxjc/tim_cook_teases_new_apple_product_this_week/.json>
+{'author': 'Fer65432_Plays',
+ 'body': '',
+ 'created_utc': 1741017588.0,
+ 'keyword': 'apple_products',
+ 'num_comments': 945,
+ 'permalink': 'https://reddit.com/r/apple/comments/1j2lxjc/tim_cook_teases_new_apple_product_this_week/',
+ 'post_type': 'google_ranked',
+ 'score': 4842,
+ 'subreddit': 'apple',
+ 'title': 'Tim Cook teases new Apple product this week: ‘There’s something in '
+          'the air’',
+ 'top_comments': [{'author': '2hype2wype',
+                   'body': 'AirTag 2 confirmed lets go',
+                   'score': 2597},
+                  {'author': 'Austin78703',
+                   'body': 'Macbook Air. It says it right in the article.',
+                   'score': 2178},
+                  {'author': 'kshiau', 'body': 'AirPods Air', 'score': 1635},
+                  {'author': 'XmasRights',
+                   'body': 'Airport Returns 🙏🏽',
+                   'score': 769},
+                  {'author': 'No_Sail_6576',
+                   'body': 'This is the rumoured M4 Mac Air\n'
+                           '\n'
+                           '&gt;This a not-so-subtle hint that Apple will '
+                           'announce a new MacBook Air this week. The new '
+                           'MacBook Air is expected to be powered by an M4 '
+                           'chip and will be available in the same 13-inch and '
+                           '15-inch designs as the current model.',
+                   'score': 272},
+                  {'author': 'dopedub',
+                   'body': '*...that night, the stars are bright, Fernando*  🎵',
+                   'score': 214},
+                  {'author': '[deleted]',
+                   'body': 'Apple Air. Fresh air for just 9.99/month.',
+                   'score': 166},
+                  {'author': '[deleted]',
+                   'body': 'INTRODUCING THE BRAND NEW M4 MACBOOK AIR.\n'
+                           '\n'
+                           '50% faster than the M1 macbook air and\n'
+                           '100% faster than the Intel based macbook air.\xa0\n'
+                           '\n'
+                           'quote me on this\xa0',
+                   'score': 116},
+                  {'author': 'g_e_r_b',
+                   'body': 'AirTags are now Apple Intelligence compatible. '
+                           'They sprout little legs and find their way back to '
+                           'your home.',
+                   'score': 99},
+                  {'author': 'Misterjq',
+                   'body': 'Polishing Cloth Air! So light you can’t actually '
+                           'see or feel it. And you’re gonna love it….',
+                   'score': 71}],
+ 'url': 'https://9to5mac.com/2025/03/03/tim-cook-teases-new-apple-product-this-week-theres-something-in-the-air/'}
+2025-12-28 20:58:49 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/gadgets/comments/1cc26z3/apple_slashes_vision_pro_production_cancels_2025/.json> (referer: https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50)
+2025-12-28 20:58:49 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/gadgets/comments/1cc26z3/apple_slashes_vision_pro_production_cancels_2025/.json>
+{'author': 'chrisdh79',
+ 'body': '',
+ 'created_utc': 1713975136.0,
+ 'keyword': 'apple_products',
+ 'num_comments': 2458,
+ 'permalink': 'https://reddit.com/r/gadgets/comments/1cc26z3/apple_slashes_vision_pro_production_cancels_2025/',
+ 'post_type': 'google_ranked',
+ 'score': 16026,
+ 'subreddit': 'gadgets',
+ 'title': 'Apple slashes Vision Pro production, cancels 2025 model in response '
+          'to plummeting demand',
+ 'top_comments': [{'author': 'trey74',
+                   'body': 'You mean no one wants a Oculus for 6-8 times the '
+                           "price?  I'm simply SHOCKED.\n"
+                           '\n'
+                           'ETA - thank you /u/derangedkilr, I stand '
+                           "corrected, it's 17 times more than the Oculus "
+                           'Quest 2.  LOL',
+                   'score': 3381},
+                  {'author': '[deleted]',
+                   'body': 'Dang. Cut forecast from 800k units to 400-450k '
+                           "units. That is huge.  I wouldn't be surprised if "
+                           "it gets cut again or doesn't make those sale "
+                           'forecasts.  Basically everyone that wanted one '
+                           'order one already.\n'
+                           '\n'
+                           'I wonder why they had such huge sales expectations '
+                           'with a $3,500 price tag.  That is basically '
+                           'business price territory and I am not really sure '
+                           'how big businesses are utilizing this kind of '
+                           'stuff.  I can see them ordering a few to test and '
+                           'play around with, but not say order 10, 15, 20 for '
+                           'a conference room (or for remote stuff) so '
+                           'everyone can view the same 3D model of whatever.  '
+                           'Or a department purchase one for everyone.\n'
+                           '\n'
+                           'Could also just be poor timing. With inflation, '
+                           'budget cuts and stuff, becomes hard to justify a '
+                           '$3,500 product when it might be challenging to '
+                           "justify it's cost and the software that will no "
+                           'doubt costs thousands or hundreds of thousands to '
+                           'buy or develop your business use case software. '
+                           "Plus if the software just isn't there now, there "
+                           'will be lag time on businesses picking these '
+                           'things up.',
+                   'score': 3046},
+                  {'author': 'Back2Murder',
+                   'body': 'If this were anywhere around the 1000€ range I’d '
+                           'be interested. But the current price is frankly '
+                           'just way too out there for a device that has no '
+                           'clear use case.',
+                   'score': 1712},
+                  {'author': 'WordsWithSam',
+                   'body': 'Who could have seen this coming? Besides everyone, '
+                           'of course.',
+                   'score': 565},
+                  {'author': 'Chemical_Extreme4250',
+                   'body': 'This thing looks amazing, and I’d love to have one '
+                           'if it could be changed in 2 ways:\n'
+                           '\n'
+                           '1. Make it a display on my face that can handle '
+                           'whatever I send to it.\n'
+                           '\n'
+                           '2. Price is outrageous. Absolute max I can see '
+                           'people being willing to spend on this is $1,500. '
+                           '$3,500 is crazy expensive in a world that’s '
+                           'pricing people out of being alive.',
+                   'score': 497},
+                  {'author': 'QAPetePrime',
+                   'body': '“The team will be repurposed to create the '
+                           'long-awaited calculator app for the iPad.”',
+                   'score': 283},
+                  {'author': 'EnolaGayFallout',
+                   'body': 'Gonna buy 1 brand new sealed. Keep for 20 years.\n'
+                           '\n'
+                           'Sell in auction for 100k',
+                   'score': 178},
+                  {'author': 'cannibalistiic',
+                   'body': 'Maybe slash the price instead',
+                   'score': 154},
+                  {'author': 'lateral_moves',
+                   'body': 'I watched a Steve Jobs speech recently where he '
+                           "goes on to say people don't care about amazing "
+                           'tech, they just want something that does something '
+                           'they want to do. He says how having a great piece '
+                           'of tech and trying to sell it to a customer is a '
+                           'waste of time. They have to find out what the '
+                           'person wants, and just deliver that, no matter '
+                           'what tech it took to do so. Tim Cook needs to '
+                           'watch it. He seems to enjoy doing the opposite.',
+                   'score': 143},
+                  {'author': 'Stillwater215',
+                   'body': 'I still find myself asking: who is the market for '
+                           'this? Do they think that there will be widespread '
+                           'adaptation like there was for the iPhone? If so, '
+                           'I’m not seeing it. I can see it being a niche '
+                           'product for niche developers, but nothing that '
+                           'will appeal to a wider base.',
+                   'score': 110}],
+ 'url': 'https://www.techspot.com/news/102727-apple-have-slashed-vision-pro-production-canceled-next.html'}
+2025-12-28 20:58:51 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/apple/comments/1pt6ro5/apple_will_launch_20_new_products_next_year_heres/.json> (referer: https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50)
+2025-12-28 20:58:51 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/apple/comments/1pt6ro5/apple_will_launch_20_new_products_next_year_heres/.json>
+{'author': 'iMacmatician',
+ 'body': '',
+ 'created_utc': 1766427581.0,
+ 'keyword': 'apple_products',
+ 'num_comments': 405,
+ 'permalink': 'https://reddit.com/r/apple/comments/1pt6ro5/apple_will_launch_20_new_products_next_year_heres/',
+ 'post_type': 'google_ranked',
+ 'score': 2057,
+ 'subreddit': 'apple',
+ 'title': 'Apple will launch 20+ new products next year, here’s what’s coming',
+ 'top_comments': [{'author': 'iMacmatician',
+                   'body': 'Winter–Spring 2026:\n'
+                           '\n'
+                           '&gt;* iPhone 17e: A19 chip, Center Stage front '
+                           'camera, Dynamic Island\n'
+                           '&gt;* Base iPad: Updated chip, likely with Apple '
+                           'Intelligence support\n'
+                           '&gt;* M4 iPad Air: Spec bump upgrade to M4 chip\n'
+                           '&gt;* AirTag 2: New Ultra Wideband chip with '
+                           'improved range, security upgrades\n'
+                           '&gt;* MacBook: A-series iPhone chip, fun colors, '
+                           'low cost\n'
+                           '&gt;* M5 MacBook Air: Same design, but new M5 chip '
+                           'and likely refreshed color options\n'
+                           '&gt;* MacBook Pro with M5 Pro and \\[M5\\] Max: '
+                           '14-inch and 16-inch models with high-end M5 chips\n'
+                           '&gt;* Apple Studio Display 2: 120Hz ProMotion '
+                           'support, HDR\n'
+                           '&gt;* Second Mac Display: Two Mac displays are '
+                           'coming, so this might be a new Pro Display XDR\n'
+                           '&gt;* Apple TV 4K with A17 Pro: Upgraded chip for '
+                           'Apple Intelligence support, possibly built-in '
+                           'camera\n'
+                           '&gt;* HomePod Touch: Brand new product with 7-inch '
+                           'touch screen, centered around AI Siri\n'
+                           '&gt;* HomePod mini 2: New chip, audio '
+                           'improvements, and more\n'
+                           '\n'
+                           'Summer 2026:\n'
+                           '\n'
+                           '&gt;* M5 Mac mini: M5 and M5 Pro versions with '
+                           'minimal other changes\n'
+                           '&gt;* M5 Mac Studio: M5 Max option and also a '
+                           'brand new M5 Ultra chip\n'
+                           '\n'
+                           'Fall 2026:\n'
+                           '\n'
+                           '&gt;* iPhone 18 Pro: A20 Pro chip, under-display '
+                           'Face ID for smaller Dynamic Island, C2 modem\n'
+                           '&gt;* iPhone 18 Pro Max: Bigger battery, variable '
+                           'aperture camera, more\n'
+                           '&gt;* iPhone Fold / Ultra: Book-style wide design, '
+                           'titanium finish, crease-free display\n'
+                           '&gt;* AirPods Pro 3 w/ cameras: Built-in cameras '
+                           'to power AI features like visual intelligence\n'
+                           '&gt;* Apple Watch Series 12: New S-class chip, '
+                           'possibly expanded health sensors and Touch ID\n'
+                           '&gt;* Apple Watch Ultra 4: Possibly new health '
+                           'sensors, Touch ID, more\n'
+                           '&gt;* iPad mini w/ OLED: New A20 Pro chip, OLED '
+                           'display\n'
+                           '&gt;* M6 MacBook Pro: Major redesign, thinner and '
+                           'lighter, OLED touch-equipped display\n'
+                           '\n'
+                           '2026, no specific timeframe:\n'
+                           '\n'
+                           '&gt;* Apple Security Camera: First-party smart '
+                           'home accessory with HomeKit Secure Video tie-in\n'
+                           '&gt;* Apple Video Doorbell: Face ID could power '
+                           'integration with smart locks\n'
+                           '&gt;* Apple Glasses / Vision: Pair with iPhone, AI '
+                           'features centered around Siri and built-in cameras',
+                   'score': 991},
+                  {'author': 'olluz',
+                   'body': 'Is it the same AppleTV that was going to be '
+                           'released this year?',
+                   'score': 908},
+                  {'author': 'DrSans8',
+                   'body': 'Maybe the new airpods max is the friends we made '
+                           'along the way',
+                   'score': 220},
+                  {'author': 'perchance2cream',
+                   'body': 'Mother of God guys just fix your damn software',
+                   'score': 107},
+                  {'author': 'javiergame4',
+                   'body': 'No way ultra 4 coming 2026',
+                   'score': 43},
+                  {'author': 'TLRPM',
+                   'body': 'Down for a new mini',
+                   'score': 40},
+                  {'author': 'Kaninivi',
+                   'body': 'Bla. Just fix the software',
+                   'score': 37},
+                  {'author': '100000cuckooclocks',
+                   'body': "I just wish they'd go back to offering a small "
+                           'format phone. My 13 Mini is already pushing it for '
+                           'how big I can comfortably hold and fit in my '
+                           "pockets, and it's not going to last forever "
+                           '(thanks to planned obsolescence). I just want a '
+                           'small phone with a good camera.',
+                   'score': 33},
+                  {'author': 'AfrolessNinja',
+                   'body': 'I miss the days of a simple lineup. Hope next CEO '
+                           'simplifies.',
+                   'score': 29},
+                  {'author': 'garylapointe',
+                   'body': "When it's the next version of an already existing "
+                           'product, I don\'t consider it to be "new".\n'
+                           '\n'
+                           'The HomePod Touch, doorbell, Fold, camera, '
+                           'glasses, and new screen are all that are "new", '
+                           'the other 15+ products are expected to come out '
+                           'every year.\n'
+                           '\n'
+                           'The Air Pods with a camera seems like it might be '
+                           'significantly different enough to count as a new '
+                           'model too. Not just an every year or three '
+                           'refresh...',
+                   'score': 23}],
+ 'url': 'https://9to5mac.com/2025/12/22/apple-will-launch-20-new-products-next-year-heres-whats-coming/'}
+2025-12-28 20:58:53 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1odjv08/apple_is_drastically_cutting_iphone_air/.json> (referer: https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50)
+2025-12-28 20:58:53 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1odjv08/apple_is_drastically_cutting_iphone_air/.json>
+{'author': 'Arthur_Morgan44469',
+ 'body': '',
+ 'created_utc': 1761165592.0,
+ 'keyword': 'apple_products',
+ 'num_comments': 617,
+ 'permalink': 'https://reddit.com/r/technology/comments/1odjv08/apple_is_drastically_cutting_iphone_air/',
+ 'post_type': 'google_ranked',
+ 'score': 2422,
+ 'subreddit': 'technology',
+ 'title': "Apple is 'drastically' cutting iPhone Air production, report says, "
+          "after new survey reveals 'virtually no demand' | Fortune",
+ 'top_comments': [{'author': 'ds11',
+                   'body': "Best explanation for the model I've heard is that "
+                           "it's a demo of one side of a folding phone. But "
+                           "consumers don't care about ridiculously thin "
+                           "phones anymore since it's pretty common knowledge "
+                           'that thin = less battery.',
+                   'score': 1871},
+                  {'author': 'Kaizenno',
+                   'body': 'Now make an iPhone Brick with 72 hour battery '
+                           'life.',
+                   'score': 469},
+                  {'author': 'tm3_to_ev6',
+                   'body': 'The iPhone Air seems to be a solution in search of '
+                           'a problem (how many people actually find the base '
+                           'iPhone to be too heavy?). While the Air may '
+                           'technically have a better chipset than the base '
+                           "iPhone, 99% of people won't notice in day-to-day "
+                           'use, but they likely will notice the lower battery '
+                           'life and inferior camera/speakers. And they '
+                           'absolutely will notice the higher price.\n'
+                           '\n'
+                           'The Macbook Air works because it actually solves a '
+                           'real problem (regular laptops being too heavy for '
+                           "a lot of people), and it's meaningfully cheaper "
+                           'than the Pro which makes up for its functional '
+                           'deficiencies (lower-refresh screen, fewer '
+                           'Thunderbolt ports, no HDMI/SD, etc).',
+                   'score': 346},
+                  {'author': 'helly1080',
+                   'body': 'The phone no one asked for is not flying off the '
+                           'shelves?\n'
+                           '\n'
+                           "That's wacky.",
+                   'score': 108},
+                  {'author': 'AppleTree98',
+                   'body': 'From the article. Read it since I had no idea what '
+                           'this phone model was- Just how low is demand, '
+                           'exactly? According to Nikkei, which spoke to '
+                           'multiple sources briefed on the matter, Apple will '
+                           'slash iPhone Air production orders to nearly “end '
+                           'of production” levels. One supply chain manager '
+                           'said production orders, starting in November, will '
+                           'be “less than 10% of the volume compared with '
+                           'September.” Yikes.\n'
+                           '\n'
+                           'This report comes just weeks after Apple launched '
+                           'the iPhone Air in China, although this seems to '
+                           'suggest demand outside of the Chinese market is '
+                           'particularly weak for Apple’s thinnest and '
+                           'lightest phone yet.',
+                   'score': 76},
+                  {'author': 'hk317',
+                   'body': 'I really wanted to get the Air but when I held one '
+                           'it was too big/unwieldy in one hand. I just want a '
+                           'phone that can replace my 13 mini. Something '
+                           'lightweight and easy to use with one hand. I’ll '
+                           "even sacrifice some battery life. I don't live in "
+                           'the woods. Guess I’ll be replacing the battery on '
+                           'my mini.\xa0',
+                   'score': 38},
+                  {'author': '__GayFish__',
+                   'body': 'Just bring the mini back',
+                   'score': 33},
+                  {'author': 'truesy',
+                   'body': "i think there's a place for a cheaper, colorful "
+                           "iphone. an 'air' iphone doesn't really mean much. "
+                           "and i'm assuming the people dropping $$$ on new "
+                           'iphones every release are usually the ones buying '
+                           'the pros. the appeal of new phones, in general, is '
+                           'low.',
+                   'score': 29},
+                  {'author': 'Pankosmanko',
+                   'body': 'I love my Air. The speaker is the only real '
+                           'downside. I have nerve damage in my hands so a '
+                           'lightweight phone is massively appealing to me',
+                   'score': 26},
+                  {'author': 'scrndude',
+                   'body': 'I really love my Air. I switched from a 15 Pro Max '
+                           'bc I don’t take many pics, I WFH so set my phone '
+                           'on a charger most of the day, and it is SO much '
+                           'lighter than the Pro phone. Especially when using '
+                           'a popsocket or something, it’s way more '
+                           'comfortable having less weight on that finger.',
+                   'score': 26}],
+ 'url': 'https://fortune.com/2025/10/22/apple-iphone-air-demand-weak-production-cuts-vs-17-pro/'}
+2025-12-28 20:58:56 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/gadgets/comments/1oe3913/apple_lowers_iphone_air_orders_to_end_of/.json> (referer: https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50)
+2025-12-28 20:58:56 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/gadgets/comments/1oe3913/apple_lowers_iphone_air_orders_to_end_of/.json>
+{'author': 'diacewrb',
+ 'body': '',
+ 'created_utc': 1761226045.0,
+ 'keyword': 'apple_products',
+ 'num_comments': 750,
+ 'permalink': 'https://reddit.com/r/gadgets/comments/1oe3913/apple_lowers_iphone_air_orders_to_end_of/',
+ 'post_type': 'google_ranked',
+ 'score': 3734,
+ 'subreddit': 'gadgets',
+ 'title': 'Apple lowers iPhone Air orders to "end of production" levels',
+ 'top_comments': [{'author': 'ArchusKanzaki',
+                   'body': 'Well, as an anecdote, currently all Iphone 17 are '
+                           'out-of-stock in Singapore. Fastest shipment will '
+                           'be on November. Pro still exist in some stores, '
+                           'while Pro Max is getting more out-of-stock '
+                           'compared to Pro in several places. \n'
+                           '\n'
+                           'Meanwhile, you can find plenty of Air. It is kinda '
+                           'a shame since I do like the screen size compared '
+                           'to Pro Max. But yeah.... Having one less camera '
+                           'compared to the cheaper Iphone 17 really does not '
+                           'sell it well to the customers, even if they are '
+                           'able to accept the battery compromise.',
+                   'score': 1102},
+                  {'author': 'newtoallofthis2',
+                   'body': 'Company is screaming out for a new CEO.\n'
+                           '\n'
+                           'Cook was the supply chain guy, and that was good '
+                           'for a while, but the lack of innovation and vision '
+                           "is starting to really show. Can't live on past "
+                           'glories forever',
+                   'score': 1058},
+                  {'author': 'TigerShark650',
+                   'body': 'Time to bring back the mini!',
+                   'score': 652},
+                  {'author': 'ChucklesInDarwinism',
+                   'body': 'I just want the keyboard to be good. I thought I '
+                           'was losing accuracy with my fingers due to age and '
+                           'when I type from my wife’s Samsung I never do a '
+                           'typo of any kind.',
+                   'score': 241},
+                  {'author': 'pizoisoned',
+                   'body': 'I mean it was not a good idea. No one cared that '
+                           'much about a thinner phone that also had terrible '
+                           'battery life.\n'
+                           '\n'
+                           'EDIT: To clarify, the issue isn’t that some people '
+                           'can use the Air fine because it fits their use '
+                           'case, it’s that the Air has a really niche use '
+                           'case and outside of that there are quite a few '
+                           'compromises for its size that don’t make it worth '
+                           'it- one of which is extended usage and battery '
+                           'life.',
+                   'score': 198},
+                  {'author': 'MrMCCO',
+                   'body': 'If they would have went for small (like iPhone 4S '
+                           'small) I would have been all over it. Still the '
+                           'best feeling iPhone I’ve had.  Thin who cares',
+                   'score': 195},
+                  {'author': 'cyclones3',
+                   'body': 'The marketing sucked for it, every iPhone '
+                           'commercial I have seen was for the Pro. When I '
+                           'show people my Air most of them didn’t even know '
+                           'it was available. I love how thin and light it is '
+                           'and now holding other thicker phones feels weird. '
+                           'Don’t need 3 cameras and the battery has been fine '
+                           'so far.',
+                   'score': 68},
+                  {'author': 'Putin_inyoFace',
+                   'body': 'Give the mini the pro camera and it would fly off '
+                           'the shelves.',
+                   'score': 46},
+                  {'author': 'GRAIN_DIV_20',
+                   'body': "What's the point of a thin phone? Are people still "
+                           'asking for this? Not to mention it still has a '
+                           "massive camera bump so it's not even really that "
+                           'thin',
+                   'score': 34},
+                  {'author': 'James_b0ndjr',
+                   'body': 'I have the Air and it’s great. The battery lasts '
+                           'nearly as long as the 17 and last just as long as '
+                           'my old iPhone 15 pro. Battery isn’t a problem. I, '
+                           'also, like most people shoot simple photos. Phone '
+                           'is plenty adequate considering its size.',
+                   'score': 29}],
+ 'url': 'https://www.notebookcheck.net/Apple-lowers-iPhone-Air-orders-to-end-of-production-levels.1144702.0.html'}
+2025-12-28 20:58:57 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/apple/comments/1o962v2/apple_said_to_cut_iphone_air_production_amid/.json> (referer: https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50)
+2025-12-28 20:58:58 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/apple/comments/1o962v2/apple_said_to_cut_iphone_air_production_amid/.json>
+{'author': 'itastesok',
+ 'body': '',
+ 'created_utc': 1760718655.0,
+ 'keyword': 'apple_products',
+ 'num_comments': 1474,
+ 'permalink': 'https://reddit.com/r/apple/comments/1o962v2/apple_said_to_cut_iphone_air_production_amid/',
+ 'post_type': 'google_ranked',
+ 'score': 3723,
+ 'subreddit': 'apple',
+ 'title': 'Apple Said to Cut iPhone Air Production Amid Underwhelming Sales',
+ 'top_comments': [{'author': 'Time_Entertainer_319',
+                   'body': 'With Samsung also cutting sales of Edge, it seems '
+                           'people generally don’t care for thin phones if '
+                           'they don’t have similar specs as regular ones.\n'
+                           '\n'
+                           'iPhone Air compromised on camera, battery and '
+                           'speakers to achieve the look, Samsung compromised '
+                           'a little on camera and battery.\n'
+                           '\n'
+                           'Seems the market cares more about specs than size.',
+                   'score': 2920},
+                  {'author': 'jacobp100',
+                   'body': 'Guess it’ll run for another year then be '
+                           'discontinued. Just like the mini',
+                   'score': 1015},
+                  {'author': 'kyleleblanc',
+                   'body': 'Well, I guess everyone who loves the iPhone Air '
+                           'will be in the exact same boat as all of us who '
+                           'loved the 12 and 13 mini.',
+                   'score': 560},
+                  {'author': 'nk15',
+                   'body': "I'm a simple man, all I want is an iPhone that "
+                           'lies flat on its back',
+                   'score': 401},
+                  {'author': '[deleted]', 'body': '[deleted]', 'score': 196},
+                  {'author': 'PlayOnPlayer',
+                   'body': 'I like mine but I respect I’m a super niche case '
+                           'and this is just really a phone without an '
+                           'audience. If you’re the type to go all out, you’re '
+                           'gonna get a pro and if you’re the type who just '
+                           'wants a phone that works so you’re gonna get the '
+                           '17.\n'
+                           '\n'
+                           'I wouldn’t be surprised if they cancel air 2 or if '
+                           'that’s the final iteration, especially if this is '
+                           'just a stepping stone to the foldable.',
+                   'score': 137},
+                  {'author': 'LickSomeToad',
+                   'body': "I'm actually confused because I thought, from "
+                           'seeing reddit the last few weeks, that this phone '
+                           'was selling well and everyone loved it?',
+                   'score': 93},
+                  {'author': 'KingOvDownvotes',
+                   'body': 'These phones have appeal but not with those '
+                           'compromises at $1000….',
+                   'score': 60},
+                  {'author': 'ArthurVandelay23',
+                   'body': 'Another article said it sold out in China '
+                           'immediately.',
+                   'score': 60},
+                  {'author': 'rayquan36',
+                   'body': 'Reddit told me this would be a successful product '
+                           'because Reddit was saying it wouldn’t be '
+                           'successful.',
+                   'score': 50}],
+ 'url': 'https://www.macrumors.com/2025/10/17/iphone-air-production-to-be-cut-amid-lower-sales/'}
+2025-12-28 20:58:59 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1mqxzgb/apple_accidentally_leaked_its_own_top_secret/.json> (referer: https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50)
+2025-12-28 20:58:59 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1mqxzgb/apple_accidentally_leaked_its_own_top_secret/.json>
+{'author': 'ConnectPrep',
+ 'body': '',
+ 'created_utc': 1755264804.0,
+ 'keyword': 'apple_products',
+ 'num_comments': 803,
+ 'permalink': 'https://reddit.com/r/technology/comments/1mqxzgb/apple_accidentally_leaked_its_own_top_secret/',
+ 'post_type': 'google_ranked',
+ 'score': 14522,
+ 'subreddit': 'technology',
+ 'title': 'Apple accidentally leaked its own top secret hardware in software '
+          'code, revealing new products across seven categories',
+ 'top_comments': [{'author': '[deleted]', 'body': '[removed]', 'score': 17902},
+                  {'author': 'alaninsitges',
+                   'body': 'Spoiler: spec bumps you would expect on existing '
+                           'products. Maybe a new display. I took the bait so '
+                           'you don’t have to!',
+                   'score': 1434},
+                  {'author': 'Woopsiepoopsies',
+                   'body': '“Accidentally” a month or two before they announce '
+                           'all their new stuff like they do every year at the '
+                           'same time',
+                   'score': 690},
+                  {'author': 'LamarMVPJackson',
+                   'body': '"For this story, Fortune used generative AI to '
+                           'help with an initial draft. An editor verified the '
+                           'accuracy of the information before publishing."\n'
+                           '\n'
+                           '\n'
+                           'Sureeee',
+                   'score': 543},
+                  {'author': 'Morphecto_Solrac',
+                   'body': '“Accidentally leaked”   🟰 Soft promotion to gauge '
+                           'the public response.',
+                   'score': 73},
+                  {'author': 'IonDaPrizee',
+                   'body': 'My 4K Apple TV still works flawlessly 10 years '
+                           'later, don’t want a new one',
+                   'score': 59},
+                  {'author': 'sten45',
+                   'body': 'Apple noticed I have not purchased a new Apple TV '
+                           'in 7 years.',
+                   'score': 49},
+                  {'author': 'm4ttjirM',
+                   'body': 'Oh so you mean to tell me apple is going to '
+                           'release an iPad, an iPhone, and an apple watch?! '
+                           'Holy fuck I am shocked! I was not expecting this!',
+                   'score': 39},
+                  {'author': '[deleted]',
+                   'body': '"leaked".. lol.',
+                   'score': 18},
+                  {'author': 'zztop610',
+                   'body': '“Accidentally” seen the stock recently?',
+                   'score': 15}],
+ 'url': 'https://fortune.com/2025/08/14/apple-leaks-new-products-software-code-vision-pro-studio-display-homepod-tv-ipad/'}
+2025-12-28 20:59:02 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1kubsx7/trump_insists_apple_can_move_production_to_the_us/.json> (referer: https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50)
+2025-12-28 20:59:03 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1kubsx7/trump_insists_apple_can_move_production_to_the_us/.json>
+{'author': 'Aggravating_Money992',
+ 'body': '',
+ 'created_utc': 1748093828.0,
+ 'keyword': 'apple_products',
+ 'num_comments': 1939,
+ 'permalink': 'https://reddit.com/r/technology/comments/1kubsx7/trump_insists_apple_can_move_production_to_the_us/',
+ 'post_type': 'google_ranked',
+ 'score': 25603,
+ 'subreddit': 'technology',
+ 'title': 'Trump Insists Apple Can Move Production to the US Because of '
+          '\'Computerized\' Factories After Threatening Tariffs. "So Donald is '
+          'giving a company less than 30 days to build a complicated factory '
+          'that will immediately begin producing. He really thinks like that?" '
+          'wrote one social media user.',
+ 'top_comments': [{'author': '[deleted]',
+                   'body': '&gt;. He really thinks like that?" wrote one '
+                           'social media user.\n'
+                           '\n'
+                           'Yes, he does.\n'
+                           '\n'
+                           'Trump is a classic demonstration of what would '
+                           'happen if you picked the dumbest kid in school and '
+                           'made them the school principal.',
+                   'score': 4236},
+                  {'author': 'bruhaha88',
+                   'body': 'So if the factories are computerized with only a '
+                           'couple of employees, what jobs is he bringing back '
+                           'to the US?',
+                   'score': 3970},
+                  {'author': 'green_gold_purple',
+                   'body': 'How in the actual fuck did so many people think '
+                           'this person was capable of running this country? I '
+                           'truly do not understand. He is so stupid; it '
+                           'boggles the mind. He would get laughed out of '
+                           'literally any job, except apparently this.\xa0',
+                   'score': 2080},
+                  {'author': 'Ungreat',
+                   'body': "He's doing market manipulation.\n"
+                           '\n'
+                           "I'm sure he bet against Apple before the 25% "
+                           "announcement and he'll use whatever profits they "
+                           'made to buy the dip before he walks it back.',
+                   'score': 495},
+                  {'author': 'NMe84',
+                   'body': 'And how exactly is that computerized factory going '
+                           'to increase manufacturing jobs in the US?',
+                   'score': 315},
+                  {'author': 'sickofthisshit',
+                   'body': 'Finding a "social media user" more sensible than '
+                           'Donald Trump is not news.',
+                   'score': 262},
+                  {'author': 'isaiddgooddaysir',
+                   'body': 'If I was apple, I would announce I big beautiful '
+                           'factory in a red state. Bunch of fan fair, meet '
+                           'and greet with officials, buy a big piece of '
+                           'property (cheap) cause your in a poor red state, '
+                           'and take the next four years doing busy work never '
+                           'building anything…have some guy put stakes in the '
+                           'ground with color flags, put a sign up thanking '
+                           'Trump, as soon as the bastard leaves office ,, '
+                           'drop it like a piece of shit',
+                   'score': 144},
+                  {'author': 'ZgBlues',
+                   'body': 'It’s amazing how 2020s USA is run by a 1980s '
+                           'tabloid character because that’s literally what he '
+                           'is.\n'
+                           '\n'
+                           'His entire understanding of economy comes from the '
+                           '1987 movie Wall Street (which coincided with the '
+                           'release of his fucking book), and he has been just '
+                           'repeating the same idiotic ideas and the same '
+                           'idiotic logic for 40 years now.\n'
+                           '\n'
+                           'No, there are no “computerized factories” and even '
+                           'if there were the whole point of them would be to '
+                           'NOT hire any Americans in them.',
+                   'score': 106},
+                  {'author': 'notabear87',
+                   'body': 'Critical thinking skills of a child; so yes he '
+                           'really thinks like that.',
+                   'score': 86},
+                  {'author': 'DarXIV',
+                   'body': 'He wants a bribe. All Tim Apple has to do is slip '
+                           "him a check and suddenly it won't matter where "
+                           'they are made.',
+                   'score': 47}],
+ 'url': 'https://www.latintimes.com/trump-insists-apple-can-move-production-us-because-computerized-factories-after-threatening-583749'}
+2025-12-28 20:59:05 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=apple_products&sort=relevance&limit=50> (referer: None)
+2025-12-28 20:59:05 [scrapy] INFO: Closing spider (finished)
+2025-12-28 20:59:05 [scrapy] INFO: Stored json feed (15 items) in: posts/spiders/output/google_ranked_apple_products_2025-12-28T15-28-26+00-00.json
+2025-12-28 20:59:05 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 15045,
+ 'downloader/request_count': 17,
+ 'downloader/request_method_count/GET': 17,
+ 'downloader/response_bytes': 802858,
+ 'downloader/response_count': 17,
+ 'downloader/response_status_count/200': 17,
+ 'elapsed_time_seconds': 38.958695,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 12, 28, 15, 29, 5, 366403, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 7306026,
+ 'httpcompression/response_count': 17,
+ 'item_scraped_count': 15,
+ 'log_count/DEBUG': 34,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'request_depth_max': 1,
+ 'response_received_count': 17,
+ 'scheduler/dequeued': 17,
+ 'scheduler/dequeued/memory': 17,
+ 'scheduler/enqueued': 17,
+ 'scheduler/enqueued/memory': 17,
+ 'start_time': datetime.datetime(2025, 12, 28, 15, 28, 26, 407708, tzinfo=datetime.timezone.utc)}
+2025-12-28 20:59:05 [scrapy] INFO: Spider closed (finished)

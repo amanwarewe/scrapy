@@ -1,0 +1,1444 @@
+2025-12-28 19:12:11 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50> (referer: None)
+2025-12-28 19:12:13 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50&after=t3_1p9ylx0> (referer: https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50)
+2025-12-28 19:12:16 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/IndiaTax/comments/1p6zzdk/from_advocating_bjp_to_never_ever_voting_bjp_again/.json> (referer: https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50)
+2025-12-28 19:12:16 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/IndiaTax/comments/1p6zzdk/from_advocating_bjp_to_never_ever_voting_bjp_again/.json>
+{'author': 'Pure-Animator-7114',
+ 'created_utc': 1764136420.0,
+ 'keyword': 'india_railway',
+ 'num_comments': 526,
+ 'permalink': 'https://reddit.com/r/IndiaTax/comments/1p6zzdk/from_advocating_bjp_to_never_ever_voting_bjp_again/',
+ 'post_type': 'google_ranked',
+ 'score': 2266,
+ 'subreddit': 'IndiaTax',
+ 'title': 'From Advocating BJP → To Never Ever Voting BJP Again',
+ 'top_comments': [{'author': 'Terrible-Pattern8933',
+                   'body': 'I went from voting -&gt; becoming a '
+                           'libertarian/anarchist. \n'
+                           'No government / party can save us. Democracy does '
+                           'not work, atleast not in India.',
+                   'score': 291},
+                  {'author': 'WhyAreYouNotHappy',
+                   'body': 'People like you are the problem. You have zero '
+                           'rationality, only emotion. All parties are '
+                           'corrupt. You should never have advocated for BJP '
+                           'and should never say never for BJP or any party. '
+                           'The only thing citizens should have for parties is '
+                           "demand for accountability. That's it.",
+                   'score': 259},
+                  {'author': 'ONEMANARMY_99',
+                   'body': 'ChatGpt k bina redditors ka kya hi hota',
+                   'score': 149},
+                  {'author': 'LordValorous069',
+                   'body': 'Bro your account is 26 days old, and from day one '
+                           'you are posting against current government, it is '
+                           'either you were advocating in real life and '
+                           'created this account just to rant about current '
+                           'government or you are just another IT cell.',
+                   'score': 65},
+                  {'author': 'sgcuber24', 'body': 'Okay ChatGPT.', 'score': 20},
+                  {'author': 'babathepower',
+                   'body': 'Please keep this political shit to other subs.',
+                   'score': 18},
+                  {'author': 'North-Tear-1999',
+                   'body': 'If people still think that BJP won for progress, '
+                           "you're a real fool.  They engineered polarization "
+                           'that will sustain them for an easy 3-4 decades.  \n'
+                           '\n'
+                           'If you want development,just look after your own '
+                           'health, education, electricity,transport, etc. '
+                           'dont expect the government to provide anything '
+                           'good be it infra or services.',
+                   'score': 17},
+                  {'author': 'TheSotallyToberGuy',
+                   'body': "It's a travesty of Indian democracy that even in a "
+                           'multi party system, we are so poor in terms of our '
+                           "political capital. Ideology almost doesn't matter "
+                           'at all. BJP specially has allied with anyone and '
+                           'everyone who can help them win elections - '
+                           'criminals, ideologic foes, bahuballi, corrupt '
+                           'leaders with serious offences, anyone under the '
+                           'sun.\n'
+                           '\n'
+                           'I was not as politically aware in 2014 (being a '
+                           '2nd yr student) as I am now. But I remember the '
+                           'series of scandals &amp; corruption that happened '
+                           'under congress regime too. I am well aware how '
+                           'congress has betrayed constitutional values on '
+                           'multiple occasions just to save their vote bank. \n'
+                           '\n'
+                           'BJP on other hand has different kinds of vote '
+                           'bank. They have taken u turn on almost such '
+                           'policies that they once demonized congress for - '
+                           'caste census, reservation being prime example.\n'
+                           '\n'
+                           "It's our sheer poor luck (or maybe citizens "
+                           'deserve such leaders because even we are like them '
+                           'as a society) that there is so much paucity of '
+                           'visionary leaders who can rise above narrow vested '
+                           'interest and keep the country on the path of peace '
+                           'and prosperity. \n'
+                           '\n'
+                           'Every BJP CM today spends more time in religious '
+                           'activities, electioneering, pandering to cult '
+                           'figures, photo-op, branding up central govt and '
+                           'specifically the prime minister then attending to '
+                           'actual issues of citizens (Delhi CM is prime '
+                           'example. Go on and check her Twitter timeline).\n'
+                           '\n'
+                           'Indian voters are "Na ghar ka na ghat ka". BJP '
+                           'certainly betrayed trust of so many voters who '
+                           'favoured them for 3 consecutive terms (after '
+                           'suffering under UPA for a decade) but it seems it '
+                           'was one too many terms for NDA.\n'
+                           '\n'
+                           'A country of 1.4 billion people should have '
+                           'produced better politicians, better statesmen and '
+                           'better policy makers.',
+                   'score': 9},
+                  {'author': 'Moist_Task6388',
+                   'body': 'I believe people talk about tax here not some pr '
+                           'for political parties. All of your points are '
+                           'valid just platform or sub is not.',
+                   'score': 9},
+                  {'author': 'Filibunny',
+                   'body': 'After seeing the world, I realised we are the most '
+                           'uncivilized people. Speak Kannada/Marathi/Tamil '
+                           'only is told by holigan idiots who have no '
+                           'qualifications to go outside. Vishwaguru is pure '
+                           'B.S. \n'
+                           'From BJP supporter I am now someone who cares too '
+                           'less about my country, forget govt. Lakhs of taxes '
+                           'I paid is used to buy luxury car for MPs son.',
+                   'score': 9}],
+ 'url': 'https://www.reddit.com/r/IndiaTax/comments/1p6zzdk/from_advocating_bjp_to_never_ever_voting_bjp_again/'}
+2025-12-28 19:12:18 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/incredible_indians/comments/1oye0pn/vande_bharat_sleeper_stuns_internet_with_180_kmh/.json> (referer: https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50)
+2025-12-28 19:12:18 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/incredible_indians/comments/1oye0pn/vande_bharat_sleeper_stuns_internet_with_180_kmh/.json>
+{'author': 'incredible_indians',
+ 'created_utc': 1763272753.0,
+ 'keyword': 'india_railway',
+ 'num_comments': 440,
+ 'permalink': 'https://reddit.com/r/incredible_indians/comments/1oye0pn/vande_bharat_sleeper_stuns_internet_with_180_kmh/',
+ 'post_type': 'google_ranked',
+ 'score': 6142,
+ 'subreddit': 'incredible_indians',
+ 'title': 'Vande Bharat Sleeper Stuns Internet With 180 km/h Water Test ✨',
+ 'top_comments': [{'author': 'ted_grant',
+                   'body': 'Achieve average journey speeds of 100kmph first.',
+                   'score': 70},
+                  {'author': 'Nishthefish74',
+                   'body': 'Indians are stunned by so little.',
+                   'score': 57},
+                  {'author': 'NoMoreTeen',
+                   'body': 'World Class 180 kmph where as World is at 400kmph',
+                   'score': 21},
+                  {'author': 'Smooth_Ad8893',
+                   'body': 'Fuck off to everyone who is gonna down vote.    '
+                           'inn bsdi walo k liyain kuch bhi ho kami nikalne aa '
+                           'jaenge',
+                   'score': 16},
+                  {'author': 'Mediocre-Gold6418',
+                   'body': 'Why so pessimistic? Just like you said india '
+                           'getting stunned by so little those developed '
+                           'countries you mentioned are probably stunned by '
+                           "India's population and it's freebie system "
+                           'throughout the country...why compare with other '
+                           'countries.. of course we should learn from them '
+                           'but cant we just raise a glass towards this little '
+                           'achievement ?',
+                   'score': 11},
+                  {'author': 'tatakaeyagami',
+                   'body': "This subs' sepoys never disappoint bsdwalo direct "
+                           'bullet train pe koodne ki India ki aukaat nahi hai '
+                           'ek hi jhatke mei sab karwalo bante to aise hain '
+                           'jaise daily isse behtar facilities se travel karte '
+                           'ho improvement to apni pace pe hi hoga na behn ke '
+                           'lodo',
+                   'score': 8},
+                  {'author': 'amb1networks',
+                   'body': "We're still far behind China",
+                   'score': 5},
+                  {'author': 'SHAIK_011',
+                   'body': "World class mat bol bhai it's country class only. "
+                           'Japan ki bullet kaa train ka naam suna hai 🤧',
+                   'score': 5},
+                  {'author': 'Ok-Put8371',
+                   'body': 'People be comparing this with Japan … lol first '
+                           'compare yourselves .. see how people of Japan '
+                           'behave … their civic sense .. their cleanliness … '
+                           'Khud Sudhar nahi sakte bkl but facilities sab '
+                           'chahiye … we all saw how people started stealing '
+                           'from these trains … bloody crap',
+                   'score': 3},
+                  {'author': '7inchie',
+                   'body': 'To those mocking, what outstanding work, '
+                           'innovation have you done ? \n'
+                           '\n'
+                           'Atleast they are trying to improve which is a '
+                           'welcome move.',
+                   'score': 3}],
+ 'url': 'https://v.redd.it/hmffmtf67k1g1'}
+2025-12-28 19:12:21 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/funny/comments/nch5hy/looks_like_action_scenebut_its_indias_busiest/.json> (referer: https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50)
+2025-12-28 19:12:21 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/funny/comments/nch5hy/looks_like_action_scenebut_its_indias_busiest/.json>
+{'author': 'nothingFORlegend',
+ 'created_utc': 1621021372.0,
+ 'keyword': 'india_railway',
+ 'num_comments': 319,
+ 'permalink': 'https://reddit.com/r/funny/comments/nch5hy/looks_like_action_scenebut_its_indias_busiest/',
+ 'post_type': 'google_ranked',
+ 'score': 5004,
+ 'subreddit': 'funny',
+ 'title': "Looks like ACTION SCENE...but its INDIA'S BUSIEST RAILWAY STATION!",
+ 'top_comments': [{'author': 'Happyandyou',
+                   'body': 'The first guy was the smoothest and definitely has '
+                           'done that move a few times.',
+                   'score': 703},
+                  {'author': 'RawBearClaw',
+                   'body': 'Dude in the yellow might have gotten the dude '
+                           'behind him killed by closing that door',
+                   'score': 272},
+                  {'author': 'wutinthehail',
+                   'body': 'Dudes risking life and limb to get to the call '
+                           'center.',
+                   'score': 176},
+                  {'author': 'pxm7',
+                   'body': '[A slightly longer version of this video, showing '
+                           'more people come '
+                           'in](https://youtu.be/u4NiiDAl8to)\n'
+                           '\n'
+                           '[A view of the Mumbai Local '
+                           'platform](https://youtu.be/_CSU-_6F-bY)',
+                   'score': 114},
+                  {'author': 'inkseep1',
+                   'body': 'The trick is apparently the right foot plant into '
+                           'the doorway.   First guy nails it. Second guy '
+                           'misses it and slips and the third just leads with '
+                           "the foot but doesn't get a firm plant either.  The "
+                           "final guy didn't have the clearance or timing for "
+                           'the foot plant, no way he was going to haul in '
+                           'with just grabbing the pole.',
+                   'score': 95},
+                  {'author': 'liarandathief',
+                   'body': 'Can you imagine if they were each driving their '
+                           'own cars? Traffic jams for days.',
+                   'score': 39},
+                  {'author': 'JK_NC',
+                   'body': 'I want to see this at full speed.  I feel like I '
+                           'appreciate the slo-mo version a lot more if I can '
+                           'see it at full speed first.',
+                   'score': 34},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 28},
+                  {'author': 'Braddiot',
+                   'body': 'Why arent the doors closed to begin with?',
+                   'score': 20},
+                  {'author': 'zachtheperson',
+                   'body': 'Anyone from India want to explain why?',
+                   'score': 15}],
+ 'url': 'https://v.redd.it/3stnb27635z61'}
+2025-12-28 19:12:23 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/HistoryMemes/comments/qheqbw/its_funny_how_there_are_still_people_who_support/.json> (referer: https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50)
+2025-12-28 19:12:23 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/HistoryMemes/comments/qheqbw/its_funny_how_there_are_still_people_who_support/.json>
+{'author': 'saviorprincex',
+ 'created_utc': 1635394686.0,
+ 'keyword': 'india_railway',
+ 'num_comments': 433,
+ 'permalink': 'https://reddit.com/r/HistoryMemes/comments/qheqbw/its_funny_how_there_are_still_people_who_support/',
+ 'post_type': 'google_ranked',
+ 'score': 4730,
+ 'subreddit': 'HistoryMemes',
+ 'title': 'It’s funny, how there are still people who support colonisation, '
+          '“we guv em railways, India wuz heathens”',
+ 'top_comments': [{'author': 'birdish-dicklet',
+                   'body': 'Some of us just want to go back to raping Africa '
+                           '/s',
+                   'score': 417},
+                  {'author': 'General_Ken_OP',
+                   'body': "So underrated, I'm from India can confirm, the "
+                           'Brits took away billions of dollars worth of gold '
+                           'and gems before leaving. They basically fucked the '
+                           'country up to the point where even they could not '
+                           'handle this shit.',
+                   'score': 324},
+                  {'author': 'cuppacanan',
+                   'body': 'Didn’t even need to sort by controversial for this '
+                           'one',
+                   'score': 165},
+                  {'author': 'varjagen',
+                   'body': 'Uts a bit reductionist to just mention the '
+                           'British, we dutchies also did some bad shit there',
+                   'score': 103},
+                  {'author': '[deleted]',
+                   'body': 'Just a reminder Indias economy dropped due to the '
+                           'industrial revolution not due to colonialism, the '
+                           'exact same thing happened to China which wasn’t '
+                           'colonised.',
+                   'score': 98},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 88},
+                  {'author': 'Ok_Katusha_Launcher',
+                   'body': 'but muhhhh railroads!!!1!1!11!!',
+                   'score': 62},
+                  {'author': 'Raghavnimbalkar15',
+                   'body': 'Fucking Brits.',
+                   'score': 42},
+                  {'author': 'ForBastsSake',
+                   'body': 'Id be careful with attacking colonialism, lots of '
+                           'folk here like to excuse genocide and colonialism '
+                           ":')",
+                   'score': 35},
+                  {'author': 'derpyhero',
+                   'body': 'I believe that the best thing that came out of '
+                           'British Raj was an awakening of an Indian national '
+                           'identity that allowed India to stay united as a '
+                           'single country into the 21st century.',
+                   'score': 28}],
+ 'url': 'https://i.redd.it/71d7zjkia4w71.jpg'}
+2025-12-28 19:12:26 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/gifsthatkeepongiving/comments/nco1hx/india_railway_station_looks_like_something_out_of/.json> (referer: https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50)
+2025-12-28 19:12:26 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/gifsthatkeepongiving/comments/nco1hx/india_railway_station_looks_like_something_out_of/.json>
+{'author': 'My_Memes_Will_Cure_U',
+ 'created_utc': 1621042503.0,
+ 'keyword': 'india_railway',
+ 'num_comments': 280,
+ 'permalink': 'https://reddit.com/r/gifsthatkeepongiving/comments/nco1hx/india_railway_station_looks_like_something_out_of/',
+ 'post_type': 'google_ranked',
+ 'score': 15008,
+ 'subreddit': 'gifsthatkeepongiving',
+ 'title': 'India railway station looks like something out of an action movie',
+ 'top_comments': [{'author': 'dankMemeManMayne',
+                   'body': 'The guy in yellow ruined it for the next person by '
+                           'partially closing the door lol',
+                   'score': 2537},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 1119},
+                  {'author': '[deleted]',
+                   'body': "These are suburban local trains. If you've read "
+                           '"Girl on the Train" or watched videos of the New '
+                           'York subway, or the London Underground, you get '
+                           'the idea. Hundreds of thousands of people packed '
+                           'like sardines in a tin can in above 100°F '
+                           'temperatures traveling to work during rush hour.\n'
+                           "If you wait for the train to stop, you won't even "
+                           'get a comfortable place to stand, let alone sit '
+                           'down, and will have to spend the half-hour or '
+                           'forty minute journey with your face stuck into '
+                           "someone else's armpit. So, yeah, this is par for "
+                           'the course.\n'
+                           '\n'
+                           'Source: I traveled to college every week like this '
+                           'for 5 years.',
+                   'score': 337},
+                  {'author': 'CuriousYe11ow',
+                   'body': "So what I've learned from this is that a brightly "
+                           'colored shirt will give you bonus speed and '
+                           'agility',
+                   'score': 310},
+                  {'author': 'hech_kay',
+                   'body': 'I remember a joke about the Mumbai local trains, '
+                           'it goes like this:\n'
+                           '\n'
+                           'A man was standing near the door waiting to get '
+                           'down at a station, the train was slowing down, '
+                           'another man yelled at him from behind: "gaadi rok '
+                           'ke utaroge kya laudu?" Means, "Are you waiting for '
+                           'the train to stop to get down, asshole? "\n'
+                           '\n'
+                           'I still think about it.',
+                   'score': 143},
+                  {'author': 'zoyanx',
+                   'body': 'Indian Captain here this seems to be the Dadar '
+                           '(Mumbai) station and it is very notorious for '
+                           'people rushing in and jumping in on a running '
+                           'train. The sole reason for this is after a long '
+                           'day of work people want to travel sitting cozy or '
+                           'you get crushed standing around from heaps of '
+                           'sweaty people trying to cram in an already '
+                           'overloaded compartment. Also the timings if you '
+                           'lose this train the next one could be 45 min later '
+                           'for your exact destination and it’s a very '
+                           'stressful wait.\n'
+                           '\n'
+                           'Why is there so many people? Population? No, '
+                           'Concentration. Dadar is a central hub that '
+                           'connects 3 branch of railway lines western, '
+                           'central and harbour. Say i work in western line '
+                           'and my house is in harbour, I have to get down at '
+                           'Dadar, change the platform to harbour line to '
+                           'reach home. Then comes the office hours what you '
+                           'see in the video is post 5pm workers trying to get '
+                           'home. I think rest is pretty self explanatory.\n'
+                           '\n'
+                           'So it’s only after 5pm it get this bad at Dadar? '
+                           'unfortunately not. This incident is engraved in '
+                           'peoples mind even if you pass by Dadar during the '
+                           'normal hours you will see people rushing in cause '
+                           'they are used to that happening and fear missing '
+                           'the train if you don’t try your hardest to secure '
+                           'a seat.\n'
+                           '\n'
+                           'It’s way way worse in monsoon and yes people die '
+                           'everyday. I myself had near death experience like '
+                           'twice. Lost 3 friends to Train accidents. One was '
+                           'crippled for life.',
+                   'score': 107},
+                  {'author': 'immion',
+                   'body': 'So they don’t haves stops?',
+                   'score': 63},
+                  {'author': 'BuzCrab',
+                   'body': 'He didn’t make it damn I was kinda hoping he '
+                           'would’ve made it',
+                   'score': 43},
+                  {'author': '_lameboy_',
+                   'body': '#Allow me to introduce you to Dadar',
+                   'score': 35},
+                  {'author': 'affo_',
+                   'body': 'Why do so many people on the platform have their '
+                           'backpacks facing forward? \n'
+                           '\n'
+                           'Is this a courtesy thing to not bump into others? '
+                           'Or just preparation so you can sit down with it '
+                           'still on your body?',
+                   'score': 33}],
+ 'url': 'https://i.imgur.com/bJJZcyv.gifv'}
+2025-12-28 19:12:28 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/kanpur/comments/1atmln7/this_is_kanpur_railway_station_at_2_am_in_the/.json> (referer: https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50)
+2025-12-28 19:12:28 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/kanpur/comments/1atmln7/this_is_kanpur_railway_station_at_2_am_in_the/.json>
+{'author': 'harshkesarwani',
+ 'created_utc': 1708234259.0,
+ 'keyword': 'india_railway',
+ 'num_comments': 362,
+ 'permalink': 'https://reddit.com/r/kanpur/comments/1atmln7/this_is_kanpur_railway_station_at_2_am_in_the/',
+ 'post_type': 'google_ranked',
+ 'score': 2297,
+ 'subreddit': 'kanpur',
+ 'title': 'This is Kanpur Railway station, at 2 AM in the night 😯 Thay all are '
+          'Unemployed youth, Going to UP Police recruitment. Vacancy: 60000 '
+          "Aspirants: 5000000 +++ India's aim towards becoming3rd the largest "
+          'economy by 2030🤔?',
+ 'top_comments': [{'author': 'LorDzkill',
+                   'body': 'third largest economy? we can become the largest '
+                           'economy in the world and things will still be the '
+                           'same, just look at the GDP per capita rankings.. '
+                           'only rich is getting richer',
+                   'score': 70},
+                  {'author': 'RejectedOggy',
+                   'body': 'Behnchooodddd ye kya hai?? Mujhe toh ye hone ka '
+                           'dar zyada lagta hai\n'
+                           '\n'
+                           'https://preview.redd.it/iqzr25oc8ajc1.jpeg?width=739&amp;format=pjpg&amp;auto=webp&amp;s=c60a21cf3f6c5bb242bd5b8b12a96d5397b888f5\n'
+                           '\n'
+                           'Competition kam karo /s',
+                   'score': 21},
+                  {'author': 'Aviralishaan1122',
+                   'body': 'Wow, is this real? Just hoping paper leak na ho.',
+                   'score': 18},
+                  {'author': 'monksneverdie',
+                   'body': 'This is how bj party  create 2cr jobs opportunity '
+                           'per year. \n'
+                           '\n'
+                           'But bj party calculate based on received '
+                           'application not a not hired person',
+                   'score': 10},
+                  {'author': 'One-While-6779',
+                   'body': 'Give them a private job or mnc job max of them '
+                           'will not be able to succeed everyone wants a '
+                           "sarkari Naukri tag I'm searching for a good "
+                           'candidate from last 2 weeks and ek banda jo BA '
+                           'pass hai usko excel chalana ni aata English '
+                           'writing bakwas kuch chiz samjhao toh 7-8 baar '
+                           'samjhao that too in Desi bhasha.\n'
+                           '\n'
+                           ' toh kya karega skills ki importance hai degree ki '
+                           'nahi',
+                   'score': 8},
+                  {'author': 'HistoricalSpace4277',
+                   'body': 'Karney do agar real log hai toh station mein khade '
+                           'honge kabhi na kabhi, \n'
+                           '\n'
+                           'Agar sirf Do companies hongi (Adani and Ambani) '
+                           'toh private job nahi banengi aur majboori mein '
+                           'sarkari job k lie jaenge',
+                   'score': 7},
+                  {'author': '[deleted]',
+                   'body': 'This is what happens when you overhyped government '
+                           'jobs and treat people with sarkari jobs as if they '
+                           'are above humans. Find stuff to do other than '
+                           'this. The country needs to grow horizontally and '
+                           'vertically. Your delusion is not the solution. '
+                           "Don't waste so many years trying to get a sarkari "
+                           'naukri to get ghoos and feki hui izzat. If you are '
+                           'going to waste your younger years maybe do it '
+                           'spending something artistic, scientific or '
+                           'something really niche.',
+                   'score': 6},
+                  {'author': 'Kind-Bathroom2641',
+                   'body': '3rd largest economy for the top 1%',
+                   'score': 6},
+                  {'author': 'Smart_Cucumber_4692',
+                   'body': "Kanpur ka youth is really shit youth can't go "
+                           'beyond government job',
+                   'score': 4},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 3}],
+ 'url': 'https://i.redd.it/divw86jh5ajc1.jpeg'}
+2025-12-28 19:12:30 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/worldnews/comments/88g6o7/28_million_apply_for_90000_jobs_with_indias/.json> (referer: https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50)
+2025-12-28 19:12:30 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/worldnews/comments/88g6o7/28_million_apply_for_90000_jobs_with_indias/.json>
+{'author': 'guanaco55',
+ 'created_utc': 1522468253.0,
+ 'keyword': 'india_railway',
+ 'num_comments': 1721,
+ 'permalink': 'https://reddit.com/r/worldnews/comments/88g6o7/28_million_apply_for_90000_jobs_with_indias/',
+ 'post_type': 'google_ranked',
+ 'score': 20624,
+ 'subreddit': 'worldnews',
+ 'title': "28 million apply for 90,000 jobs with India's railway company",
+ 'top_comments': [{'author': 'FattyCorpuscle',
+                   'body': '&gt;Some 1 million young people enter the Indian '
+                           'labor market each month\n'
+                           '\n'
+                           'Holy shit.',
+                   'score': 7215},
+                  {'author': 'indianego',
+                   'body': 'Government jobs are very sought after in India, '
+                           'some of those 28 million are probably already '
+                           'employed but are still trying to get in because of '
+                           'the perks it entails.',
+                   'score': 2527},
+                  {'author': 'attorneyatslaw',
+                   'body': 'All the jobs are in HR reviewing job applications',
+                   'score': 1209},
+                  {'author': '[deleted]', 'body': '[deleted]', 'score': 947},
+                  {'author': 'TiddlyWinklevoss',
+                   'body': 'Minimum 5 years experience. ',
+                   'score': 558},
+                  {'author': '[deleted]', 'body': '[deleted]', 'score': 429},
+                  {'author': 'imdpathway',
+                   'body': 'I decided to present some numbers related to this '
+                           'recruitment drive in Indian Railways \n'
+                           '\n'
+                           'Numbers picked primarily from this TOI article - '
+                           'https://timesofindia.indiatimes.com/india/over-2-8-crore-apply-for-90000-railways-jobs/articleshow/63551672.cms\n'
+                           '\n'
+                           'Total no of employees in Indian Railways - 13 Lacs '
+                           '(1.3 Mn)\n'
+                           '\n'
+                           'Indian Railway is the largest public sector '
+                           'employer.\n'
+                           '\n'
+                           'No of open positions for hiring currently - 90000\n'
+                           '\n'
+                           'Another hiring to take place for 20000 positions\n'
+                           '\n'
+                           'Total intake of newly recruited in Railways in '
+                           'coming days - 1.1 Lacs (110,000)\n'
+                           '\n'
+                           '**This is 8.46% (.11/1.3 Mn) of increase in no of '
+                           'employees in Railways.** This is huge for a large '
+                           'organisation like Indian Railways. **Out of every '
+                           '14 Railway employees, one would be a new '
+                           'recruit.** I can not recall any bigger requirement '
+                           'drive  in any Indian PSU in recent history. Indian '
+                           'Railways should be commended for showing a will to '
+                           'induct so many new recruits in one go. \n'
+                           '\n'
+                           'Now it has been reported that 2.8 Crore (28 Mn) '
+                           'people have applied for 90000 jobs. We all know '
+                           'that every Tanmay, Dinanath &amp; Harilal in India '
+                           'applies to Govt jobs irrespective of educational '
+                           'qualification required. In this case, **for every '
+                           'open position 311 people have applied on average '
+                           '(2.8 Crore/90000)** \n'
+                           '\n'
+                           'This figure of 311 applications per position is '
+                           'very modest. I expected at least 1000 applications '
+                           'per open position. In fact I assume that Indian '
+                           'Railways failed to communicate enough for recent '
+                           'hiring. \n'
+                           '\n'
+                           'India is a huge country and absolute numbers '
+                           'sometimes provide misleading depiction of actual '
+                           'situation. \n'
+                           '\n'
+                           '\n'
+                           '\n'
+                           'Above is a part of a post made by me originally '
+                           'here - '
+                           'https://www.reddit.com/r/indianews/comments/88haw0/many_people_are_astonished_to_see_28_crore/\n'
+                           '\n'
+                           'Edit: Also it would be unwise to assume that '
+                           'everyone who has applied for the job is '
+                           'unemployed. Millions of Indians who are working in '
+                           'Grade III or IV jobs keep applying to govt jobs. '
+                           'It is their dream to have a safe govt job. \n'
+                           '\n',
+                   'score': 243},
+                  {'author': '[deleted]',
+                   'body': "TBF situations like this aren't exactly unheard of "
+                           'in [Southern] Europe - albeit obviously not on the '
+                           'same scale.\n'
+                           '\n'
+                           'In Italy it is common for thousands of people to '
+                           'apply for a handful of openings (vacancies are '
+                           'assigned via state exams) within the public '
+                           'administration, the Army, or police as that kind '
+                           'of jobs is *very* sought after; government '
+                           'employees being the happy few with their backs '
+                           'covered by the unions and strict workplace '
+                           'regulations. \n'
+                           '\n'
+                           'The private sector on the other hand is a '
+                           'completely different story, Americans working in '
+                           "an at-will state know what I'm talking about but "
+                           'with the added bonus of late paycheques, '
+                           'unenforced contract provisions, voluntory (and '
+                           'unpaid) overtime, no benefits or other social '
+                           'security, and zero career opportunities... let '
+                           'alone pay raises. \n'
+                           '\n'
+                           "Unless you're civil servant, former factory worker "
+                           "or a retiree the unions here don't give a shit "
+                           "about you or other people like you and they're "
+                           'more than happy to sell themselves to the '
+                           "government or the employers' federation which, by "
+                           'the way, have been on the same side since the '
+                           "1990s and are hell-bent on dismantling workers' "
+                           'rights.',
+                   'score': 190},
+                  {'author': 'spaceknot',
+                   'body': 'RIP ZipRecruiter. ',
+                   'score': 87},
+                  {'author': 'cool12y',
+                   'body': "People aren't looking at the bigger picture. A "
+                           'large part of these 28 million ALREADY HAVE jobs. '
+                           "It's just that Government Jobs are better and "
+                           'provide more job security then Private Jobs. \n'
+                           '\n'
+                           " This isn't talking about 28 million people that "
+                           "are necessarily unemployed. It's more like 28 "
+                           'million people playing the lottery for a better '
+                           'job.',
+                   'score': 82}],
+ 'url': 'http://www.dw.com/en/28-million-apply-for-90000-jobs-with-indias-railway-company/a-43203142'}
+2025-12-28 19:12:32 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/IndiaSpeaks/comments/12w2k07/german_press_xenophobic_and_racist_cartoon/.json> (referer: https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50)
+2025-12-28 19:12:32 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/IndiaSpeaks/comments/12w2k07/german_press_xenophobic_and_racist_cartoon/.json>
+{'author': 'Speed__God',
+ 'created_utc': 1682241852.0,
+ 'keyword': 'india_railway',
+ 'num_comments': 1345,
+ 'permalink': 'https://reddit.com/r/IndiaSpeaks/comments/12w2k07/german_press_xenophobic_and_racist_cartoon/',
+ 'post_type': 'google_ranked',
+ 'score': 2994,
+ 'subreddit': 'IndiaSpeaks',
+ 'title': "German press' Xenophobic and Racist cartoon depiction of Indian "
+          'population overtaking Chinese. While India has almost electrified '
+          'its entire Railway Network, High IQ Germans have shifted to Coal '
+          'and stopped Nuclear Reactors.',
+ 'top_comments': [{'author': 'Speed__God',
+                   'body': 'Germans are making themselves feel good by '
+                           'spreading such poverty porn. Their DW News (Govt '
+                           'owned) does the same by spreading propaganda on '
+                           'India. Every one knows that Germans are one of the '
+                           'most Racist people on the planet. Their Population '
+                           'is Aging and Dying. Their demographics are rapidly '
+                           "being replaced. Germany's fall is inevitable. This "
+                           'is their coping mechanism in play.',
+                   'score': 721},
+                  {'author': 'mbatechchem',
+                   'body': 'They live in different part of world.\n'
+                           'Ignore them.\n'
+                           '\n'
+                           'In next 20 years we will be adding 1 Germany gdp '
+                           'every year',
+                   'score': 297},
+                  {'author': '[deleted]',
+                   'body': 'West will do these mocking and propagandas until '
+                           'the end of the world , we just have to advance at '
+                           "a good pace and don't let them get on our nerves . "
+                           'India is like an elephant it moves slowly but when '
+                           'it does entire world feels its impact.',
+                   'score': 209},
+                  {'author': 'Orwellisright',
+                   'body': 'If the white men is not controlled , he will move '
+                           'back way to his racist ways , this is what this '
+                           'shows. \n'
+                           '\n'
+                           'Glad there are enough good whites who will call '
+                           'this racists out',
+                   'score': 109},
+                  {'author': '[deleted]', 'body': '[deleted]', 'score': 84},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 58},
+                  {'author': 'maddy495',
+                   'body': 'Man India has to speeded up creating DD '
+                           'international and let them loose on the world in '
+                           'the guise of independent media following the '
+                           'international trend, make hell lotta documentaries '
+                           'on European nations and their past and hypocrisy, '
+                           'particularly Britain documentaries would be '
+                           'depressing but results would be spicy af.',
+                   'score': 54},
+                  {'author': '2thicc2love',
+                   'body': "Ignore these nuggets and let's live our life like "
+                           'Chinese do mostly\n'
+                           'Unaffected by them',
+                   'score': 50},
+                  {'author': 'knowtoomuchtobehappy',
+                   'body': 'Sar jhukao. Mehnat karo. \n'
+                           '\n'
+                           'Wahi sabse achha jawab hai.',
+                   'score': 31},
+                  {'author': 'Own-Swordfish-952',
+                   'body': 'The west will no longer be relevant in a few '
+                           'decades. This century will be dominated by Asia. '
+                           'Making cartoons is all that they can do now.',
+                   'score': 22}],
+ 'url': 'https://i.redd.it/zgasogtrplva1.jpg'}
+2025-12-28 19:12:35 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/unitedstatesofindia/comments/1f2ltve/a_few_months_ago_everyone_was_happy_to_see_a/.json> (referer: https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50)
+2025-12-28 19:12:35 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/unitedstatesofindia/comments/1f2ltve/a_few_months_ago_everyone_was_happy_to_see_a/.json>
+{'author': 'shini_gami09',
+ 'created_utc': 1724777193.0,
+ 'keyword': 'india_railway',
+ 'num_comments': 503,
+ 'permalink': 'https://reddit.com/r/unitedstatesofindia/comments/1f2ltve/a_few_months_ago_everyone_was_happy_to_see_a/',
+ 'post_type': 'google_ranked',
+ 'score': 4033,
+ 'subreddit': 'unitedstatesofindia',
+ 'title': 'A few months ago, everyone was happy to see a world-class railway '
+          'station in Bengaluru, India. Now, it is covered with Pan-Gutka '
+          'strains.',
+ 'top_comments': [{'author': 'No-Quarter-8559',
+                   'body': 'everything taking for granted is a Indian norm',
+                   'score': 605},
+                  {'author': 'Wraith_Crescent',
+                   'body': 'Indians should unite, set aside discrimination, '
+                           'and focus on developing civil sense.',
+                   'score': 278},
+                  {'author': 'Majestic_____kdj',
+                   'body': 'Banning gutka for real I mean seriously ban... '
+                           'Would be a great step for cleaning up road sides '
+                           'and people will get mor civilized towards other '
+                           "cleanliness habits...and that's what we must raise "
+                           'voice for and elect government which on other side '
+                           'will play major role in achieving this',
+                   'score': 157},
+                  {'author': 'DustyAsh69',
+                   'body': 'Ajay Devgan strikes again',
+                   'score': 150},
+                  {'author': '[deleted]',
+                   'body': "Don't worry NRIs are not using this station, our "
+                           'India growth story is intact for over 50yrs '
+                           'now...\n'
+                           '\n'
+                           'When I was a kid, I use to believe that once I '
+                           'will be an old man India be a developed nation, '
+                           'today kids also believe the same, I did some '
+                           'digging and found out news and magazines of 1970s '
+                           'which had the same narrative that India is soon '
+                           'going to be a developed nation. \n'
+                           '\n'
+                           'India is going to be a developed nation forever I '
+                           'guess!',
+                   'score': 132},
+                  {'author': '[deleted]',
+                   'body': 'fcking disgusting! morons of highest order. '
+                           'gutkhachap gawar sale',
+                   'score': 86},
+                  {'author': '[deleted]',
+                   'body': 'Why the fuck cant the govt ban this shit',
+                   'score': 64},
+                  {'author': 'weedsexweed',
+                   'body': 'Gutka allowed hai, even glorified hai. Sala weed '
+                           'se hi problem hai gov ko',
+                   'score': 58},
+                  {'author': '165Hertz',
+                   'body': 'Indian dehat doing dehat shit. No amount of '
+                           'education will stop this. \n'
+                           '\n'
+                           'Either ban gutka production entirely or heavy '
+                           'lathi charge anyone found spitting',
+                   'score': 37},
+                  {'author': '[deleted]',
+                   'body': 'Lee Kuan Yew banning chewing gum in Singapore '
+                           'makes sense now',
+                   'score': 31}],
+ 'url': 'https://v.redd.it/ht0ac464k8ld1'}
+2025-12-28 19:12:36 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/Damnthatsinteresting/comments/1dz6jgu/fishes_playing_on_the_railway_track_after_heavy/.json> (referer: https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50)
+2025-12-28 19:12:36 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/Damnthatsinteresting/comments/1dz6jgu/fishes_playing_on_the_railway_track_after_heavy/.json>
+{'author': 'omicronwarrior',
+ 'created_utc': 1720541971.0,
+ 'keyword': 'india_railway',
+ 'num_comments': 490,
+ 'permalink': 'https://reddit.com/r/Damnthatsinteresting/comments/1dz6jgu/fishes_playing_on_the_railway_track_after_heavy/',
+ 'post_type': 'google_ranked',
+ 'score': 16284,
+ 'subreddit': 'Damnthatsinteresting',
+ 'title': 'Fishes playing on the railway track after heavy rainfall in Mumbai, '
+          'India',
+ 'top_comments': [{'author': 'CaptainLammers',
+                   'body': 'That’s genuinely kinda amazing. I hope they make '
+                           'it back to whatever water they came from.',
+                   'score': 2682},
+                  {'author': 'ThickHandshake',
+                   'body': 'How the hell did they get there in the first '
+                           'place?😨',
+                   'score': 653},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 629},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 467},
+                  {'author': '[deleted]',
+                   'body': 'Those aren’t fish, that’s their power supply '
+                           '(electric eels)',
+                   'score': 213},
+                  {'author': 'De5perad0',
+                   'body': 'catfish gonna catfish.',
+                   'score': 176},
+                  {'author': 'SnooPredictions8336',
+                   'body': 'Ghibli studio live action?',
+                   'score': 137},
+                  {'author': 'PragmaticAndroid',
+                   'body': "I think it's swimming not playing.",
+                   'score': 107},
+                  {'author': 'MagnumVY',
+                   'body': 'The amount of racist remarks on this post is a '
+                           'clear indication of how racist Reddit is towards '
+                           'India. A similar shit happened in Japan in their '
+                           "drainage but Reddit couldn't stop swooning over "
+                           'it.',
+                   'score': 63},
+                  {'author': 'faithnfury',
+                   'body': 'One train makes multiple sashimis',
+                   'score': 55}],
+ 'url': 'https://v.redd.it/ubm85rwjqibd1'}
+2025-12-28 19:12:39 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/indianrailways/comments/1nuhxkp/this_is_not_india_its_china_this_is_an/.json> (referer: https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50)
+2025-12-28 19:12:39 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/indianrailways/comments/1nuhxkp/this_is_not_india_its_china_this_is_an/.json>
+{'author': 'Omarr_Paper',
+ 'created_utc': 1759249875.0,
+ 'keyword': 'india_railway',
+ 'num_comments': 269,
+ 'permalink': 'https://reddit.com/r/indianrailways/comments/1nuhxkp/this_is_not_india_its_china_this_is_an/',
+ 'post_type': 'google_ranked',
+ 'score': 3508,
+ 'subreddit': 'indianrailways',
+ 'title': 'This is not India, its China. This is an educational video, to show '
+          'that crowd is not the main problem, infrastructure, systems, '
+          'process and rule abiding citizens can make our existing railways '
+          'far better experience',
+ 'top_comments': [{'author': 'No-Abrocoma7121',
+                   'body': 'Indian citizen needs empathy first then civic '
+                           'sense will be no problem',
+                   'score': 353},
+                  {'author': 'Lenore8264',
+                   'body': 'The first thing I noticed is how clean that floor '
+                           'is. Literally not a single stain or wrapper or '
+                           'packet of chips on the ground. The walls are '
+                           'clean. The floor is clean. \n'
+                           '\n'
+                           'If this were India, there would be gutka stains in '
+                           'the corners. Empty wrappers, paper plates, stray '
+                           'bits of food and water bottles lying here and '
+                           'there.',
+                   'score': 265},
+                  {'author': 'AdCertain5974',
+                   'body': 'Rule abiding citizens!',
+                   'score': 48},
+                  {'author': '[deleted]', 'body': '[deleted]', 'score': 41},
+                  {'author': 'dam0_0',
+                   'body': "You can't achieve that in a democracy filled with "
+                           '82 iqs.',
+                   'score': 22},
+                  {'author': 'Sarcas_tech_guy',
+                   'body': 'Basic civic sense goes a long way.',
+                   'score': 17},
+                  {'author': 'Feisty-Discussion-22',
+                   'body': 'Look at that train station. How can you say infra '
+                           'is NOT the problem??',
+                   'score': 15},
+                  {'author': 'chocolaty_4_sure',
+                   'body': "India's problem is not lack of opportunities for "
+                           'earning livelihood.\n'
+                           '\n'
+                           'India\'s problem is absence of "dignity of labour" '
+                           'and fake status of so called high positions and '
+                           'white collar jobs.\n'
+                           '\n'
+                           'In India, caste system is the root-cause for lack '
+                           'of civic sense as well as lack of dignity to '
+                           'labour.\n'
+                           '\n'
+                           'As caste system embibes the culture of considering '
+                           '"laborious, cleaning related activity, blue collar '
+                           'jobs, small scale businesses etc" as something of '
+                           'low status and which lowers  the social status and '
+                           'dignity of person.\n'
+                           '\n'
+                           '\n'
+                           'The countries which imbibe "civic sense", "mutual '
+                           'respect" and "dignity of labour" right from '
+                           'nursery and KG pre-primary school, they only '
+                           'become developed country. (Take any example from - '
+                           'Japan, China or Germany).\n'
+                           '\n'
+                           'India need cultural revolution to implement and '
+                           'imbibe "civic sense", "mutual respect" and '
+                           '"dignity of labour" both in pre-primary schools as '
+                           'well as in public places - simultaneously.',
+                   'score': 14},
+                  {'author': 'lasoonNo1',
+                   'body': 'What happens in October in China any festival or '
+                           'occasion??',
+                   'score': 12},
+                  {'author': 'ScurvyyCurr',
+                   'body': 'Even the crowd looks orderly',
+                   'score': 8}],
+ 'url': 'https://v.redd.it/716x9bh3xbsf1'}
+2025-12-28 19:12:41 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/interestingasfuck/comments/1l4o3pq/worlds_highest_railway_arch_bridge_the_chenab/.json> (referer: https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50)
+2025-12-28 19:12:41 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/interestingasfuck/comments/1l4o3pq/worlds_highest_railway_arch_bridge_the_chenab/.json>
+{'author': 'GiveMeSomeSunshine3',
+ 'created_utc': 1749201936.0,
+ 'keyword': 'india_railway',
+ 'num_comments': 407,
+ 'permalink': 'https://reddit.com/r/interestingasfuck/comments/1l4o3pq/worlds_highest_railway_arch_bridge_the_chenab/',
+ 'post_type': 'google_ranked',
+ 'score': 6026,
+ 'subreddit': 'interestingasfuck',
+ 'title': "World's Highest Railway Arch Bridge: The Chenab Rail Bridge in "
+          'Jammu &amp; Kashmir, India is now operational.',
+ 'top_comments': [{'author': 'Ok_Barnacle_3062',
+                   'body': 'If China does it: wow, so cool, China is living in '
+                           '2056\n'
+                           '\n'
+                           'If India does it: all this just for a single track',
+                   'score': 742},
+                  {'author': 'sunnydandrumyumyum',
+                   'body': 'Wake up babe, new railway arch bridge just dropped',
+                   'score': 449},
+                  {'author': 'sury_sama',
+                   'body': 'Tom Cruise watching this: 👀🤤💓🪂🏃🏃🏃',
+                   'score': 419},
+                  {'author': 'Concept-Plastic',
+                   'body': 'elderly grandiose steep follow smart strong wild '
+                           'jeans chase tap\n'
+                           '\n'
+                           ' *This post was mass deleted and anonymized with '
+                           '[Redact](https://redact.dev/home)*',
+                   'score': 335},
+                  {'author': 'Sea_Albatross_3053',
+                   'body': 'Looks like a bridge from rdr2',
+                   'score': 284},
+                  {'author': 'SignAllStrength',
+                   'body': 'Nice bridge with a timeless design. \n'
+                           'According to '
+                           '[wikipedia](https://en.wikipedia.org/wiki/Chenab_Rail_Bridge) '
+                           'the speed of the trains will be up to 100km/h.\n'
+                           '\n'
+                           'In the video there are pedestrians walking over '
+                           'the bridge. There is quite some walkable space '
+                           'next to the track but I see no (visual) barriers '
+                           'to keep them away from the train tracks.  Anyone '
+                           'knows if walking (or cycling etc) is actually '
+                           'allowed?',
+                   'score': 191},
+                  {'author': 'Stephenf1234',
+                   'body': "You can tell it's in India, that's a heavily "
+                           'Bollywood inspired bridge reveal.',
+                   'score': 149},
+                  {'author': 'Krats_msb',
+                   'body': 'You can see the comments overflowing with '
+                           'negativity, as some people abuse the editing just '
+                           'to demean India. Sigh... what can we do?\n'
+                           '\n'
+                           'To fellow Indians always remember  such people '
+                           'often carry unresolved issues they can’t confront '
+                           'within themselves.',
+                   'score': 92},
+                  {'author': 'WizardPrince_',
+                   'body': 'I love how the pakistanis are having a meltdown in '
+                           'this comment section, would u like some water guys',
+                   'score': 80},
+                  {'author': 'Sad_Raspberryy',
+                   'body': 'Scroll down for the racist comments 💀👍🏻',
+                   'score': 69}],
+ 'url': 'https://v.redd.it/blw43mwdz95f1'}
+2025-12-28 19:12:44 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/IndianHistory/comments/1mi27lh/churchill_was_shouting_we_shall_never_surrender/.json> (referer: https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50)
+2025-12-28 19:12:44 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/IndianHistory/comments/1mi27lh/churchill_was_shouting_we_shall_never_surrender/.json>
+{'author': 'believeingod333',
+ 'created_utc': 1754377108.0,
+ 'keyword': 'india_railway',
+ 'num_comments': 336,
+ 'permalink': 'https://reddit.com/r/IndianHistory/comments/1mi27lh/churchill_was_shouting_we_shall_never_surrender/',
+ 'post_type': 'google_ranked',
+ 'score': 3021,
+ 'subreddit': 'IndianHistory',
+ 'title': 'Churchill was shouting "we shall never surrender" but India was '
+          'behind him paying the bill',
+ 'top_comments': [{'author': 'Wise_Ad8474',
+                   'body': 'Mental how a empire where the sun always shines, '
+                           'struggled against Germany. They couldn’t even use '
+                           'our resources efficiently',
+                   'score': 207},
+                  {'author': 'maproomzibz',
+                   'body': 'Classic example of Superman and Homelander meme.',
+                   'score': 189},
+                  {'author': 'FastThoughtProcessor',
+                   'body': 'You know people will probably hate me for this, '
+                           'but this shit isnt talked about enough. From '
+                           'Slavery of African Americans to what Hitler did, '
+                           'everything is a hot topic for so many years, but '
+                           'the things British did to Indians are ignored.\n'
+                           '\n'
+                           'If India gets its wealth back, like many people '
+                           'get some compensation in USA from pekple who held '
+                           'their ancestors as slaves, it will probably mean '
+                           'something.\n'
+                           '\n'
+                           'And dont forget, he is our hitler but he is a hero '
+                           'to most of the world.',
+                   'score': 104},
+                  {'author': 'pearl_mermaid',
+                   'body': 'I really really despise this guy',
+                   'score': 48},
+                  {'author': 'chilliepete',
+                   'body': "and it was the 'veer' maharajas and so called "
+                           'respected indian traders who used to extort money '
+                           'from common people and give it to the british :-) '
+                           ':-) :-)',
+                   'score': 23},
+                  {'author': 'bloodmark20',
+                   'body': "I think it's a matter of pride for india that we "
+                           'had such a big albeit invisible role we played '
+                           'against fascism. \n'
+                           '\n'
+                           "It's just not possible for the world to repay this "
+                           'debt that we should be owed. We should have got '
+                           'the security council seat after independence just '
+                           'for the role we played in winning the world war. \n'
+                           '\n'
+                           'Shashi Tharoor has some interesting statistics in '
+                           'his book "an era of darkness" related to this '
+                           'subject.',
+                   'score': 16},
+                  {'author': 'amnorobotquery',
+                   'body': '..for monuments built with inscriptions of the '
+                           'dead and pensions for all those who returned. Did '
+                           'the soldiers recruited from India and African '
+                           'countries get their names mentioned if they died '
+                           'or pensions for those who returned to catch up '
+                           'with the rest of their life?',
+                   'score': 9},
+                  {'author': 'Cruella-007',
+                   'body': 'Not only Churchill but also the entire British '
+                           'Empire used India for its own purposes and gains '
+                           'and when they finally decided to give India '
+                           'freedom they left us with liabilities and took the '
+                           'assets with them. Also Churchill opposed to give '
+                           'India freedom as he believed that Indians were not '
+                           'capable of self-governance and the British would '
+                           'suffer if India gains Independence. Whether it be '
+                           'famines, racism, Jallianwala Baugh Massacre or '
+                           'riots or Wars, Indians had to suffer because of '
+                           'the British as they saw us as Use and Throw '
+                           'objects. And also they literally built “White '
+                           'Towns“ (For British) and “Black Towns” (for '
+                           'Indians, termed it has filthy and disgusting). '
+                           'This division reflected the British colonial '
+                           'policy of racial segregation and social hierarchy '
+                           'during their rule in India. Cities like Madras '
+                           '(Chennai), Calcutta (Kolkata), and Pondicherry '
+                           'were examples of cities with distinct white and '
+                           'black town areas.',
+                   'score': 6},
+                  {'author': 'ApprehensiveBee7108',
+                   'body': 'You are making a very complex topic simple.\n'
+                           '\n'
+                           'More than 2 million Indians VOLUTNEERED to fight '
+                           'for Britain. The greatest Special Operations '
+                           'Executive agent, Noor Inyat Ali Khan was  '
+                           'descendant of Tipu Sultan, and was the only agent '
+                           'in occupied France who kept sending radio messages '
+                           'to Britain EVEN after she was betrayed. She died '
+                           'in Ravensbruck. She volunteered fought for '
+                           "Britain\xa0to oppose Hitler's fascism and "
+                           'oppression, seeing it as her duty to use her '
+                           'skills and pacifist ideals to help defeat Nazi '
+                           'tyranny and occupied Europe.\xa0\n'
+                           '\n'
+                           'If Hitler and Imperial Japan had won the world '
+                           'would be a much darker place.\n'
+                           '\n'
+                           'World War II is a very complex topic. Don t '
+                           'simplify it',
+                   'score': 5},
+                  {'author': '[deleted]',
+                   'body': 'Moreover, large parts of India were under princely '
+                           'states,whose rulers paid almost no tribute to the '
+                           'British and kept the majority of taxes to '
+                           'themselves apart from making payment to the agent '
+                           'of British Raj / Dewan and the army housed in the '
+                           'state they had zero obligations. If wanted, they '
+                           'could have built universities, collages, medical '
+                           'institutions, and whatnot. But what did they do ?',
+                   'score': 4}],
+ 'url': 'https://i.redd.it/0i6la23vf5hf1.jpeg'}
+2025-12-28 19:12:46 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/MapPorn/comments/1bx2ee6/electrification_of_railways_around_the_world_of/.json> (referer: https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50)
+2025-12-28 19:12:46 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/MapPorn/comments/1bx2ee6/electrification_of_railways_around_the_world_of/.json>
+{'author': 'Anshu27reddit',
+ 'created_utc': 1712376727.0,
+ 'keyword': 'india_railway',
+ 'num_comments': 1522,
+ 'permalink': 'https://reddit.com/r/MapPorn/comments/1bx2ee6/electrification_of_railways_around_the_world_of/',
+ 'post_type': 'google_ranked',
+ 'score': 10402,
+ 'subreddit': 'MapPorn',
+ 'title': 'Electrification of railways around the world (% of total route)',
+ 'top_comments': [{'author': '[deleted]', 'body': '[deleted]', 'score': 1678},
+                  {'author': 'Mystic1869',
+                   'body': 'come on greenland , you can do it',
+                   'score': 1370},
+                  {'author': 'pranavrg',
+                   'body': 'According to 2024 March data, India is on 94.44%\n'
+                           '\n'
+                           'Edit:- Got more upvotes here than the Fking map I '
+                           'made about the same data',
+                   'score': 881},
+                  {'author': 'hampsten',
+                   'body': 'The Indian data is old. It’s 94% now. What’s more, '
+                           'the figure was 35% ten years ago, but the past '
+                           'decade has seen billions invested in '
+                           'electrification. Pretty much all major routes - '
+                           'passenger and freight - are now electric. \n'
+                           '\n'
+                           'They’re aiming to have 100% of mainline routes '
+                           'electrified by 2025. It is part of UN SDG and '
+                           'climate change mitigation goals. Diesel '
+                           'consumption is down 90% to20 million liters  '
+                           'annually now. \n'
+                           '\n'
+                           'There are reasons why the current administration '
+                           'is popular. In multiple areas they’ve done more in '
+                           '10 years than what got done in 60 years prior. '
+                           'Piped water is one. Up to the late 2010s under 20% '
+                           'of homes had piped water. It’s now close to 80%, '
+                           'all done in the last 5 years. '
+                           'https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx \n'
+                           '\n'
+                           'Universal household electrification was completed '
+                           'in 2019-20. The rate of delivery of public goods '
+                           'and infrastructure is unprecedented.',
+                   'score': 636},
+                  {'author': 'Viva_Technocracy',
+                   'body': 'South Africa:if only it was operational... sad...',
+                   'score': 538},
+                  {'author': '2012Jesusdies',
+                   'body': 'The US just refuses to electrify as vast majority '
+                           'of tracks are owned by private companies who would '
+                           'see benefit long in the future from '
+                           'electrification such as lower maintenance cost, '
+                           'lower locomotive cost, so they just prefer the '
+                           'status-quo. Whereas governments ARE willing to '
+                           'take up the high up-front cost of electrification '
+                           'as it increases energy independence (higher oil '
+                           "prices don't impact costs as much when running on "
+                           'electricity), lower emissions, lower air '
+                           'pollution, less noise pollution as well (impacts '
+                           'that can be captured by the gov through lower '
+                           'healthcare expenditure (as people are healthier), '
+                           'higher tax revenue (as negative externality of '
+                           "emissions on economy goes down)). That's why other "
+                           'countries have way higher electrification rates. '
+                           "Even Russia's Trans-Siberian is electrified.\n"
+                           '\n'
+                           "It's frustrating because trains are the form of "
+                           'transport MOST suited to electrification. They run '
+                           'along a set course which can be outfitted with '
+                           'overhead power lines rather than relying on '
+                           'batteries which are heavy, expensive and need long '
+                           'recharge periods.',
+                   'score': 487},
+                  {'author': 'sr_manumes',
+                   'body': 'In Chile there are [400 '
+                           'km](https://en.m.wikipedia.org/wiki/TerraSur) of '
+                           'electrified railway of [6800 '
+                           'km](https://es.m.wikipedia.org/wiki/Ferrocarril_en_Chile) '
+                           'of total railway (5.8%)\n'
+                           '\n'
+                           "I'm tired of these posts with absolutely wrong "
+                           'information',
+                   'score': 430},
+                  {'author': 'Predictor92',
+                   'body': 'Somehow India has 90% electrified, yet the Montauk '
+                           "branch of the LIRR in the US isn't electrified",
+                   'score': 268},
+                  {'author': 'Soft_Expression8564',
+                   'body': 'As and Indian, for all my life I have only ever '
+                           'seen electric railways and thought, if it was '
+                           'EVERYWHERE in India i am sure it would have been '
+                           'all over the world but I was shocked to see the '
+                           "map, and for the people who don't believe this, "
+                           'come here and see for yourselves, every railway '
+                           'you will see is electric and this is a significant '
+                           'achievement because unlike European countries '
+                           'India is VAST and huge distances have been '
+                           'electrified.',
+                   'score': 231},
+                  {'author': 'Neovitami',
+                   'body': 'How many of those 0% countries have 0 railway?',
+                   'score': 197}],
+ 'url': 'https://i.redd.it/lsbyvcz5bssc1.png'}
+2025-12-28 19:12:48 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/indianrailways/comments/1ohsshp/320_am_punemumbai_express_when_random_couples/.json> (referer: https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50)
+2025-12-28 19:12:48 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/indianrailways/comments/1ohsshp/320_am_punemumbai_express_when_random_couples/.json>
+{'author': 'NoddyNadz',
+ 'created_utc': 1761604524.0,
+ 'keyword': 'india_railway',
+ 'num_comments': 292,
+ 'permalink': 'https://reddit.com/r/indianrailways/comments/1ohsshp/320_am_punemumbai_express_when_random_couples/',
+ 'post_type': 'google_ranked',
+ 'score': 2891,
+ 'subreddit': 'indianrailways',
+ 'title': '3:20 AM Pune–Mumbai Express: When random couples think they’re the '
+          'TC',
+ 'top_comments': [{'author': 'Puzzleheaded-Win-502',
+                   'body': 'Hey yes, you can definitely raise this through '
+                           'railmadad.',
+                   'score': 717},
+                  {'author': 'Puzzleheaded-Cash212',
+                   'body': "Hashtags don't work on reddit BTW",
+                   'score': 256},
+                  {'author': 'HelicopterDense5595',
+                   'body': 'I think you should have posted the same on x '
+                           'rather than here by mentioning irctc',
+                   'score': 137},
+                  {'author': 'NoddyNadz',
+                   'body': 'I reached Mumbai safe and sound.. appreciate all '
+                           'who replied to me at that wee hours.. and for the '
+                           'many learnings',
+                   'score': 57},
+                  {'author': '[deleted]',
+                   'body': 'Bhai oopar berth pe moot de. Paani apna direction '
+                           'khud decide kr legi',
+                   'score': 25},
+                  {'author': 'GuavaStrange2364',
+                   'body': 'The best is to avoid those dumbos and have a good '
+                           'rest. No action can change such people. Only thing '
+                           'you are gonna lose your precious sleep. Hope you '
+                           'understood what I mean to say',
+                   'score': 23},
+                  {'author': 'Vast-Ad-6002',
+                   'body': 'Yeah. Happens.\n'
+                           '\n'
+                           'I found a solution.\n'
+                           '\n'
+                           'My birth was middle birth. Rajdhani, 3AC. I was '
+                           'there from starting station. One middle aged woman '
+                           'who had lower seat came afterwards. No issues. It '
+                           'was around evening when she boarded.\n'
+                           '\n'
+                           'Dinner time. Food came. I let the woman had her '
+                           'first. Then I requested to remove her belongings '
+                           'from the common table to have mine. At that moment '
+                           "she said that I won't remove and you can have "
+                           "dinner at your own seat. Also she said she didn't "
+                           'want non-veg near her.\n'
+                           '\n'
+                           'I being a very polite person said ok aunty as you '
+                           'say...\n'
+                           '\n'
+                           'Now the game begins.\n'
+                           '\n'
+                           'I waited for dessert, as that is served last. Ice '
+                           'cream. Served around 2030. Delicious delicacy. Had '
+                           'to be enjoyed before melting...so took around 15 '
+                           'minutes to finish. Then I started with the main '
+                           'course. Now since the table was not available to '
+                           'me, i sat cross legged on the middle seat '
+                           'comfortably with the tray in my lap. I first '
+                           'started with chapatis. Already asked for extra '
+                           'two, total four. I deliberately spent 15 minutes '
+                           'per chapati, one hand holding my tray and other '
+                           'hand trying to feed me as slowly as possible.\n'
+                           '\n'
+                           '2145.\n'
+                           '\n'
+                           'Now everyone in my compartment knew my game, '
+                           'including aunty, though she was trying to pretend '
+                           'to ignore me as she was on call. Then came rice. '
+                           'Ever ate rice using a fork? I did that day. It was '
+                           'around 10 when she finished her call and told me '
+                           'to finish my dinner fast. I ignored her. But now '
+                           'the fun had begun as she was watching me '
+                           'deliberately placing each rice grain in my mouth '
+                           'after picking up with a fork, dipping it into the '
+                           'curry.\n'
+                           '\n'
+                           'Well, her patience was short lived as within next '
+                           '10 minutes she had told me thrice to have my food '
+                           'fast as she had to sleep. Last two ones I ignored '
+                           'and on the last one the passenger from top seat '
+                           "replied to her 'Aunty wo khana kha raha hai, aapko "
+                           "dikhai nahi deta...'\n"
+                           '\n'
+                           'This was her cracking point.\n'
+                           '\n'
+                           '2230 in the night. And now the high voltage drama '
+                           'was about to begin.\n'
+                           '\n'
+                           "She exploded after that 'itne der se khana kha "
+                           'raha hai....isse pata hi nahi hai jaise '
+                           'kuch...hume sab dikhai deta hai...tumhe pata hona '
+                           'chahiye ki raat me sab sote hai aur apni seat pe '
+                           "chale jaate hai...phir ye kyu nahi ja raha...'\n"
+                           '\n'
+                           'I ignored her completely.\n'
+                           '\n'
+                           "'Mai TT ko bula lungi...koi rules hi nahi "
+                           'samajhta...issko batao ki mujhe Sona hai...apni '
+                           "seat pe jaaye...' and bla bla bla...\n"
+                           '\n'
+                           'I kept ignoring her and kept my business going.\n'
+                           '\n'
+                           'At this point, if I wanted I could have done many '
+                           'things. I could have forcefully kept her bag aside '
+                           'and used tray table, or shown her the rule book '
+                           'which says to open sleeper berths at night also '
+                           'shows that the common table can be used by '
+                           'anyone...but I wanted her to learn a lesson that '
+                           'she would never forget her entire life. A lesson '
+                           'of authority, from the authority.\n'
+                           '\n'
+                           '2300\n'
+                           '\n'
+                           'Finally, she managed to get hold of the TT, calls '
+                           "him to the compartment and says 'dekho ye kitni "
+                           'der se khana kha raha hai, mujhe sone nahi de '
+                           'raha...issko bolo ki yaha se uthe aur apni seat '
+                           "par jaye.'\n"
+                           '\n'
+                           'TT-aapki seat konsi hai?\n'
+                           'Aunty-ye neeche wali \n'
+                           'TT-aur aapki seat konsi hai ?\n'
+                           'Me-uncle middle birth.\n'
+                           'TT-aap seat kyu nahi Khali kar rahe ho?\n'
+                           'Me-uncle mai khana kha raha hu.\n'
+                           'TT-ye koi time hai khana khane ka?\n'
+                           'Me-uncle khana to bahut jaldi khatam ho gaya hota, '
+                           'lekin mujhe ek haath se khana pad raha hai isliye '
+                           'der lag rahi hai. Ab agar mai ye tray use kar lu '
+                           'to khana jaldi khatam ho jayega.\n'
+                           'TT-ha to use karo kisne roka hai...\n'
+                           'I just raised my hand to keep her bag aside when '
+                           'aunty sprung\n'
+                           'Aunty-haath mat lagana mere bag ko...(to TT) ye '
+                           'kaise use kar sakta hai iss table ko, lower seat '
+                           'to meri hai...\n'
+                           '\n'
+                           'And at this point TT understood entire matter.\n'
+                           '\n'
+                           'TT-beta aap wo bag uthao aur side me rakho. Aap '
+                           'tray table pe aram se khana khatam karo aur koi '
+                           'roke to mujhe batana.(To aunty) Madam ye tray '
+                           'table sirf lower birth wale ki nahi hoti..isspe '
+                           'kar koi khana kha sakta hai aur ise use kar sakta '
+                           'hai. Aapki galti hai aur aap hi dhos jama rahe ho. '
+                           'Jake apna saman hatao aur apni seat pe rakho. Aur '
+                           'jab ye khana kha le tab so Jana.\n'
+                           '\n'
+                           'And he went.\n'
+                           '\n'
+                           'Aunty was standing in the gully with all '
+                           'passengers of the compartment looking at her face. '
+                           'She came to her seat, grabbed her bag. I kept my '
+                           'tray on the table. Sat there, mixed dal and rice, '
+                           'ate. But now I also deliberately ate chicken '
+                           'pieces and kept the bones on the table. Also '
+                           'deliberately spilled some chicken curry on the '
+                           'table towards my side so that the smell of gravy '
+                           'should keep her awake entire night. I also wiped '
+                           "the gravy with the tissue(I'm not uncivilized "
+                           'bruh).\n'
+                           '\n'
+                           'Almost midnight. Had dinner. Washed hands. Went to '
+                           'my seat and slept peacefully.',
+                   'score': 21},
+                  {'author': 'NoMoreTeen',
+                   'body': 'I see two Karens in this story',
+                   'score': 14},
+                  {'author': 'NearbyCarpenter6502',
+                   'body': 'Here’s my two cents..\n'
+                           '\n'
+                           'People will push their limits with you, and if '
+                           'you’re shy and don’t confront them in the '
+                           'beginning only then they’ll continue to do so.. \n'
+                           '\n'
+                           'Best option here is to understand that your life '
+                           'won’t be any different if you’re rude to them, you '
+                           'don’t have to be rude from the get-go, but if the '
+                           'other person is rude to you then there’s no reason '
+                           'that you shouldn’t double it and give a taste of '
+                           'their own medicine.',
+                   'score': 6},
+                  {'author': 'Technical_Mix687',
+                   'body': "You can have different opinion but we can't enjoy "
+                           'comfort and safety of train any more?!\n'
+                           "It's like dogs and Indians are not allowed era for "
+                           'meny like you or us ?!\n'
+                           '\n'
+                           '\n'
+                           '80 percent of them like the duo, you are '
+                           'alone....\n'
+                           'Avoid by ignoring with smile, acha , okay , I am '
+                           'traveling for first time....\n'
+                           '\n'
+                           '\n'
+                           'Even when I travel with more people we hide and '
+                           'act as stranger this days( like separate ticket , '
+                           'not talking to eachother for future safety if we '
+                           'face some shitty co passenger other can call '
+                           'emergency or can attack suddenly in extreme '
+                           'situation)....\n'
+                           '\n'
+                           '\n'
+                           'Choose seat travel or road travel if possible....\n'
+                           'I understand GPI want trains for poor, students '
+                           'and people who are ill....\n'
+                           'For others they have maintained expensive road '
+                           'transport without safety and comfort of train and '
+                           'we can rant on reddit 🤐😂\n'
+                           '\n'
+                           '\n'
+                           'What if you found two alcoholic co passenger '
+                           'after\xa0 switching...( Finding good passenger is '
+                           'next to impossible)\n'
+                           '\n'
+                           '\n'
+                           'What I want\xa0\n'
+                           'Increasing train travel price\n'
+                           '\n'
+                           '\n'
+                           'Decrease road travel cost\n'
+                           '\n'
+                           '\n'
+                           'More vande bharta seat type train with maximum 4 '
+                           'halts....\n'
+                           '\n'
+                           '\n'
+                           'Also others redditor comment will help all of us',
+                   'score': 5}],
+ 'url': 'https://i.redd.it/4d7ep7hneqxf1.png'}
+2025-12-28 19:12:51 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=india_railway&sort=relevance&limit=50> (referer: None)
+2025-12-28 19:12:51 [scrapy] INFO: Closing spider (finished)
+2025-12-28 19:12:51 [scrapy] INFO: Stored json feed (15 items) in: posts/spiders/output/google_ranked_india_railway_2025-12-28T13-42-09+00-00.json
+2025-12-28 19:12:51 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 16016,
+ 'downloader/request_count': 18,
+ 'downloader/request_method_count/GET': 18,
+ 'downloader/response_bytes': 853034,
+ 'downloader/response_count': 18,
+ 'downloader/response_status_count/200': 18,
+ 'elapsed_time_seconds': 41.54533,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 12, 28, 13, 42, 51, 405682, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 7458277,
+ 'httpcompression/response_count': 18,
+ 'item_scraped_count': 15,
+ 'log_count/DEBUG': 35,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'request_depth_max': 2,
+ 'response_received_count': 18,
+ 'scheduler/dequeued': 18,
+ 'scheduler/dequeued/memory': 18,
+ 'scheduler/enqueued': 18,
+ 'scheduler/enqueued/memory': 18,
+ 'start_time': datetime.datetime(2025, 12, 28, 13, 42, 9, 860352, tzinfo=datetime.timezone.utc)}
+2025-12-28 19:12:51 [scrapy] INFO: Spider closed (finished)

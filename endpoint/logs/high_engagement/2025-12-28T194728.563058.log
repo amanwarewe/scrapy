@@ -1,0 +1,198 @@
+2025-12-28 19:47:30 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50> (referer: None)
+2025-12-28 19:47:30 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50>
+{'author': 'RAMBIGHORNY',
+ 'created_utc': 1763047352.0,
+ 'keyword': 'indian_collage',
+ 'num_comments': 526,
+ 'permalink': 'https://reddit.com/r/starterpacks/comments/1ow3vpw/indians_at_costco_starter_pack/',
+ 'post_type': 'high_engagement',
+ 'score': 6258,
+ 'subreddit': 'starterpacks',
+ 'title': 'Indians at Costco Starter Pack',
+ 'url': 'https://i.redd.it/vwnmnldyk11g1.jpeg'}
+2025-12-28 19:47:30 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50>
+{'author': 'chanma50',
+ 'created_utc': 1762887643.0,
+ 'keyword': 'indian_collage',
+ 'num_comments': 415,
+ 'permalink': 'https://reddit.com/r/boxoffice/comments/1oui5jv/the_running_man_review_thread/',
+ 'post_type': 'high_engagement',
+ 'score': 451,
+ 'subreddit': 'boxoffice',
+ 'title': "'The Running Man' Review Thread",
+ 'url': 'https://www.reddit.com/r/boxoffice/comments/1oui5jv/the_running_man_review_thread/'}
+2025-12-28 19:47:30 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50>
+{'author': 'EqualGrape6101',
+ 'created_utc': 1763289738.0,
+ 'keyword': 'indian_collage',
+ 'num_comments': 82,
+ 'permalink': 'https://reddit.com/r/soccercirclejerk/comments/1oyimlw/if_im_paying_12k_i_better_get_a_lap_dance_from/',
+ 'post_type': 'high_engagement',
+ 'score': 332,
+ 'subreddit': 'soccercirclejerk',
+ 'title': "If I'm paying 12k I better get a lap dance from Pessi 🥀",
+ 'url': 'https://i.redd.it/m9hf2iroll1g1.png'}
+2025-12-28 19:47:30 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50>
+{'author': 'Possible-Local1734',
+ 'created_utc': 1763758976.0,
+ 'keyword': 'indian_collage',
+ 'num_comments': 49,
+ 'permalink': 'https://reddit.com/r/BollyBlindsNGossip/comments/1p3a9su/when_did_bollywood_turn_into_a_porcelain_factory/',
+ 'post_type': 'high_engagement',
+ 'score': 246,
+ 'subreddit': 'BollyBlindsNGossip',
+ 'title': 'when did bollywood turn into a porcelain factory ??',
+ 'url': 'https://www.reddit.com/r/BollyBlindsNGossip/comments/1p3a9su/when_did_bollywood_turn_into_a_porcelain_factory/'}
+2025-12-28 19:47:30 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50>
+{'author': 'lemony-soapwater',
+ 'created_utc': 1763875264.0,
+ 'keyword': 'indian_collage',
+ 'num_comments': 16,
+ 'permalink': 'https://reddit.com/r/Indiemakeupandmore/comments/1p4ehzk/i_made_my_november_capsule/',
+ 'post_type': 'high_engagement',
+ 'score': 130,
+ 'subreddit': 'Indiemakeupandmore',
+ 'title': 'I MADE MY NOVEMBER CAPSULE 🍂',
+ 'url': 'https://i.redd.it/xlhgeodryx2g1.jpeg'}
+2025-12-28 19:47:30 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50>
+{'author': 'Trizzy102',
+ 'created_utc': 1763210282.0,
+ 'keyword': 'indian_collage',
+ 'num_comments': 26,
+ 'permalink': 'https://reddit.com/r/pessi_memes/comments/1oxqoj2/messi_trying_to_scam_indians_smh/',
+ 'post_type': 'high_engagement',
+ 'score': 56,
+ 'subreddit': 'pessi_memes',
+ 'title': 'Messi trying to scam Indians smh',
+ 'url': 'https://i.redd.it/hjakmugf1f1g1.jpeg'}
+2025-12-28 19:47:30 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50>
+{'author': 'richarizard',
+ 'created_utc': 1763390207.0,
+ 'keyword': 'indian_collage',
+ 'num_comments': 11,
+ 'permalink': 'https://reddit.com/r/nyc/comments/1ozhwnp/things_to_do_in_nyc_december_2025/',
+ 'post_type': 'high_engagement',
+ 'score': 35,
+ 'subreddit': 'nyc',
+ 'title': 'Things to Do in NYC: December 2025',
+ 'url': 'https://www.reddit.com/r/nyc/comments/1ozhwnp/things_to_do_in_nyc_december_2025/'}
+2025-12-28 19:47:30 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50>
+{'author': 'arvinr',
+ 'created_utc': 1765676214.0,
+ 'keyword': 'indian_collage',
+ 'num_comments': 42,
+ 'permalink': 'https://reddit.com/r/nri/comments/1pm1v1p/passport_renewal_in_the_usaread_below_if_you_want/',
+ 'post_type': 'high_engagement',
+ 'score': 15,
+ 'subreddit': 'nri',
+ 'title': 'Passport Renewal in the usa-Read below if you want clarity',
+ 'url': 'https://www.reddit.com/r/nri/comments/1pm1v1p/passport_renewal_in_the_usaread_below_if_you_want/'}
+2025-12-28 19:47:30 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50>
+{'author': 'nikunjpradhan_',
+ 'created_utc': 1766239587.0,
+ 'keyword': 'indian_collage',
+ 'num_comments': 8,
+ 'permalink': 'https://reddit.com/r/GurjarsofSouthAsia/comments/1prf4uw/difficult_is_quite_easy_when_you_are/',
+ 'post_type': 'high_engagement',
+ 'score': 13,
+ 'subreddit': 'GurjarsofSouthAsia',
+ 'title': 'Difficult is quite easy when you are dedicated.(Follow '
+          '@gurjar.cynosure on IG)',
+ 'url': 'https://www.reddit.com/gallery/1prf4uw'}
+2025-12-28 19:47:30 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50>
+{'author': 'Flafingos',
+ 'created_utc': 1763791835.0,
+ 'keyword': 'indian_collage',
+ 'num_comments': 7,
+ 'permalink': 'https://reddit.com/r/hatewatchpod/comments/1p3lyew/who_is_selling_this_unofficial_merch_they_totally/',
+ 'post_type': 'high_engagement',
+ 'score': 12,
+ 'subreddit': 'hatewatchpod',
+ 'title': "Who is selling this unofficial merch? They totally FRP'd up",
+ 'url': 'https://www.reddit.com/gallery/1p3lyew'}
+2025-12-28 19:47:33 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50&after=t3_1ot53qz> (referer: https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50)
+2025-12-28 19:47:33 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50&after=t3_1ot53qz>
+{'author': 'PlainsboroPulse',
+ 'created_utc': 1757011591.0,
+ 'keyword': 'indian_collage',
+ 'num_comments': 13,
+ 'permalink': 'https://reddit.com/r/newjersey/comments/1n8il7p/events_happening_this_weekend_in_central_jersey/',
+ 'post_type': 'high_engagement',
+ 'score': 143,
+ 'subreddit': 'newjersey',
+ 'title': 'Events happening this weekend in Central Jersey',
+ 'url': 'https://www.reddit.com/r/newjersey/comments/1n8il7p/events_happening_this_weekend_in_central_jersey/'}
+2025-12-28 19:47:33 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50&after=t3_1ot53qz>
+{'author': 'someonenoo',
+ 'created_utc': 1755163887.0,
+ 'keyword': 'indian_collage',
+ 'num_comments': 10,
+ 'permalink': 'https://reddit.com/r/indiadiscussion/comments/1mpvtja/truth_chori_bjp_exposing_eci/',
+ 'post_type': 'high_engagement',
+ 'score': 80,
+ 'subreddit': 'indiadiscussion',
+ 'title': 'Truth Chori: BJP Exposing ECI',
+ 'url': 'https://www.reddit.com/gallery/1mpvtja'}
+2025-12-28 19:47:33 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50&after=t3_1ot53qz>
+{'author': 'generalpao',
+ 'created_utc': 1757636104.0,
+ 'keyword': 'indian_collage',
+ 'num_comments': 11,
+ 'permalink': 'https://reddit.com/r/houston/comments/1neovo7/things_to_do_in_houston_during_the_weekend/',
+ 'post_type': 'high_engagement',
+ 'score': 57,
+ 'subreddit': 'houston',
+ 'title': 'Things to do in Houston during the weekend - September 11th, 12th, '
+          '13th &amp; 14th',
+ 'url': 'https://www.reddit.com/r/houston/comments/1neovo7/things_to_do_in_houston_during_the_weekend/'}
+2025-12-28 19:47:33 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50&after=t3_1ot53qz>
+{'author': 'generalpao',
+ 'created_utc': 1761312643.0,
+ 'keyword': 'indian_collage',
+ 'num_comments': 15,
+ 'permalink': 'https://reddit.com/r/houston/comments/1oexth9/things_to_do_in_houston_during_the_weekend/',
+ 'post_type': 'high_engagement',
+ 'score': 53,
+ 'subreddit': 'houston',
+ 'title': 'Things to do in Houston during the weekend - October 24th, 25th, '
+          '26th',
+ 'url': 'https://www.reddit.com/r/houston/comments/1oexth9/things_to_do_in_houston_during_the_weekend/'}
+2025-12-28 19:47:33 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=indian_collage&sort=new&limit=50&after=t3_1ot53qz>
+{'author': 'airmark3',
+ 'created_utc': 1758470544.0,
+ 'keyword': 'indian_collage',
+ 'num_comments': 18,
+ 'permalink': 'https://reddit.com/r/beatlesfanalbums/comments/1nmvt0y/another_white_album_but_not_what_you_think/',
+ 'post_type': 'high_engagement',
+ 'score': 36,
+ 'subreddit': 'beatlesfanalbums',
+ 'title': 'Another White Album - but not what you think',
+ 'url': 'https://www.reddit.com/gallery/1nmvt0y'}
+2025-12-28 19:47:34 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=indian_collage&sort=relevance&limit=50> (referer: None)
+2025-12-28 19:47:34 [scrapy] INFO: Closing spider (finished)
+2025-12-28 19:47:34 [scrapy] INFO: Stored json feed (15 items) in: posts/spiders/output/high_engagement_indian_collage_2025-12-28T14-17-28+00-00.json
+2025-12-28 19:47:34 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 1900,
+ 'downloader/request_count': 3,
+ 'downloader/request_method_count/GET': 3,
+ 'downloader/response_bytes': 492433,
+ 'downloader/response_count': 3,
+ 'downloader/response_status_count/200': 3,
+ 'elapsed_time_seconds': 6.178674,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 12, 28, 14, 17, 34, 750823, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 2209393,
+ 'httpcompression/response_count': 3,
+ 'item_scraped_count': 15,
+ 'log_count/DEBUG': 20,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'request_depth_max': 1,
+ 'response_received_count': 3,
+ 'scheduler/dequeued': 3,
+ 'scheduler/dequeued/memory': 3,
+ 'scheduler/enqueued': 3,
+ 'scheduler/enqueued/memory': 3,
+ 'start_time': datetime.datetime(2025, 12, 28, 14, 17, 28, 572149, tzinfo=datetime.timezone.utc)}
+2025-12-28 19:47:34 [scrapy] INFO: Spider closed (finished)

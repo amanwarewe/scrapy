@@ -1,0 +1,202 @@
+2025-12-28 20:16:07 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50> (referer: None)
+2025-12-28 20:16:07 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50>
+{'author': 'misterxx1958',
+ 'created_utc': 1766526783.0,
+ 'keyword': 'apple_smartwatch',
+ 'num_comments': 66,
+ 'permalink': 'https://reddit.com/r/Damnthatsinteresting/comments/1pu680l/everyone_knows_an_apple_watch_but_this_is_a_seiko/',
+ 'post_type': 'high_engagement',
+ 'score': 2639,
+ 'subreddit': 'Damnthatsinteresting',
+ 'title': 'Everyone knows an Apple Watch - but this is a SEIKO UC 3000 from '
+          '1984, one of the first smartwatches.',
+ 'url': 'https://i.redd.it/1ax0xhq1z09g1.jpeg'}
+2025-12-28 20:16:07 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50>
+{'author': 'zadraaa',
+ 'created_utc': 1766369456.0,
+ 'keyword': 'apple_smartwatch',
+ 'num_comments': 10,
+ 'permalink': 'https://reddit.com/r/HistoricalCapsule/comments/1psnovc/the_original_smartwatch_seiko_rc1000_aka_wrist/',
+ 'post_type': 'high_engagement',
+ 'score': 63,
+ 'subreddit': 'HistoricalCapsule',
+ 'title': 'The Original Smartwatch? Seiko RC-1000 aka Wrist Terminal from 1984 '
+          'could connect to your desktop computer like a Commodore 64, IBM, '
+          'Apple IIe, or BBC Micro.',
+ 'url': 'https://i.redd.it/geuraqj9zn8g1.jpeg'}
+2025-12-28 20:16:07 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50>
+{'author': 'knowledge-bee803',
+ 'created_utc': 1766822899.0,
+ 'keyword': 'apple_smartwatch',
+ 'num_comments': 67,
+ 'permalink': 'https://reddit.com/r/UGCcreators/comments/1pwsjgn/paid_looking_for_creators_to_create_videos_for_a/',
+ 'post_type': 'high_engagement',
+ 'score': 24,
+ 'subreddit': 'UGCcreators',
+ 'title': '[PAID] Looking for creators to create videos for a health and '
+          'fitness product',
+ 'url': 'https://www.reddit.com/r/UGCcreators/comments/1pwsjgn/paid_looking_for_creators_to_create_videos_for_a/'}
+2025-12-28 20:16:07 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50>
+{'author': 'Reasonable-Field-223',
+ 'created_utc': 1766741191.0,
+ 'keyword': 'apple_smartwatch',
+ 'num_comments': 67,
+ 'permalink': 'https://reddit.com/r/AppleWatchFitness/comments/1pw0asv/why_awu_over_the_likes_of_garmin/',
+ 'post_type': 'high_engagement',
+ 'score': 20,
+ 'subreddit': 'AppleWatchFitness',
+ 'title': 'Why AWU over the likes of Garmin?',
+ 'url': 'https://www.reddit.com/r/AppleWatchFitness/comments/1pw0asv/why_awu_over_the_likes_of_garmin/'}
+2025-12-28 20:16:07 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50>
+{'author': 'Hopfield77',
+ 'created_utc': 1766224217.0,
+ 'keyword': 'apple_smartwatch',
+ 'num_comments': 8,
+ 'permalink': 'https://reddit.com/r/xteinkereader/comments/1pras0s/purpose_defeating_cover_case/',
+ 'post_type': 'high_engagement',
+ 'score': 17,
+ 'subreddit': 'xteinkereader',
+ 'title': 'Purpose defeating cover case?',
+ 'url': 'https://i.redd.it/a9u5rwkezb8g1.jpeg'}
+2025-12-28 20:16:07 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50>
+{'author': 'tally_mo',
+ 'created_utc': 1766267600.0,
+ 'keyword': 'apple_smartwatch',
+ 'num_comments': 16,
+ 'permalink': 'https://reddit.com/r/GarminWatches/comments/1prprsu/what_are_your_fitness_watchrelated_toxic_traits/',
+ 'post_type': 'high_engagement',
+ 'score': 15,
+ 'subreddit': 'GarminWatches',
+ 'title': 'What are your fitness watch-related toxic traits?',
+ 'url': 'https://www.reddit.com/r/GarminWatches/comments/1prprsu/what_are_your_fitness_watchrelated_toxic_traits/'}
+2025-12-28 20:16:07 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50>
+{'author': 'RocketCat804',
+ 'created_utc': 1766714194.0,
+ 'keyword': 'apple_smartwatch',
+ 'num_comments': 43,
+ 'permalink': 'https://reddit.com/r/Garmin/comments/1pvslyp/so_torn_as_if_this_is_life_or_death_970_or_965/',
+ 'post_type': 'high_engagement',
+ 'score': 14,
+ 'subreddit': 'Garmin',
+ 'title': 'So torn as if this is life or death - 970 or 965',
+ 'url': 'https://www.reddit.com/r/Garmin/comments/1pvslyp/so_torn_as_if_this_is_life_or_death_970_or_965/'}
+2025-12-28 20:16:10 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50&after=t3_1pqvtwt> (referer: https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50)
+2025-12-28 20:16:10 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50&after=t3_1pqvtwt>
+{'author': 'Advanced-Investfit',
+ 'created_utc': 1765929076.0,
+ 'keyword': 'apple_smartwatch',
+ 'num_comments': 34,
+ 'permalink': 'https://reddit.com/r/GarminFenix/comments/1pohlie/dont_second_guess_just_buy_it_2day_review/',
+ 'post_type': 'high_engagement',
+ 'score': 180,
+ 'subreddit': 'GarminFenix',
+ 'title': 'DON’T SECOND GUESS! JUST BUY IT ✅ 2-DAY REVIEW',
+ 'url': 'https://i.redd.it/lcgn3pfsln7g1.jpeg'}
+2025-12-28 20:16:10 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50&after=t3_1pqvtwt>
+{'author': 'Supermaximus123',
+ 'created_utc': 1766169269.0,
+ 'keyword': 'apple_smartwatch',
+ 'num_comments': 25,
+ 'permalink': 'https://reddit.com/r/Watches/comments/1pqsnql/vintage_apple_watch_official_apple_think/',
+ 'post_type': 'high_engagement',
+ 'score': 155,
+ 'subreddit': 'Watches',
+ 'title': '[vintage Apple Watch] Official Apple “Think Different” analog watch '
+          'found at a thrift store for €7.99',
+ 'url': 'https://www.reddit.com/gallery/1pqsnql'}
+2025-12-28 20:16:10 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50&after=t3_1pqvtwt>
+{'author': 'invivo_works',
+ 'created_utc': 1766092478.0,
+ 'keyword': 'apple_smartwatch',
+ 'num_comments': 26,
+ 'permalink': 'https://reddit.com/r/dumbphones/comments/1pq2fi0/apple_watch_as_a_phone_in_vivo_burner_update/',
+ 'post_type': 'high_engagement',
+ 'score': 28,
+ 'subreddit': 'dumbphones',
+ 'title': 'Apple Watch as a phone : in vivo burner update',
+ 'url': 'https://i.redd.it/ib6s37qn318g1.jpeg'}
+2025-12-28 20:16:10 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50&after=t3_1pqvtwt>
+{'author': 'Historical_Row725',
+ 'created_utc': 1766157531.0,
+ 'keyword': 'apple_smartwatch',
+ 'num_comments': 53,
+ 'permalink': 'https://reddit.com/r/Suunto/comments/1pqno9y/looking_for_advice_regarding_buying_a_watch/',
+ 'post_type': 'high_engagement',
+ 'score': 26,
+ 'subreddit': 'Suunto',
+ 'title': 'Looking for advice regarding buying a watch',
+ 'url': 'https://i.redd.it/lq07e9cvf68g1.jpeg'}
+2025-12-28 20:16:10 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50&after=t3_1pqvtwt>
+{'author': 'FlakyImprovement270',
+ 'created_utc': 1765615782.0,
+ 'keyword': 'apple_smartwatch',
+ 'num_comments': 10,
+ 'permalink': 'https://reddit.com/r/rokid_official/comments/1plgvng/ringfree_gesture_control_tutorial/',
+ 'post_type': 'high_engagement',
+ 'score': 19,
+ 'subreddit': 'rokid_official',
+ 'title': 'Ring-Free Gesture Control Tutorial',
+ 'url': 'https://i.redd.it/ncpoegp7qx6g1.jpeg'}
+2025-12-28 20:16:10 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50&after=t3_1pqvtwt>
+{'author': 'oakseaer',
+ 'created_utc': 1765838244.0,
+ 'keyword': 'apple_smartwatch',
+ 'num_comments': 12,
+ 'permalink': 'https://reddit.com/r/EvenRealities/comments/1pnl9pd/this_feature_release_in_ios_263_seems_like_itll/',
+ 'post_type': 'high_engagement',
+ 'score': 18,
+ 'subreddit': 'EvenRealities',
+ 'title': 'This feature release in iOS 26.3 seems like it’ll be a pretty big '
+          'deal for iPhone users',
+ 'url': 'https://i.redd.it/v8sejnap3g7g1.jpeg'}
+2025-12-28 20:16:10 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50&after=t3_1pqvtwt>
+{'author': 'Own_Whole789',
+ 'created_utc': 1766171964.0,
+ 'keyword': 'apple_smartwatch',
+ 'num_comments': 31,
+ 'permalink': 'https://reddit.com/r/smartwatch/comments/1pqts3i/smartwatch_other_than_apple/',
+ 'post_type': 'high_engagement',
+ 'score': 11,
+ 'subreddit': 'smartwatch',
+ 'title': 'Smartwatch other than Apple?',
+ 'url': 'https://www.reddit.com/r/smartwatch/comments/1pqts3i/smartwatch_other_than_apple/'}
+2025-12-28 20:16:12 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50&after=t3_1plax16> (referer: https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50)
+2025-12-28 20:16:12 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=apple_smartwatch&sort=new&limit=50&after=t3_1plax16>
+{'author': '90sPrime',
+ 'created_utc': 1765301306.0,
+ 'keyword': 'apple_smartwatch',
+ 'num_comments': 13,
+ 'permalink': 'https://reddit.com/r/dumbphones/comments/1pidit6/edc_31_yo_right_handman/',
+ 'post_type': 'high_engagement',
+ 'score': 186,
+ 'subreddit': 'dumbphones',
+ 'title': 'EDC 31 yo right handman',
+ 'url': 'https://i.redd.it/h7a1da44r76g1.jpeg'}
+2025-12-28 20:16:14 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=apple_smartwatch&sort=relevance&limit=50> (referer: None)
+2025-12-28 20:16:14 [scrapy] INFO: Closing spider (finished)
+2025-12-28 20:16:14 [scrapy] INFO: Stored json feed (15 items) in: posts/spiders/output/high_engagement_apple_smartwatch_2025-12-28T14-46-05+00-00.json
+2025-12-28 20:16:14 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 2826,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 4,
+ 'downloader/response_bytes': 292796,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 4,
+ 'elapsed_time_seconds': 9.178126,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 12, 28, 14, 46, 14, 469448, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 1544808,
+ 'httpcompression/response_count': 4,
+ 'item_scraped_count': 15,
+ 'log_count/DEBUG': 21,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'request_depth_max': 2,
+ 'response_received_count': 4,
+ 'scheduler/dequeued': 4,
+ 'scheduler/dequeued/memory': 4,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'start_time': datetime.datetime(2025, 12, 28, 14, 46, 5, 291322, tzinfo=datetime.timezone.utc)}
+2025-12-28 20:16:14 [scrapy] INFO: Spider closed (finished)

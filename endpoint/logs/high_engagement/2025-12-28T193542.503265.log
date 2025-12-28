@@ -1,0 +1,198 @@
+2025-12-28 19:35:43 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=cmf&sort=new&limit=50> (referer: None)
+2025-12-28 19:35:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=cmf&sort=new&limit=50>
+{'author': 'Silverblade_Archi7',
+ 'created_utc': 1766894626.0,
+ 'keyword': 'cmf',
+ 'num_comments': 24,
+ 'permalink': 'https://reddit.com/r/pesmobile/comments/1pxhny6/leage_phase_reward_tonali_worth_the_grind/',
+ 'post_type': 'high_engagement',
+ 'score': 41,
+ 'subreddit': 'pesmobile',
+ 'title': 'Leage Phase Reward: Tonali worth the grind? 🤔',
+ 'url': 'https://i.redd.it/qlho8pbvcv9g1.jpeg'}
+2025-12-28 19:35:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=cmf&sort=new&limit=50>
+{'author': 'WanZed11',
+ 'created_utc': 1766925818.0,
+ 'keyword': 'cmf',
+ 'num_comments': 45,
+ 'permalink': 'https://reddit.com/r/pesmobile/comments/1pxqhvv/how_am_i_supposed_to_play_agaisnt_teams_like_this/',
+ 'post_type': 'high_engagement',
+ 'score': 39,
+ 'subreddit': 'pesmobile',
+ 'title': 'How am i supposed to play agaisnt teams like this man...',
+ 'url': 'https://i.redd.it/s302px8mxx9g1.jpeg'}
+2025-12-28 19:35:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=cmf&sort=new&limit=50>
+{'author': 'D3M0NSL4Y35',
+ 'created_utc': 1766896831.0,
+ 'keyword': 'cmf',
+ 'num_comments': 10,
+ 'permalink': 'https://reddit.com/r/pesmobile/comments/1pxie18/underrated_cards/',
+ 'post_type': 'high_engagement',
+ 'score': 30,
+ 'subreddit': 'pesmobile',
+ 'title': 'Under-rated Cards',
+ 'url': 'https://www.reddit.com/gallery/1pxie18'}
+2025-12-28 19:35:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=cmf&sort=new&limit=50>
+{'author': 'Dangerous_Weird6423',
+ 'created_utc': 1766906599.0,
+ 'keyword': 'cmf',
+ 'num_comments': 44,
+ 'permalink': 'https://reddit.com/r/pesmobile/comments/1pxlbsw/4cbs_lets_report_him/',
+ 'post_type': 'high_engagement',
+ 'score': 29,
+ 'subreddit': 'pesmobile',
+ 'title': "4CBs, Let's Report Him",
+ 'url': 'https://www.reddit.com/gallery/1pxlbsw'}
+2025-12-28 19:35:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=cmf&sort=new&limit=50>
+{'author': 'AmrReda',
+ 'created_utc': 1766928119.0,
+ 'keyword': 'cmf',
+ 'num_comments': 10,
+ 'permalink': 'https://reddit.com/r/pesmobile/comments/1pxr85e/today_reminder_never_open_a_pack_for_a_single/',
+ 'post_type': 'high_engagement',
+ 'score': 23,
+ 'subreddit': 'pesmobile',
+ 'title': 'Today Reminder, Never Open a pack for a single player whatever meta '
+          'he is.',
+ 'url': 'https://i.redd.it/scxhd2vf4y9g1.jpeg'}
+2025-12-28 19:35:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=cmf&sort=new&limit=50>
+{'author': 'CriticismEfficient53',
+ 'created_utc': 1766900216.0,
+ 'keyword': 'cmf',
+ 'num_comments': 11,
+ 'permalink': 'https://reddit.com/r/pesmobile/comments/1pxjgte/real_madrid_squad_update/',
+ 'post_type': 'high_engagement',
+ 'score': 16,
+ 'subreddit': 'pesmobile',
+ 'title': 'Real madrid squad (update)',
+ 'url': 'https://i.redd.it/15io4yphtv9g1.jpeg'}
+2025-12-28 19:35:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=cmf&sort=new&limit=50>
+{'author': 'Low_Fault_2507',
+ 'created_utc': 1766920107.0,
+ 'keyword': 'cmf',
+ 'num_comments': 38,
+ 'permalink': 'https://reddit.com/r/pesmobile/comments/1pxovpk/recommended_players_to_pick_from_the_festive/',
+ 'post_type': 'high_engagement',
+ 'score': 14,
+ 'subreddit': 'pesmobile',
+ 'title': "Recommended players to pick from the festive season and new year's "
+          'gift packs',
+ 'url': 'https://i.redd.it/xc7m8dzmgx9g1.jpeg'}
+2025-12-28 19:35:43 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=cmf&sort=new&limit=50>
+{'author': 'No_Grab1595',
+ 'created_utc': 1766916423.0,
+ 'keyword': 'cmf',
+ 'num_comments': 16,
+ 'permalink': 'https://reddit.com/r/GadgetsIndia/comments/1pxnwa2/phones_under_20k/',
+ 'post_type': 'high_engagement',
+ 'score': 12,
+ 'subreddit': 'GadgetsIndia',
+ 'title': 'Phones under 20k',
+ 'url': 'https://www.reddit.com/r/GadgetsIndia/comments/1pxnwa2/phones_under_20k/'}
+2025-12-28 19:35:46 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=cmf&sort=new&limit=50&after=t3_1pxh57r> (referer: https://www.reddit.com/search.json?q=cmf&sort=new&limit=50)
+2025-12-28 19:35:46 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=cmf&sort=new&limit=50&after=t3_1pxh57r>
+{'author': 'StateHaunting2548',
+ 'created_utc': 1766829369.0,
+ 'keyword': 'cmf',
+ 'num_comments': 43,
+ 'permalink': 'https://reddit.com/r/NOTHING/comments/1pwu7wf/nothing_has_officially_moved_the_charge/',
+ 'post_type': 'high_engagement',
+ 'score': 172,
+ 'subreddit': 'NOTHING',
+ 'title': 'Nothing has officially moved the charge percentage inside the '
+          'battery icon 📢',
+ 'url': 'https://i.redd.it/0z0x7tstyp9g1.png'}
+2025-12-28 19:35:46 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=cmf&sort=new&limit=50&after=t3_1pxh57r>
+{'author': 'Rubel010',
+ 'created_utc': 1766826240.0,
+ 'keyword': 'cmf',
+ 'num_comments': 37,
+ 'permalink': 'https://reddit.com/r/eFootballgame/comments/1pwtekv/does_any_of_these_cards_fit_my_squad_apart_from/',
+ 'post_type': 'high_engagement',
+ 'score': 58,
+ 'subreddit': 'eFootballgame',
+ 'title': 'Does any of these cards fit my squad apart from raul',
+ 'url': 'https://www.reddit.com/gallery/1pwtekv'}
+2025-12-28 19:35:46 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=cmf&sort=new&limit=50&after=t3_1pxh57r>
+{'author': 'H_Glen',
+ 'created_utc': 1766865501.0,
+ 'keyword': 'cmf',
+ 'num_comments': 39,
+ 'permalink': 'https://reddit.com/r/eFootball/comments/1px70jh/why_isnt_ronaldinho_clicking_for_me_like_neymar/',
+ 'post_type': 'high_engagement',
+ 'score': 49,
+ 'subreddit': 'eFootball',
+ 'title': 'Why isn’t Ronaldinho clicking for me like Neymar?',
+ 'url': 'https://www.reddit.com/gallery/1px70jh'}
+2025-12-28 19:35:46 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=cmf&sort=new&limit=50&after=t3_1pxh57r>
+{'author': 'aranirudh',
+ 'created_utc': 1766866949.0,
+ 'keyword': 'cmf',
+ 'num_comments': 8,
+ 'permalink': 'https://reddit.com/r/CMFTech/comments/1px7l2g/photography_using_a_preset_from_nothing_os_40_on/',
+ 'post_type': 'high_engagement',
+ 'score': 37,
+ 'subreddit': 'CMFTech',
+ 'title': 'Photography using a preset from Nothing OS 4.0 on CMF Phone 1',
+ 'url': 'https://www.reddit.com/gallery/1px7l2g'}
+2025-12-28 19:35:46 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=cmf&sort=new&limit=50&after=t3_1pxh57r>
+{'author': 'Solidsnakebop07',
+ 'created_utc': 1766886394.0,
+ 'keyword': 'cmf',
+ 'num_comments': 15,
+ 'permalink': 'https://reddit.com/r/NOTHING/comments/1pxeu18/very_good_for_its_price/',
+ 'post_type': 'high_engagement',
+ 'score': 28,
+ 'subreddit': 'NOTHING',
+ 'title': 'Very good for its price.',
+ 'url': 'https://i.redd.it/936j1fzdou9g1.jpeg'}
+2025-12-28 19:35:46 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=cmf&sort=new&limit=50&after=t3_1pxh57r>
+{'author': 'Key-Understanding633',
+ 'created_utc': 1766854466.0,
+ 'keyword': 'cmf',
+ 'num_comments': 33,
+ 'permalink': 'https://reddit.com/r/pesmobile/comments/1px2i53/should_i_go_for_khan/',
+ 'post_type': 'high_engagement',
+ 'score': 26,
+ 'subreddit': 'pesmobile',
+ 'title': 'Should I go for khan?',
+ 'url': 'https://i.redd.it/fvdh6ybg1s9g1.jpeg'}
+2025-12-28 19:35:46 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=cmf&sort=new&limit=50&after=t3_1pxh57r>
+{'author': 'Persian_cat7',
+ 'created_utc': 1766851424.0,
+ 'keyword': 'cmf',
+ 'num_comments': 27,
+ 'permalink': 'https://reddit.com/r/eFootball/comments/1px19sg/rtg_run_to_division1/',
+ 'post_type': 'high_engagement',
+ 'score': 23,
+ 'subreddit': 'eFootball',
+ 'title': 'RTG run to Division1',
+ 'url': 'https://www.reddit.com/gallery/1px19sg'}
+2025-12-28 19:35:49 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=cmf&sort=relevance&limit=50> (referer: None)
+2025-12-28 19:35:49 [scrapy] INFO: Closing spider (finished)
+2025-12-28 19:35:49 [scrapy] INFO: Stored json feed (15 items) in: posts/spiders/output/high_engagement_cmf_2025-12-28T14-05-42+00-00.json
+2025-12-28 19:35:49 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 1856,
+ 'downloader/request_count': 3,
+ 'downloader/request_method_count/GET': 3,
+ 'downloader/response_bytes': 135608,
+ 'downloader/response_count': 3,
+ 'downloader/response_status_count/200': 3,
+ 'elapsed_time_seconds': 7.445872,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 12, 28, 14, 5, 49, 956850, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 772438,
+ 'httpcompression/response_count': 3,
+ 'item_scraped_count': 15,
+ 'log_count/DEBUG': 31,
+ 'log_count/INFO': 12,
+ 'log_count/WARNING': 1,
+ 'request_depth_max': 1,
+ 'response_received_count': 3,
+ 'scheduler/dequeued': 3,
+ 'scheduler/dequeued/memory': 3,
+ 'scheduler/enqueued': 3,
+ 'scheduler/enqueued/memory': 3,
+ 'start_time': datetime.datetime(2025, 12, 28, 14, 5, 42, 510978, tzinfo=datetime.timezone.utc)}
+2025-12-28 19:35:49 [scrapy] INFO: Spider closed (finished)

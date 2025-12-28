@@ -1,0 +1,1542 @@
+2025-12-28 19:29:21 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50> (referer: None)
+2025-12-28 19:29:25 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/TrendoraX/comments/1nn9eag/breaking_china_launches_kvisa_program_targeting/.json> (referer: https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50)
+2025-12-28 19:29:25 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/TrendoraX/comments/1nn9eag/breaking_china_launches_kvisa_program_targeting/.json>
+{'author': 'satty237',
+ 'created_utc': 1758504199.0,
+ 'keyword': 'china_tech',
+ 'num_comments': 446,
+ 'permalink': 'https://reddit.com/r/TrendoraX/comments/1nn9eag/breaking_china_launches_kvisa_program_targeting/',
+ 'post_type': 'google_ranked',
+ 'score': 1371,
+ 'subreddit': 'TrendoraX',
+ 'title': 'BREAKING: China launches K-VISA program targeting Indian tech '
+          'workers as US tightens H-1B rules with $100K fees',
+ 'top_comments': [{'author': 'Daryno90',
+                   'body': 'It seems like this is going to be China century, '
+                           'they are the one who benefit the most from America '
+                           'fucking itself over with Trump and the republicans',
+                   'score': 59},
+                  {'author': '212C9',
+                   'body': 'At least Americans can soon work factory jobs like '
+                           'the Chinese. The new American Dream = the old '
+                           'Chinese factory jobs',
+                   'score': 51},
+                  {'author': 'bluelifesacrifice',
+                   'body': 'China is doing a hell of a fantastic job rising '
+                           'above the US.',
+                   'score': 19},
+                  {'author': 'ketoatl',
+                   'body': 'China looks like the adult in the room.',
+                   'score': 11},
+                  {'author': 'justlookinghere122',
+                   'body': 'It’s great news for Americans . I urge all Indians '
+                           'with H1b to give up your H1b visa and go to China '
+                           'or wherever. Thank you for your attention to this '
+                           'matter.',
+                   'score': 10},
+                  {'author': '[deleted]',
+                   'body': 'Good, problem solved. Send all H1B to China , '
+                           'including all that are currently residing in U.S.',
+                   'score': 8},
+                  {'author': 'eiretaco',
+                   'body': 'Sad that India exports so many of its brightest '
+                           'minds.\n'
+                           '\n'
+                           'Wages are dismal in comparison to the US however.\n'
+                           'Unsure if china would be a great place to move to. '
+                           'And authoritarian developing country.\n'
+                           '\n'
+                           'If you have the skill set to make money you may as '
+                           'well try and get into the UK/EU to use those '
+                           'skills.\n'
+                           "Won't make as much as the United States but far "
+                           'more than china.\n'
+                           'Also less dictatorshipy',
+                   'score': 7},
+                  {'author': '[deleted]',
+                   'body': "China doesn't have the work culture and standard "
+                           'of living that would attract Indians, unless you '
+                           'are working an extremely cushy job.\n'
+                           '\n'
+                           'The H1B income bracket for most OECD countries is '
+                           'magnitudes more than what is needed for a net '
+                           'positive immigrant. The jobs are also provided by '
+                           "multinational companies so it's not like people "
+                           'would ditch those for Chinese companies which are '
+                           'far riskier.\n'
+                           '\n'
+                           'Which means, most future skilled talent will be '
+                           'pooled to small 3rd party countries with better '
+                           'standard of living, like the UAE, Singapore, etc. '
+                           'It really depends on which country is smart to '
+                           'actually cash in on the opportunity. I do not see '
+                           'much for countries that are not anglo-phone or are '
+                           'out of Indian influence.\n'
+                           '\n'
+                           'The biggest winners would be gulf states.',
+                   'score': 5},
+                  {'author': 'Less-Cat6399',
+                   'body': 'I am already learning mandarin lol, from what ik '
+                           'of china especially major cities. No one gives a '
+                           'fuck if u r an immigrant or not (dont look at '
+                           'exceptions). plus its this authoritarian state or '
+                           'another....same thing globally....might as well go '
+                           'with flow...gotta pay off loans somehow lol',
+                   'score': 5},
+                  {'author': 'PlayfulCynic-2462',
+                   'body': 'It is hilarious that Americans think inbred cousin '
+                           'fuckers made their nation a super power.\n'
+                           '\n'
+                           'The unparalleled ability to pick the best and '
+                           'brightest in the world did.\n'
+                           '\n'
+                           'I.e. immigrants. The dipshits the American '
+                           'education system produces cannot be trusted to run '
+                           'a bar tap.',
+                   'score': 3}],
+ 'url': 'https://i.redd.it/pe7t86ltbmqf1.png'}
+2025-12-28 19:29:27 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/Futurology/comments/129of5k/as_america_obsesses_over_chatgpt_its_losing_the/.json> (referer: https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50)
+2025-12-28 19:29:27 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/Futurology/comments/129of5k/as_america_obsesses_over_chatgpt_its_losing_the/.json>
+{'author': 'fabstr1',
+ 'created_utc': 1680449099.0,
+ 'keyword': 'china_tech',
+ 'num_comments': 1341,
+ 'permalink': 'https://reddit.com/r/Futurology/comments/129of5k/as_america_obsesses_over_chatgpt_its_losing_the/',
+ 'post_type': 'google_ranked',
+ 'score': 12157,
+ 'subreddit': 'Futurology',
+ 'title': '"As America obsesses over ChatGPT, it’s losing the race with China '
+          'on tech in 37 out of 44 key areas, study funded by the State '
+          'Department says "',
+ 'top_comments': [{'author': '[deleted]',
+                   'body': '&gt;defense, space, artificial intelligence, and '
+                           'robotics\n'
+                           '\n'
+                           'I am not a defense expert, but I am an AI expert, '
+                           'and clearly China isnt leading anything in Space, '
+                           "where its still catching up and where USA's SpaceX "
+                           'leads anyone by 15 years or more, and it certainly '
+                           'is not leading in AI either.\n'
+                           '\n'
+                           '&gt;China generated 48.49% of the world’s '
+                           'high-impact research papers\n'
+                           '\n'
+                           "Urgh, here's what China does. China publishes a "
+                           'million AI "scientific" papers a year, of which '
+                           'none have had any significant impacts. All of the '
+                           'anthology papers in AI are from USA or Canada. '
+                           'Next year China publishes another million useless '
+                           'papers, citing other chinese papers. Then if you '
+                           'naively look at citations you get the impression '
+                           'that these papers are impactful because they have '
+                           'lots of citation. But its just useless chinese '
+                           'papers citing other useless chinese papers for the '
+                           'purpose of exactly this: looking like they are '
+                           'leading.',
+                   'score': 4359},
+                  {'author': 'BreakThings',
+                   'body': 'State department propaganda machine working '
+                           'overtime to make US citizens as fearful of China '
+                           'as possible.',
+                   'score': 663},
+                  {'author': '[deleted]',
+                   'body': 'Yes, and our conservative states are doing '
+                           'everything they can to knock off those last '
+                           'remaining markers. They want to hobble and/or '
+                           'dismantle public schools and libraries as if their '
+                           'goal were to move kids over to Talban-like '
+                           'religious schools. How competitive is Afghanistan '
+                           'with China technologically?',
+                   'score': 628},
+                  {'author': 'AtomPoop',
+                   'body': 'Often in studies like this, they use investment as '
+                           'their core metric instead of actual progress in '
+                           "the field, so I'm not convinced looking at the "
+                           'state of Chinese products and semi conductors or '
+                           'space or medicine or much of anything really.\n'
+                           '\n'
+                           'They are over there still building ghost cities '
+                           'out of subpar materials and mass poisoning their '
+                           'drinking water.\n'
+                           '\n'
+                           'And with that huge population, as well as being '
+                           'directly in a geography highly prone to massive '
+                           'climate change damage, I am not really that '
+                           'worried about China.\n'
+                           '\n'
+                           "They're growth is way down, they don't have a "
+                           'circular service economy built, they have almost '
+                           'no experience in modern economic corrections or '
+                           'military, their global reputation is trending '
+                           'rapidly the wrong way, they are very fresh water '
+                           'limited, they are pandemic central and automated '
+                           'industry destorys most of their current economic '
+                           'advantages.\n'
+                           '\n'
+                           'They are in a great position for 30 years ago, but '
+                           'right now they just failed at balancing middle '
+                           'class growth attempts against GDP growth and their '
+                           'reaction to COVID is a good sign how to expect '
+                           'their tech to be implemented, monolithically, and '
+                           'without proper reason due to a bottleneck in upper '
+                           'management making poor top down decision and '
+                           'adopting to their mistakes amazingly slowly.\n'
+                           '\n'
+                           'I was far more concerned about China when they had '
+                           "double digit growth. Now they don't look so stable "
+                           'and the sun is setting on their cheap foreign '
+                           'labor advantage with many countries offering cheap '
+                           'options and automation soon to offer even more '
+                           'savings.\n'
+                           '\n'
+                           'Automation won’t be the death of globalization, '
+                           'but it’s gonna take a big ass chunk out of it. '
+                           'China will be a highly industrialized country that '
+                           'most of their customers have no brand loyalty '
+                           'toward as they can only offer more and more '
+                           'expensive products with all the CCP strings '
+                           'attached.',
+                   'score': 374},
+                  {'author': 'peter303_',
+                   'body': 'Older people remember similar "losing the war" '
+                           'scares about Japan in the 1980s and USSR in the '
+                           '1960s. They may catch up, but rarely exceed.\n'
+                           '\n'
+                           'The important thing is strong STEM training and '
+                           'employment programs. When I lived in China I '
+                           'noticed a much stronger interest in STEM than the '
+                           'US. Some Americans say STEM is too difficult or '
+                           'not as lucrative as other occupations.',
+                   'score': 177},
+                  {'author': '[deleted]',
+                   'body': 'Culture wars instead of actuality teaching science '
+                           ', math and grammar',
+                   'score': 122},
+                  {'author': 'technofuture8',
+                   'body': "America has the world's most advanced computer "
+                           'chips.\n'
+                           '\n'
+                           "America has the world's most advanced AI.\n"
+                           '\n'
+                           "America has the world's most advanced robots, just "
+                           'look at Boston Dynamics.\n'
+                           '\n'
+                           "There's a company in Europe that produces the "
+                           "equipment that's needed to manufacture the world's "
+                           'most advanced computer chips and the USA WILL NOT '
+                           'let China get their hands on it, China has been '
+                           'trying to make their own computer chips but they '
+                           "don't have the talent. \n"
+                           '\n'
+                           'America is leading the world in fusion research, '
+                           'most likely the first successful fusion reactor '
+                           'will probably happen in America.\n'
+                           '\n'
+                           "America has the world's most advanced rockets, "
+                           "anyone ever heard of SpaceX? China doesn't have "
+                           'anything that even comes close to SpaceX, anyone '
+                           "here ever heard of SpaceX's Starship rocket? China "
+                           'has nothing that even comes close to the Starship '
+                           'rocket.\n'
+                           '\n'
+                           'Anyone ever heard of Tesla? \n'
+                           '\n'
+                           "So I'm very curious, in what areas is China "
+                           'actually leading the USA?',
+                   'score': 64},
+                  {'author': 'Gerrut_batsbak',
+                   'body': 'How does one go about accurately measuring these '
+                           'things in a heavely restricted communist country '
+                           'that has made a sport out of lying through their '
+                           'teeth about pretty much everything?\n'
+                           '\n'
+                           'Not to mention china steals technology like theyre '
+                           'going out for groceries.\n'
+                           "If it's leading so much, why does it steal "
+                           'trillions worth of technology research?',
+                   'score': 63},
+                  {'author': 'chrisjinna',
+                   'body': 'There is one thing I know china has the advantage '
+                           'and that is to be able to evolve a product '
+                           'quickly. Electric mountains bikes went from '
+                           'looking like something that was made in a garage '
+                           'to a sleek agile trail destroyers in 2 years in '
+                           "the retail market. Now I don't know if that was "
+                           "from western designers or was it China's home brew "
+                           'designs. Same thing with these one wheel electric '
+                           'unicycles. They took that thing from garage to the '
+                           'Jetsons in a shorter time frame.  Can they do that '
+                           'with other emerging technologies, I have no idea. '
+                           'China is such a hard place to get trusted info out '
+                           'of. They open and close companies/rebrand so '
+                           'quickly.',
+                   'score': 39},
+                  {'author': 'Genova_Witness',
+                   'body': 'Where’s that clip of the Russian defector in the '
+                           '80s explaining how the kgb might corrupt American '
+                           'into incompetence.',
+                   'score': 17}],
+ 'url': 'https://finance.yahoo.com/news/america-obsesses-over-chatgpt-losing-181148864.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAKSH5Zp_0IqzK5iIhP0BLedNpbtUO38P9bwz32Ow0Y-Pe6ivGPMN2fAeof-BaHKxErw5GmgqT9M9zT6CKNnGXFQV8hkddIebea8wF_jE_007XAky2wFK5x5R851Ecg_4V9aNaT_3tIz_MRxUwe8I52oPV4EiZIT4n3WX7D4sHVX1'}
+2025-12-28 19:29:30 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/politics/comments/14g2wmo/ford_is_getting_92_billion_from_the_biden/.json> (referer: https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50)
+2025-12-28 19:29:30 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/politics/comments/14g2wmo/ford_is_getting_92_billion_from_the_biden/.json>
+{'author': 'bloomberg',
+ 'created_utc': 1687438764.0,
+ 'keyword': 'china_tech',
+ 'num_comments': 1471,
+ 'permalink': 'https://reddit.com/r/politics/comments/14g2wmo/ford_is_getting_92_billion_from_the_biden/',
+ 'post_type': 'google_ranked',
+ 'score': 19262,
+ 'subreddit': 'politics',
+ 'title': 'Ford is getting $9.2 billion from the Biden administration to '
+          'develop three EV battery factories. The loans are a watershed '
+          'moment in the US race to catch up with China on green tech',
+ 'top_comments': [{'author': 'Boomfaced',
+                   'body': 'They should write in the contract an ability to '
+                           'override state blocked, direct sales to customers '
+                           'at the same half price sales as they do for  '
+                           'dealerships. It’s our money it should be are '
+                           'benefits and discounts',
+                   'score': 2037},
+                  {'author': '[deleted]', 'body': '[deleted]', 'score': 900},
+                  {'author': '[deleted]',
+                   'body': 'Biden continuing his investing in American future '
+                           'competitiveness in green tech. \n'
+                           '\n'
+                           'I honestly think Biden has had a great presidency. '
+                           "He's restored normalcy to the Oval Office, kept "
+                           'from scandals, worked to reduce the deficit while '
+                           'not cutting important programs and investing in '
+                           'American industries, and restored (or started '
+                           "restoring) America's place as an influential, "
+                           'pro-democracy and human rights power in the world. '
+                           'He even raised taxes, hooray (not even /s).\n'
+                           '\n'
+                           "He's also been willing to go right of the line in "
+                           'some areas like immigration, actually negotiating '
+                           '(gasp) with republicans on the debt ceiling, and '
+                           'has even upped Trumps hawkishness on China.\n'
+                           '\n'
+                           'The Supreme Court and the House have limited what '
+                           'he could do, but he fills my left-leaning centrist '
+                           'heart with joy.',
+                   'score': 552},
+                  {'author': 'fightin_blue_hens',
+                   'body': 'They better fucking not do what the isps did when '
+                           'we gave them money for infrastructure.',
+                   'score': 284},
+                  {'author': '[deleted]',
+                   'body': '*republicans* THIS IS SOMEHOW BAD!!',
+                   'score': 128},
+                  {'author': 'twesterm',
+                   'body': 'Meanwhile, I am going to have to start paying a '
+                           'first time registration fee of $400 and then a '
+                           'yearly registration fee of $200 on my EV in '
+                           'Texas.\n'
+                           '\n'
+                           'I totally support paying a larger registration fee '
+                           "because I don't buy gas, but having the yearly fee "
+                           'being more than double what an ICE engine pays in '
+                           'taxes per year is pretty criminal _(typical ICE '
+                           'cars end up paying about $80 in gas taxes that '
+                           'goes towards the state)_.',
+                   'score': 125},
+                  {'author': 'brandonas1987',
+                   'body': 'Cool, do high speed rail next.',
+                   'score': 66},
+                  {'author': 'alkla1',
+                   'body': 'Can we get a couple of billions to pay off the '
+                           'remaining student loans?',
+                   'score': 51},
+                  {'author': 'ebone23',
+                   'body': 'Funny how socialism only works when industry needs '
+                           'it.',
+                   'score': 35},
+                  {'author': 'Asfastas33',
+                   'body': 'What I’ll never understand about conservatives '
+                           'being against green tech, is, yes it may not be '
+                           'feasible today, but it is the future. And would '
+                           'you rather be a major importer or exporter?',
+                   'score': 33}],
+ 'url': 'https://www.bloomberg.com/graphics/2023-ford-ev-battery-plant-funding-biden-green-technology/?sref=xuVirdpv'}
+2025-12-28 19:29:33 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/wallstreetbets/comments/1nj7ppu/china_tells_its_tech_companies_to_stop_buying/.json> (referer: https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50)
+2025-12-28 19:29:33 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/wallstreetbets/comments/1nj7ppu/china_tells_its_tech_companies_to_stop_buying/.json>
+{'author': 'PadreJuanBrumoso',
+ 'created_utc': 1758098559.0,
+ 'keyword': 'china_tech',
+ 'num_comments': 273,
+ 'permalink': 'https://reddit.com/r/wallstreetbets/comments/1nj7ppu/china_tells_its_tech_companies_to_stop_buying/',
+ 'post_type': 'google_ranked',
+ 'score': 3149,
+ 'subreddit': 'wallstreetbets',
+ 'title': 'China tells its tech companies to stop buying Nvidia’s AI chips',
+ 'top_comments': [{'author': 'Kuliyayoi',
+                   'body': 'Who needs fomc when you have China',
+                   'score': 900},
+                  {'author': 'a_human_21',
+                   'body': 'The right time for the leather jacket man to drop '
+                           'the next gen chips',
+                   'score': 724},
+                  {'author': 'pancakesformeandu',
+                   'body': 'https://preview.redd.it/thkn8cmgxopf1.png?width=342&amp;format=png&amp;auto=webp&amp;s=2be3438481a791d0f9af74ee285600ff55a23126',
+                   'score': 601},
+                  {'author': 'justsharted1',
+                   'body': 'my calllssssss',
+                   'score': 518},
+                  {'author': 'I-ProGamer-I',
+                   'body': 'Probably somehow bullish',
+                   'score': 358},
+                  {'author': 'KaiCypret',
+                   'body': "A certain retard is going to destroy the US's "
+                           'economic and technological hegemony lol',
+                   'score': 237},
+                  {'author': 'Critical_Concert_689',
+                   'body': 'Stock is going to go up (after the FED dip)\n'
+                           '\n'
+                           'This was priced in a week ago when it was '
+                           '*actually* announced.\n'
+                           '\n'
+                           'Current news is BigTech moving into the UK.',
+                   'score': 161},
+                  {'author': 'joemacross',
+                   'body': 'https://preview.redd.it/7teku2zxvopf1.png?width=480&amp;format=png&amp;auto=webp&amp;s=6a94d9a3f08f1bb9fd0aea95a104ad189cac80ce',
+                   'score': 81},
+                  {'author': 'Critical_Sandwich_46',
+                   'body': 'My 0.732 shares will never financially recover '
+                           'from this.',
+                   'score': 55},
+                  {'author': 'Embarrassed-Buy-3690',
+                   'body': 'AMD CALL?',
+                   'score': 28}],
+ 'url': 'https://www.ft.com/content/12adf92d-3e34-428a-8d61-c9169511915c'}
+2025-12-28 19:29:35 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/europe/comments/1pe0sag/macron_urges_chinese_firms_to_invest_in_france_eu/.json> (referer: https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50)
+2025-12-28 19:29:35 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/europe/comments/1pe0sag/macron_urges_chinese_firms_to_invest_in_france_eu/.json>
+{'author': 'findfunnyvideo',
+ 'created_utc': 1764856956.0,
+ 'keyword': 'china_tech',
+ 'num_comments': 566,
+ 'permalink': 'https://reddit.com/r/europe/comments/1pe0sag/macron_urges_chinese_firms_to_invest_in_france_eu/',
+ 'post_type': 'google_ranked',
+ 'score': 1292,
+ 'subreddit': 'europe',
+ 'title': 'Macron urges Chinese firms to invest in France, EU as tech gap '
+          'widens. China once exported cheap goods to Europe – now, French '
+          'leader urges its firms to transfer tech expertise',
+ 'top_comments': [{'author': 'UndeadBBQ',
+                   'body': 'Its absolutely wild how much the West dropped the '
+                           'ball the last 30 years.',
+                   'score': 1015},
+                  {'author': 'Toums95',
+                   'body': 'Are they going to seize control of the companies '
+                           'that do that though, like it happened to Nexperia?',
+                   'score': 270},
+                  {'author': 'helena-dido',
+                   'body': 'nothing to see here, tomorrow redditors will say '
+                           'that "EU is economic powerhouse"',
+                   'score': 215},
+                  {'author': 'InCloud44',
+                   'body': 'And yet...they will tell especially to those in '
+                           'eastern part of Europe to not use chinese products '
+                           'because they will spy on EU or NATO.',
+                   'score': 191},
+                  {'author': 'lostinspacs',
+                   'body': 'China has no intention whatsoever of throwing '
+                           'France or any other European nation a bone lol\n'
+                           '\n'
+                           'They still talk about the century of humiliation',
+                   'score': 186},
+                  {'author': 'tranbun',
+                   'body': 'China offered low labor cost and huge industrial '
+                           'scale, what does France have to offer now? A glass '
+                           'of wine and a croissant?',
+                   'score': 119},
+                  {'author': 'search_google_com',
+                   'body': 'As a Taiwanese living in Europe, I can say Europe '
+                           'is definitely stuck in the past. Not surprised '
+                           'with this. Still many Europeans do not know they '
+                           'are lagging behind. And get surprised that Asian '
+                           'countries are more developed than they imagine '
+                           'after visiting Asia.\n'
+                           'At the same time, I am annoyed with Macron telling '
+                           'Taiwan is irrelevant to Europe. SMH',
+                   'score': 57},
+                  {'author': 'Unhappy_Sugar_5091',
+                   'body': 'Trust in EU economies is low since the illegal '
+                           'intervention by Dutch government and EU '
+                           'fundamentally not doing anything to mend the '
+                           'trust.  If France wants to be serious about it, at '
+                           'least stop bending over backward to orange king '
+                           'and make it a positive step instead of a '
+                           'reactionary move toward the other side whenever '
+                           'Orang King spanks harder than normal.',
+                   'score': 52},
+                  {'author': 'krazydude22',
+                   'body': 'Macron to China : Invest in France, [China '
+                           'invading Taiwan is not my '
+                           'problem](https://edition.cnn.com/2023/04/13/europe/macron-taiwan-comments-transatlantic-relationship-intl-cmd)....',
+                   'score': 32},
+                  {'author': '[deleted]', 'body': '[deleted]', 'score': 26}],
+ 'url': 'https://www.scmp.com/economy/global-economy/article/3335217/macron-urges-chinese-firms-invest-france-eu-tech-gap-widens'}
+2025-12-28 19:29:37 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1ib6xrm/nvidia_falls_14_in_premarket_trading_as_chinas/.json> (referer: https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50)
+2025-12-28 19:29:38 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1ib6xrm/nvidia_falls_14_in_premarket_trading_as_chinas/.json>
+{'author': 'HellYeahDamnWrite',
+ 'created_utc': 1737978700.0,
+ 'keyword': 'china_tech',
+ 'num_comments': 801,
+ 'permalink': 'https://reddit.com/r/technology/comments/1ib6xrm/nvidia_falls_14_in_premarket_trading_as_chinas/',
+ 'post_type': 'google_ranked',
+ 'score': 6364,
+ 'subreddit': 'technology',
+ 'title': "Nvidia falls 14% in premarket trading as China's DeepSeek triggers "
+          'global tech sell-off',
+ 'top_comments': [{'author': 'terjon',
+                   'body': "Well that's how $500B-ish goes poof in one day.\n"
+                           '\n'
+                           'This is going to drag the whole market down '
+                           'today.  Hold on to your butts if you are a tech '
+                           'investor.',
+                   'score': 2289},
+                  {'author': 'pronounclown',
+                   'body': 'Please let the AI bubble explode and lets come up '
+                           'with a new fad. So tired of this AI shit.',
+                   'score': 1065},
+                  {'author': 'MotanulScotishFold',
+                   'body': 'So....are we expecting cheaper GPU for gamers now? '
+                           '(not).',
+                   'score': 704},
+                  {'author': 'qtx',
+                   'body': '&gt; - DeepSeek launched a free, open-source '
+                           'large-language model in late December, claiming it '
+                           'was developed in just two months at a cost of '
+                           'under $6 million.\n'
+                           '&gt;\n'
+                           '&gt; - The developments have stoked questions '
+                           'about the large amounts of money big tech '
+                           'companies have been investing in AI models and '
+                           'data centers.\n'
+                           '\n'
+                           'That is just hilarious.\n'
+                           '\n'
+                           'Just shows you how scummy these AI companies are. '
+                           'Pretending shit takes billions to make and here '
+                           'comes so newbie showing everything is a lie and it '
+                           "doesn't need massive investments to be able to "
+                           'run.\n'
+                           '\n'
+                           '&gt;  Last week, the company released a reasoning '
+                           'model that also reportedly outperformed OpenAI’s '
+                           'latest in many third-party tests.\n'
+                           '\n'
+                           'Just hilarious.\n'
+                           '\n'
+                           'Pop that bubble my dudes, pop it fast.',
+                   'score': 590},
+                  {'author': 'HighDeltaVee',
+                   'body': 'Volatility is going to go through the roof for a '
+                           'few weeks.\n'
+                           '\n'
+                           'Enjoy the ride.',
+                   'score': 528},
+                  {'author': '[deleted]',
+                   'body': 'This is what happens when someone actually tries '
+                           'to make good tech, instead of just rolling '
+                           'something out and marketing it as good tech. '
+                           'American companies are getting lazy and relying on '
+                           'advertising rather than building good products.  '
+                           'So much for “CapItAliSm BrEeDs InNoVaTiOn.”',
+                   'score': 268},
+                  {'author': 'MonCarnetdePoche_',
+                   'body': 'There is something poetic about this. Especially '
+                           'after seeing all those tech billionaires kiss '
+                           'Trumps ass at the inauguration',
+                   'score': 263},
+                  {'author': 'cookingboy',
+                   'body': 'I wrote this explanation in the investment thread, '
+                           'I’ll paste it here:\n'
+                           '\n'
+                           'So due to sanction, DeepSeek was trained on the '
+                           'nerfed Nvidia H800, which has a fraction of the '
+                           'computing power as the H100, let alone the new '
+                           'B200, and retails for cheaper, with less profit to '
+                           'Nvidia.\n'
+                           '\n'
+                           'If cutting edge models can be trained on much less '
+                           'compute, then there will be less demand for the '
+                           'highest profit margin, most expensive GPUs from '
+                           'Nvidia.\n'
+                           '\n'
+                           'At least that’s what the market fears.\n'
+                           '\n'
+                           'But I don’t think so, I think compute does matter '
+                           'and all the top companies will just also improve '
+                           'their algorithm to get even better models out of '
+                           'the more powerful hardware.\n'
+                           '\n'
+                           'There is no “finishing line” in sight for AI in '
+                           'the near term, the more compute, the better. The '
+                           'better the algorithm, the better. Top companies '
+                           'aren’t going to penny pinch.\n'
+                           '\n'
+                           'However if there really is a lot of room for '
+                           'improvement on the algorithm side, companies may '
+                           'shift resources there first since it’s so much '
+                           'less capital intensive. This will indeed hurt '
+                           'Nvidia (and the U.S as a whole)’s choke on the '
+                           'cutting edge AI arena.',
+                   'score': 232},
+                  {'author': 'ArchiTechOfTheFuture',
+                   'body': 'But can somebody explain it to me? Like at the end '
+                           'of the day that model was trained using GPUs, or '
+                           "is it because they found that they didn't need "
+                           'massive datacenters to train it? But did they '
+                           'prove then that the scaling law is false?',
+                   'score': 162},
+                  {'author': '_chip',
+                   'body': 'It’s open source.. someone Ststeside has probably '
+                           'taken a good look at how it was developed. Bring '
+                           'the costs of what they’re doing here down for '
+                           'future models.',
+                   'score': 58}],
+ 'url': 'https://www.cnbc.com/2025/01/27/nvidia-falls-10percent-in-premarket-trading-as-chinas-deepseek-triggers-global-tech-sell-off.html'}
+2025-12-28 19:29:40 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/investing/comments/1jsz3ki/china_just_turned_off_us_supplies_of_minerals/.json> (referer: https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50)
+2025-12-28 19:29:40 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/investing/comments/1jsz3ki/china_just_turned_off_us_supplies_of_minerals/.json>
+{'author': 'Tiny-Art7074',
+ 'created_utc': 1743959587.0,
+ 'keyword': 'china_tech',
+ 'num_comments': 781,
+ 'permalink': 'https://reddit.com/r/investing/comments/1jsz3ki/china_just_turned_off_us_supplies_of_minerals/',
+ 'post_type': 'google_ranked',
+ 'score': 4892,
+ 'subreddit': 'investing',
+ 'title': 'China Just Turned Off U.S. Supplies Of Minerals Critical For '
+          'Defense &amp; Modern Tech',
+ 'top_comments': [{'author': 'Insciuspetra',
+                   'body': 'Why prepare for a trade war when you can just hit '
+                           'the gas now with a rope around your waist and a '
+                           'used set of rollerblades duct-taped to your feet?\n'
+                           '\n'
+                           '~\n'
+                           '\n'
+                           '📜\n'
+                           '\n'
+                           '*”To build may have to be the slow and laborious '
+                           'task of years. To destroy can be the thoughtless '
+                           'act of a single day.”*\n'
+                           '\n'
+                           '~ **Winston Churchill** ~',
+                   'score': 1147},
+                  {'author': 'Everythings_Magic',
+                   'body': 'Wait until China invades Taiwan and cuts the US '
+                           'off computer chips.',
+                   'score': 425},
+                  {'author': 'TimedogGAF',
+                   'body': 'Stock market next week should be another fun one.',
+                   'score': 305},
+                  {'author': '[deleted]',
+                   'body': 'This gives him his greenland excuse. What a '
+                           'fucking disaster. if you voted for this you failed '
+                           'an open book test.',
+                   'score': 254},
+                  {'author': 'idiotnoobx',
+                   'body': 'Can’t stop winning!',
+                   'score': 221},
+                  {'author': 'IslesFanInNH',
+                   'body': '🥭 isn’t going to like this with his obsession over '
+                           'rare earths!',
+                   'score': 210},
+                  {'author': 'FangGore',
+                   'body': 'My guess was that China would overtake the US as '
+                           'the largest economy by the mid 30’s, but I guess '
+                           'it will be done in the 20’s. \n'
+                           '\n'
+                           'Slowly it will dawn on the current US '
+                           'administration that China already won this fight.',
+                   'score': 146},
+                  {'author': 'zedk47',
+                   'body': "As an European, I'll end up trusting Chinese "
+                           "leadership more than America's",
+                   'score': 137},
+                  {'author': 'Trakeen',
+                   'body': 'We don’t make anything in the country so we don’t '
+                           'need rare earth metals\n'
+                           '\n'
+                           'Your move china\n'
+                           '\n'
+                           '/s',
+                   'score': 123},
+                  {'author': 'dividebyoh',
+                   'body': 'You’re right that this explicitly won’t get '
+                           'mainstream press attention - but will be '
+                           'tangentially included in all the “$2500 phones!” '
+                           'types of pieces.',
+                   'score': 101}],
+ 'url': 'https://www.reddit.com/r/investing/comments/1jsz3ki/china_just_turned_off_us_supplies_of_minerals/'}
+2025-12-28 19:29:42 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/todayilearned/comments/1dd0r4a/til_one_tech_company_in_china_motivates_their/.json> (referer: https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50)
+2025-12-28 19:29:42 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/todayilearned/comments/1dd0r4a/til_one_tech_company_in_china_motivates_their/.json>
+{'author': 'Flares117',
+ 'created_utc': 1718064602.0,
+ 'keyword': 'china_tech',
+ 'num_comments': 1214,
+ 'permalink': 'https://reddit.com/r/todayilearned/comments/1dd0r4a/til_one_tech_company_in_china_motivates_their/',
+ 'post_type': 'google_ranked',
+ 'score': 26937,
+ 'subreddit': 'todayilearned',
+ 'title': 'TIL: One tech company in China motivates their programmers by '
+          'hiring "cheerleaders". The attracted girls chit-chat, get food, '
+          'play ping-pong, and clap for you. The HR manager said "the '
+          'programmers are mostly male and terrible at socializing, the '
+          'presence of the girls improved their motivation".',
+ 'top_comments': [{'author': 'plasmalightwave',
+                   'body': 'You merged your pull request to the main branch? '
+                           'Time for cheerleaders to come and dance near your '
+                           'desk!',
+                   'score': 8857},
+                  {'author': 'Prestigious-Bar-1741',
+                   'body': 'Not quite the same thing, but years ago I worked '
+                           'for a boring software company that hired an '
+                           'attractive girl as a QA tester. \n'
+                           '\n'
+                           'She was completely unqualified.\n'
+                           '\n'
+                           'But everyone loved her. It was very very strange '
+                           'how much of an impact she had on everyone around '
+                           'her. She was friendly, cheerful, very much a '
+                           'cheerleader vibe, but without the high school '
+                           'arrogance or whatever. She never flirted, but she '
+                           'was very social and, I dunno, she just seemed '
+                           'genuinely nice to everyone. \n'
+                           '\n'
+                           "She wasn't a particularly fast learner and in her "
+                           'first year she remained pretty bad at her actual '
+                           'work. But I dunno... She just made everyone '
+                           'happier. \n'
+                           '\n'
+                           'I miss working with her and I really and truly see '
+                           'a value in having people fill that sort of role in '
+                           'an office, even though I see how incredibly '
+                           'problematic it could be.',
+                   'score': 6259},
+                  {'author': 'jungl3j1m',
+                   'body': 'I’m a production supervisor in a factory, and I '
+                           'see this as a big part of my job. I’m constantly '
+                           'walking the shop floor giving people a smile and a '
+                           'thumbs up, thanking them for working overtime, '
+                           'meeting production goals, cleaning up… My boss '
+                           'says I shouldn’t thank them for just doing their '
+                           'jobs. I think he’s just an asshole.',
+                   'score': 4778},
+                  {'author': 'Flares117',
+                   'body': 'I suggest you read the articles and links lol.\n'
+                           '\n'
+                           'They are dubbed "programming cheerleaders" All '
+                           'super attractive young girls. the pictures and '
+                           'videos on fb and billibilli are great. The company '
+                           'still hires them. \n'
+                           '\n'
+                           'From the article they\n'
+                           '\n'
+                           '* They also sometimes smile and clap for male '
+                           'employees who play guitar in the office\n'
+                           '* cheerleaders will reportedly take breakfast '
+                           'orders from employees right at their desks.\n'
+                           "* The country's government-run news service "
+                           'China.org.cn reported last week that internet '
+                           'companies "across China" are hiring "pretty, '
+                           'talented girls that help create a fun work '
+                           'environment.\n'
+                           '* Dubbed "programming cheerleaders," these young '
+                           'women serve to chit-chat and play Ping-Pong with '
+                           'employees as part of their role.\n'
+                           '\n'
+                           'The videos and outcry was big, but it seems they '
+                           'still hire them and it works somehow.\n'
+                           '\n'
+                           'the video of them interacting with the employees '
+                           "is the most cringe shit I've ever seen. I think "
+                           'our programmers are more socially adept.\n'
+                           '\n'
+                           "Here's a NYTimes article if you want in depth "
+                           'https://www.nytimes.com/2018/04/24/business/china-women-technology.html '
+                           'Be prepared to be entertained or disgusted, or '
+                           'cringe into oblivion.\n'
+                           '\n'
+                           'Like, the employers and HR people have NO CHILL. '
+                           'Like in the West, I think even the Karens in HR '
+                           "wouldn't openly talk that much shit about you. "
+                           'They outright call them nerds and they need the '
+                           'cheerleaders lmao. In interviews.\n'
+                           '\n'
+                           "Here's one of the workers\n"
+                           '\n'
+                           '"Ms. Shen is a “programmer motivator,” as they are '
+                           'known in China. Part psychologist, part '
+                           'cheerleader, the women are hired to chat up and '
+                           'calm stressed-out coders. The jobs are '
+                           'proliferating in a society that largely adheres to '
+                           'gender stereotypes and believes that male '
+                           'programmers are “zhai,” or nerds who have no '
+                           'social lives.\n'
+                           '\n'
+                           '“They really need someone to talk to them from '
+                           'time to time and to organize activities for them '
+                           'to ease some of the pressure,” said Ms. Shen, a '
+                           '25-year-old who has a degree in civil engineering '
+                           'from a university in Beijing.\n'
+                           '\n'
+                           'Good excerpt from the nytimes and billibilli vids\n'
+                           '\n'
+                           '* Zhang Jing, a human resources executive who '
+                           'hired Ms. Shen, said it was around $950 a month.\n'
+                           '\n'
+                           '* Ms. Shen came to Beijing from the northeastern '
+                           'province of Heilongjiang. She has long black hair '
+                           'and pale skin and wears red eye shadow to the '
+                           'office,\n'
+                           '\n'
+                           '* the bulk of her work is tending the front desk, '
+                           'organizing social events, ordering snacks for tea '
+                           'breaks and chatting with the programmers. She may '
+                           'call a programmer to a conference room and ask '
+                           'him, “Did you have to work overtime?” before '
+                           'listening to his various frustrations\n'
+                           '*  thought it was really novel,” Ms. Shen said, '
+                           '“because I had never seen such a job before.”\n'
+                           '* When workers are working to 11pm+ (asians work '
+                           'more than westerners). She has to stay behind and '
+                           'chat and cheer for them and even MASSAGE them '
+                           'while they are coding\n'
+                           '* Massage is usually back and shoulders. Some '
+                           "employees don't like physical contact, so she "
+                           'gives them quotes of motivation like "you can do '
+                           'it", "I\'m so proud of you"\n'
+                           '* The HR director stated a panel was involved to '
+                           'hire each cheerleader - They must be taller than 5 '
+                           'foot 2, know how to apply makeup, and how a good '
+                           'laugh. They fucking judge you on your laugh.\n'
+                           '* When asked about why no male cheerleaders - HR '
+                           'said they will consider it when there are more '
+                           'female programmers. \n'
+                           '* The employees interviewed liked it.\n'
+                           '\n'
+                           'The dark side of it, rumors and comments on fb and '
+                           'such state that in some companies, the employee of '
+                           'the month/year or best employee can spend 1 night '
+                           'with a cheerleader paid by the company',
+                   'score': 963},
+                  {'author': 'Suilenroc',
+                   'body': "I've heard of work wives, but work waifus are new "
+                           'to me.',
+                   'score': 866},
+                  {'author': 'Bupod',
+                   'body': 'The worst part is I can, underneath all of the '
+                           'obvious problems, see sort of a half-decent idea? '
+                           'The idea of a sort of counselor that regularly and '
+                           'personally checks up on overworked workers, to see '
+                           "how they're doing, listen to their frustrations, "
+                           'validate their feelings and see to it that small '
+                           "comforts and needs are being provided for isn't "
+                           "actually a terrible idea. It's quite empathetic "
+                           'and human, and probably *would* be very '
+                           'successful.\n'
+                           '\n'
+                           'The issue is they decided to take that idea, turn '
+                           'it in to an attractive young woman in a hooters '
+                           'outfit, and sexualize the hell out of it. It '
+                           "becomes very problematic then, but I don't think "
+                           'the very core of the concept is rotten.',
+                   'score': 366},
+                  {'author': 'rileyoneill',
+                   'body': 'This goes on in Silicon Valley but is not out in '
+                           'the open, but its fairly common for tech companies '
+                           'to hire young, and very attractive women, with '
+                           'zero tech background to work in their tech '
+                           'offices,  frequently bundling them up with '
+                           '"Project Manager" roles.',
+                   'score': 354},
+                  {'author': 'HopeFox',
+                   'body': 'Corporations will do anything to improve their '
+                           "employees' mental health except give them a 40 "
+                           'hour work week.',
+                   'score': 267},
+                  {'author': 'happycharm',
+                   'body': 'Looks like they have at least one female '
+                           'programmer working there. What does she get?\xa0',
+                   'score': 231},
+                  {'author': 'Kempeth',
+                   'body': "I mean it's easy to focus on the aspect of them "
+                           "being attractive girls but we shouldn't overlook "
+                           'the rest of the ~~fucking owl~~ list.\n'
+                           '\n'
+                           'I bet A LOT of companies would benefit from making '
+                           'the workplace a happier, more supportive and '
+                           'positive environment.\n'
+                           '\n'
+                           'My old boss was a grumpy old guy who only ever '
+                           "complained and criticised. In 5 years I've never "
+                           "once heard a word of praise. Now I don't *need* "
+                           'the "who\'s a good boy" treatment but it sure '
+                           'would be fucking nice to get a positive '
+                           'interaction every once in a while.\n'
+                           '\n'
+                           "Luckily we've got a team lead now and it's SO much "
+                           'more pleasant.',
+                   'score': 101}],
+ 'url': 'https://www.cbc.ca/news/trending/chinese-tech-companies-hire-office-cheerleaders-to-motivate-programmers-1.3202020'}
+2025-12-28 19:29:45 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1h2wbcz/wsj_china_is_bombarding_tech_talent_with_job/.json> (referer: https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50)
+2025-12-28 19:29:45 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1h2wbcz/wsj_china_is_bombarding_tech_talent_with_job/.json>
+{'author': 'tommos',
+ 'created_utc': 1732915644.0,
+ 'keyword': 'china_tech',
+ 'num_comments': 1384,
+ 'permalink': 'https://reddit.com/r/technology/comments/1h2wbcz/wsj_china_is_bombarding_tech_talent_with_job/',
+ 'post_type': 'google_ranked',
+ 'score': 9845,
+ 'subreddit': 'technology',
+ 'title': 'WSJ: China Is Bombarding Tech Talent With Job Offers. The West Is '
+          'Freaking Out.',
+ 'top_comments': [{'author': '[deleted]',
+                   'body': 'What did people expect? The technology is '
+                           'developed by people not by companies and you can '
+                           "hire people. Of course. I'm sure oligarchs would "
+                           "prefer you can't hire their people, but maybe "
+                           "that's what's going to happen next.",
+                   'score': 3726},
+                  {'author': 'essidus',
+                   'body': 'Interesting that this is happening after a couple '
+                           'years of shadow layoffs in major tech industries. '
+                           "Good timing on China's part, they're probably "
+                           'going to be able to reap a harvest of talented '
+                           'people.',
+                   'score': 2828},
+                  {'author': 'gergnerd',
+                   'body': '\\*looks at empty inbox\\* must be fake news '
+                           '\\*sob\\*',
+                   'score': 2601},
+                  {'author': 'Infinite-Disaster216',
+                   'body': 'Says something when the communist country can out '
+                           'offer the paragon of capitalism.\n'
+                           '\n'
+                           'America can pay football players millions a year '
+                           'but can’t attract the talent to beat TSMC or ASML.',
+                   'score': 906},
+                  {'author': 'DavidBrooker',
+                   'body': "I'm an engineering professor. I've received three "
+                           'unsolicited job offers in my life. All three were '
+                           'from Chinese universities in the last two years.',
+                   'score': 893},
+                  {'author': '[deleted]',
+                   'body': '***TLDR***\n'
+                           '\n'
+                           'Chinese companies, especially Huawei, are actively '
+                           'recruiting top tech talent from Western firms by '
+                           'offering salaries that can be up to three times '
+                           'higher. This aggressive recruitment has raised '
+                           'concerns about risks to intellectual property, '
+                           'leading Germany to investigate the attempted '
+                           'poaching of engineers from Zeiss SMT and ASML. \n'
+                           '\n'
+                           '\n'
+                           'As Western governments tighten restrictions on '
+                           'technology exports to China, recruitment has '
+                           'become a crucial strategy for Beijing to enhance '
+                           'its semiconductor and AI capabilities. While '
+                           'Taiwan and South Korea impose strict anti-poaching '
+                           'laws, the U.S. and Europe generally maintain more '
+                           'open policies, leaving governments to struggle to '
+                           'balance national security with free-market '
+                           'principles. Critics suggest that this tactic '
+                           'mirrors historical talent recruitment strategies '
+                           'used by Western nations.',
+                   'score': 622},
+                  {'author': 'hackingdreams',
+                   'body': "Maybe the West shouldn't have laid everyone off to "
+                           "line executives' pockets.",
+                   'score': 394},
+                  {'author': 'Bohottie',
+                   'body': 'Yeah….the US tech sector trying to squeeze '
+                           'everything out of the least amount of people '
+                           'leaves the perfect opening for Chinese companies '
+                           'to swoop in and get all the great talent who are '
+                           'left behind.',
+                   'score': 329},
+                  {'author': 'Skelordton',
+                   'body': "If American companies paid better there'd be "
+                           'nothing to worry about',
+                   'score': 286},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 167}],
+ 'url': 'https://archive.ph/wK1tR'}
+2025-12-28 19:29:47 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/antiwork/comments/1nr5v0m/exgoogle_ceo_eric_schmidt_warns_us_tech_workers/.json> (referer: https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50)
+2025-12-28 19:29:47 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/antiwork/comments/1nr5v0m/exgoogle_ceo_eric_schmidt_warns_us_tech_workers/.json>
+{'author': 'Ledobject',
+ 'created_utc': 1758903927.0,
+ 'keyword': 'china_tech',
+ 'num_comments': 476,
+ 'permalink': 'https://reddit.com/r/antiwork/comments/1nr5v0m/exgoogle_ceo_eric_schmidt_warns_us_tech_workers/',
+ 'post_type': 'google_ranked',
+ 'score': 4344,
+ 'subreddit': 'antiwork',
+ 'title': 'Ex–Google CEO Eric Schmidt warns U.S. tech workers: Competing with '
+          'China’s grueling 12-hour workdays means sacrificing work-life '
+          'balance',
+ 'top_comments': [{'author': 'OurDailyNada',
+                   'body': 'And what specifically will Schmidt and other CEOs '
+                           'be sacrificing in this process? (Likely something '
+                           'between little and nothing.)',
+                   'score': 3295},
+                  {'author': 'Late-Arrival-8669',
+                   'body': "Quit listening to CEO's (or former) like they are "
+                           'some fountain of knowledge..They are only here to '
+                           'enslave us.',
+                   'score': 1347},
+                  {'author': 'whereismymind86',
+                   'body': 'What if we don’t want to compete with their '
+                           'terribly abusive work culture?\n'
+                           '\n'
+                           'This isn’t a competition for most of us, we just '
+                           'want to be happy, not the bestest most economical '
+                           'powerhouse on earth',
+                   'score': 737},
+                  {'author': 'yeahyupnevermind',
+                   'body': 'This guy is deranged.\xa0',
+                   'score': 275},
+                  {'author': 'vagabond_nerd',
+                   'body': 'Rich people hate the working class',
+                   'score': 184},
+                  {'author': 'Evening-Tour',
+                   'body': 'Guys a fucking idiot.\n'
+                           '\n'
+                           'A Stanford University study by John Pencavel '
+                           'concluded that productivity drops sharply after 50 '
+                           'hours per week.  ([The Productivity of Working '
+                           'Hours](https://docs.iza.org/dp8129.pdf))\n'
+                           '\n'
+                           'After 55 Hours, productivity declines so sharply '
+                           'that additional hours become essentially useless.  '
+                           'Those working more than 70 Hours a week produce no '
+                           'more than those working 55 hours per week.\n'
+                           '\n'
+                           'The University of Oeada published a review of the '
+                           "past decades' research into productivity, which "
+                           'concluded there is a strong inverse correlation '
+                           'between hours worked and productivity.  Longer '
+                           'hours caused burnout, fatigue, reduced motivation '
+                           'and impaired cognitive function.  They concluded '
+                           'that, instead of working longer, goal-setting, '
+                           'prioritisation, and time management strategies '
+                           'should be employed.  '
+                           '([AUOES.July\\_.2024.57.pdf](https://anale.steconomiceuoradea.ro/en/wp-content/uploads/2024/11/AUOES.July_.2024.57.pdf))\n'
+                           '\n'
+                           "There's nothing to be gained; you burn out your "
+                           'human capital. Effective and efficient human '
+                           'capital is difficult to replace.\n'
+                           '\n'
+                           'My employer put us from 37 hrs a week to 35 hrs a '
+                           'week, productivity went up....go figure.',
+                   'score': 172},
+                  {'author': 'coredweller1785',
+                   'body': 'Where does he see Chinese working 12 hour days?',
+                   'score': 78},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 70},
+                  {'author': 'PhukYuBtch',
+                   'body': 'While Europe is going to a 4 day work week. '
+                           'Yeahhhh fuck off clown.',
+                   'score': 52},
+                  {'author': 'Cliche_James',
+                   'body': 'And what will we get in return? \n'
+                           '\n'
+                           "Nothing good, I'm guessing",
+                   'score': 35}],
+ 'url': 'https://www.yahoo.com/news/articles/ex-google-ceo-eric-schmidt-161728948.html'}
+2025-12-28 19:29:49 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1gyuukk/china_has_set_a_threemonth_deadline_for_big_tech/.json> (referer: https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50)
+2025-12-28 19:29:49 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1gyuukk/china_has_set_a_threemonth_deadline_for_big_tech/.json>
+{'author': 'giuliomagnifico',
+ 'created_utc': 1732465604.0,
+ 'keyword': 'china_tech',
+ 'num_comments': 2008,
+ 'permalink': 'https://reddit.com/r/technology/comments/1gyuukk/china_has_set_a_threemonth_deadline_for_big_tech/',
+ 'post_type': 'google_ranked',
+ 'score': 31983,
+ 'subreddit': 'technology',
+ 'title': 'China has set a three-month deadline for Big Tech to resolve '
+          'algorithm issues. Companies must avoid recommendation algorithms '
+          'that create "echo chambers", induce addiction, allow manipulation '
+          "of trending items, or exploit gig workers' rights, according to the "
+          'notice',
+ 'top_comments': [{'author': 'npete',
+                   'body': "Holy crap, CHINA is doing this?  I didn't think "
+                           'they cared in that way...',
+                   'score': 3834},
+                  {'author': 'Gustapher00',
+                   'body': '“China has set a three-month deadline for Big Tech '
+                           'to rewrite their business model.”',
+                   'score': 3491},
+                  {'author': 'toocoolforgg',
+                   'body': 'Addiction inducing and manipulation of trends are '
+                           'the main reasons these algorithms exist in the '
+                           'first place.',
+                   'score': 2520},
+                  {'author': 'chansigrilian',
+                   'body': "china doing what the us should but won't, what is "
+                           'this timeline',
+                   'score': 1283},
+                  {'author': 'simulacrum79',
+                   'body': 'EU please take note.',
+                   'score': 892},
+                  {'author': '[deleted]', 'body': '[deleted]', 'score': 240},
+                  {'author': 'EmeraldPolder',
+                   'body': 'I thought reddit was already banned in China',
+                   'score': 162},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 161},
+                  {'author': '1leggeddog',
+                   'body': 'If user is in china\n'
+                           '\n'
+                           '    Algorithm (b)\n'
+                           '\n'
+                           'Else\n'
+                           '\n'
+                           '    Algorithm(a)',
+                   'score': 43},
+                  {'author': 'Hailene2092',
+                   'body': "China's Great Firewall and extreme government "
+                           'censorship has created the largest echo chamber in '
+                           'the world.',
+                   'score': 31}],
+ 'url': 'https://www.scmp.com/news/china/politics/article/3287929/china-sets-deadline-big-tech-clear-algorithm-issues-close-echo-chambers?module=top_story&amp;pgtype=homepage'}
+2025-12-28 19:29:51 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/news/comments/1otf1h2/china_rolls_out_its_version_of_the_h1b_visa_to/.json> (referer: https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50)
+2025-12-28 19:29:51 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/news/comments/1otf1h2/china_rolls_out_its_version_of_the_h1b_visa_to/.json>
+{'author': 'AudibleNod',
+ 'created_utc': 1762784495.0,
+ 'keyword': 'china_tech',
+ 'num_comments': 456,
+ 'permalink': 'https://reddit.com/r/news/comments/1otf1h2/china_rolls_out_its_version_of_the_h1b_visa_to/',
+ 'post_type': 'google_ranked',
+ 'score': 6836,
+ 'subreddit': 'news',
+ 'title': 'China rolls out its version of the H-1B visa to attract foreign '
+          'tech workers',
+ 'top_comments': [{'author': 'Stone766',
+                   'body': "No, they aren't sniping US workers\n"
+                           '\n'
+                           "The article explicitly implies it's the usual "
+                           'batch of tech workers from India and SE Asia. The '
+                           'only Americans mentioned are Chinese which wouldnt '
+                           'be abnormal',
+                   'score': 1489},
+                  {'author': 'AudibleNod',
+                   'body': '&gt;The ruling Communist Party has made global '
+                           'leadership in advanced technologies a top '
+                           'priority, paying massive government subsidies to '
+                           'support research and development of areas such as '
+                           'artificial intelligence, semiconductors and '
+                           'robotics.\n'
+                           '\n'
+                           '\n'
+                           "We're not getting those workers back. China will "
+                           'keep them by hook or by crook.',
+                   'score': 345},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 302},
+                  {'author': 'Life_Drama7570',
+                   'body': 'are we getting lax working schedules, remote work '
+                           'and worker benefits? are we getting more money? '
+                           'what are those tech workers getting exactly?',
+                   'score': 53},
+                  {'author': 'entropy13',
+                   'body': 'Considering their youth unemployment rate, even '
+                           'among young stem graduates, I’m not sure this will '
+                           'help.',
+                   'score': 53},
+                  {'author': 'cancielo',
+                   'body': 'Hmm. Country that wants you but wants all your '
+                           "secrets or country that doesn't want you because "
+                           "it's run by master race wannabes...",
+                   'score': 53},
+                  {'author': 'CalmTrifle',
+                   'body': 'They have a generation of people that went to '
+                           'college and are food delivery drivers because they '
+                           'cant find work.',
+                   'score': 20},
+                  {'author': 'Creepy-Bell-4527',
+                   'body': 'Foreign. As in "from countries with significantly '
+                           'lower salaries". Chinese companies aren\'t known '
+                           'for being competitive on salaries in the tech '
+                           'industry.',
+                   'score': 10},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 10},
+                  {'author': '[deleted]',
+                   'body': 'Honestly, good. Please take all of them.',
+                   'score': 10}],
+ 'url': 'https://apnews.com/article/china-us-talent-tech-visa-h1b-4c5792cf1b9fec9a846ca002f9e383ae'}
+2025-12-28 19:29:54 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/worldnews/comments/1otipk6/china_rolls_out_its_version_of_the_h1b_visa_to/.json> (referer: https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50)
+2025-12-28 19:29:54 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/worldnews/comments/1otipk6/china_rolls_out_its_version_of_the_h1b_visa_to/.json>
+{'author': 'Crossstoney',
+ 'created_utc': 1762792872.0,
+ 'keyword': 'china_tech',
+ 'num_comments': 666,
+ 'permalink': 'https://reddit.com/r/worldnews/comments/1otipk6/china_rolls_out_its_version_of_the_h1b_visa_to/',
+ 'post_type': 'google_ranked',
+ 'score': 9158,
+ 'subreddit': 'worldnews',
+ 'title': 'China rolls out its version of the H-1B visa to attract foreign '
+          'tech workers',
+ 'top_comments': [{'author': 'The-Copilot',
+                   'body': "Isn't all of business in china pretty much done in "
+                           'Mandarin? \n'
+                           '\n'
+                           'English is mostly learned as a second language '
+                           'while mandarin is learned mostly as a primary '
+                           'language. \n'
+                           '\n'
+                           '90-95% of mandarin speakers live in China. This '
+                           "doesn't include taiwan, Singapore and other nearby "
+                           'nations.\n'
+                           '\n'
+                           'This is the exact opposite of English which has '
+                           '2/3 of the speakers being from non English '
+                           'speaking nations.\n'
+                           '\n'
+                           'This is one of the major factors which allows the '
+                           'US to pull talent from around the world. English '
+                           'is by far the most commonly learned second+ '
+                           'language and is effectively the international '
+                           'language of business and is used internationally '
+                           'for other uses like aviation and science. \n'
+                           '\n'
+                           'Mandarin may be on the rise but it will take a '
+                           'very long time for a shift to occur, if it occurs '
+                           'at all.',
+                   'score': 1999},
+                  {'author': 'ripamazon',
+                   'body': 'Every tech worker rushing to China for 996 '
+                           'guaranteed',
+                   'score': 902},
+                  {'author': 'ChangingShips',
+                   'body': 'What’s unemployment like in China?',
+                   'score': 710},
+                  {'author': 'Southern-Host-3042',
+                   'body': "Won't work. Chinese citizens are xenophobic and "
+                           'have already been claiming the Government is '
+                           "trying to replace them with foreigners. I can't "
+                           'imagine the Citizens will treat these visa holders '
+                           'well.',
+                   'score': 396},
+                  {'author': 'technicallynotlying',
+                   'body': "Yes, they're xenophobic, but I don't think they're "
+                           'going after white people\n'
+                           '\n'
+                           "They're going after overseas Chinese / other East "
+                           "Asians that are educated in the west. I think it's "
+                           'an attempt to get Asian expats who are well '
+                           'educated to return to China.\n'
+                           '\n'
+                           'For example they want Asian Americans who go to '
+                           'Harvard or Yale to consider Shanghai instead of '
+                           'New York.',
+                   'score': 312},
+                  {'author': 'GooseQuothMan',
+                   'body': 'Lol, and how is China expecting to attract talent '
+                           'with their shit pay, long hours, and very '
+                           'competitive job market?\xa0',
+                   'score': 114},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 36},
+                  {'author': 'gym_fun',
+                   'body': 'America’s success in research, tech and innovation '
+                           'comes from both Americans and immigrants. 2/3 of '
+                           'workers in Silicon Valley are foreign born. The '
+                           'majority of post doctoral researchers are also '
+                           'foreign born. This combo has won even without a '
+                           'mandatory toxic and brutal work culture like 996 '
+                           'for everyone.\n'
+                           '\n'
+                           "Now, let's see China's 996 + their H1B version, vs "
+                           'Americans + H1B hate. Clearly the Trump '
+                           'administration has done way more than just '
+                           'addressing visa abuse. Canada also has taken '
+                           "advantage of America's crackdown on skilled "
+                           'immigration.',
+                   'score': 18},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 12},
+                  {'author': 'DisastrousAnswer9920',
+                   'body': 'Just to keep in perspective, generally East Asia '
+                           'is very unwelcoming to foreigners. China in '
+                           'particular is pretty bad. There are counties in '
+                           'the US that have more foreigners than in the '
+                           'entire country of China. Japan, Taiwan, SKorea, '
+                           'etc are not that different either. Foreigners make '
+                           "up a very small percentage of China's total "
+                           'population, at about 0.06% in 2020.\xa0\n'
+                           '\n'
+                           'As of the 2020 Chinese census, there were\xa0'
+                           '845,697\xa0foreigners living in mainland China, '
+                           'with the number of resident permits issued in 2023 '
+                           'recovering to 85% of 2019 levels.\xa0While this '
+                           "number is low relative to China's total "
+                           'population, recent data suggests a rebound in '
+                           'expat numbers, although a full return to '
+                           'pre-pandemic levels has not yet occurred.\xa0\n'
+                           '\n'
+                           '* **2020 Census**:\xa0 The most comprehensive '
+                           'official count found 845,697 foreigners living in '
+                           'mainland China.\xa0\n'
+                           '* **2023 Permits**:\xa0 In 2023, China issued '
+                           '711,000 resident permits to foreigners, which is '
+                           'approximately 85% of the number issued in 2019, '
+                           'indicating a partial recovery from the COVID-19 '
+                           'pandemic.\xa0',
+                   'score': 12}],
+ 'url': 'https://apnews.com/article/china-us-talent-tech-visa-h1b-4c5792cf1b9fec9a846ca002f9e383ae'}
+2025-12-28 19:29:55 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/Futurology/comments/1pn790n/new_research_shows_china_leads_research_in_90_of/.json> (referer: https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50)
+2025-12-28 19:29:55 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/Futurology/comments/1pn790n/new_research_shows_china_leads_research_in_90_of/.json>
+{'author': 'lughnasadh',
+ 'created_utc': 1765805059.0,
+ 'keyword': 'china_tech',
+ 'num_comments': 939,
+ 'permalink': 'https://reddit.com/r/Futurology/comments/1pn790n/new_research_shows_china_leads_research_in_90_of/',
+ 'post_type': 'google_ranked',
+ 'score': 7339,
+ 'subreddit': 'Futurology',
+ 'title': 'New research shows China leads research in 90% of crucial '
+          "technologies &amp; ignoring this means we're living in a delusional "
+          'bubble, where we still think the West is the Sci-Tech leader.',
+ 'top_comments': [{'author': 'jcrestor',
+                   'body': "I wouldn't be surprised, but at the same time I am "
+                           'delusional enough to not take every news about '
+                           'China at face value. It is complicated to assess '
+                           'where they stand. In the past there was a lot of '
+                           'confusion about the sheer volume of their '
+                           'scientific output, but I think there was a wave of '
+                           'junk science included.\n'
+                           '\n'
+                           'However, I am willing to accept them taking the '
+                           'lead in science either now or in the near future. '
+                           'Mainly because a growing number of people in the '
+                           'current science and tech leading country, the US, '
+                           'seem to be not so sure anymore about the question '
+                           'if science is actually real.',
+                   'score': 1294},
+                  {'author': 'Qubed',
+                   'body': 'If you go to pretty much any tier one university '
+                           'in the US their science faculty has representation '
+                           'from various internationals. Often those '
+                           'international professors are ranked some of the '
+                           'best in their fields. This has classically been '
+                           'because US universities were well funded and those '
+                           'top tier researchers were able to practice their '
+                           'science without any real concern about the '
+                           'government bringing the hammer down on them. \n'
+                           '\n'
+                           "...that's not the case anymore and it won't be the "
+                           'case going forward.\n'
+                           '\n'
+                           'Part of the reason we see the "west" unravelling '
+                           'right now is because of these types of things. You '
+                           'have a certain population that would rather be '
+                           'mediocre and lie to themselves about it than work '
+                           "alongside people that aren't the same as "
+                           'themselves.',
+                   'score': 399},
+                  {'author': 'blackbartimus',
+                   'body': 'America is reaping the rewards of a half century '
+                           'of financialization and the complete disregard for '
+                           'science and manufacturing. The only thing that '
+                           'matters anymore is shareholder supremacy. \n'
+                           '\n'
+                           'A very good example of how poor our priorities are '
+                           'would be looking at Molten Salt Reactors for '
+                           'generating safe nuclear energy. This technology '
+                           'was first researched at Oak Ridge National Labs in '
+                           'Tennessee in the mid 1960’s. Because of the '
+                           'advanced state of our oligarchy opposing new '
+                           'energy infrastructure development this discovery '
+                           'was shelved for over a half century. In that time '
+                           'China devoted 10 years to studying these reactors '
+                           'and have now developed the first functional '
+                           'nuclear reactors that produce nearly zero harmful '
+                           'waste.\n'
+                           '\n'
+                           'I can say with confidence that America has many '
+                           'specialists in fields that could be improving life '
+                           'for everyone but the only people with the capital '
+                           'and power to use it are deeply delusional and '
+                           'nakedly self absorbed. I work in scientific glass '
+                           'which is another industry that America led for a '
+                           'very long time and is required for the production '
+                           'of a huge number of high tech chips and research '
+                           'but is also considered a dying field simply '
+                           'because wealthy Americans do not value '
+                           'manufacturing in any way. \n'
+                           '\n'
+                           'For all the fear mongering that is drummed up in '
+                           'our country about China we easily forget that they '
+                           'have a society thats organized around building and '
+                           'maintaining a productive society. In America we '
+                           'willingly choose to let guys with MBA’s run our '
+                           'country into the dirt and call it freedom.',
+                   'score': 388},
+                  {'author': 'jojowhitesox',
+                   'body': 'You know what will help this? More cuts to '
+                           'education and putting the 10 commandments on walls '
+                           "in schools. That'll give the edge back to the good "
+                           'ole USA! /S',
+                   'score': 245},
+                  {'author': 'tolo3349',
+                   'body': 'I work in scientific devices. To say that our '
+                           'customers who rely on government funding(NIH, NSF, '
+                           'etc.) are having a tough time is an '
+                           'understatement. I hate to make it political, but '
+                           'the funding issues were not happening a year ago. '
+                           'Connect the dots.',
+                   'score': 215},
+                  {'author': 'IWasSayingBoourner',
+                   'body': "I've been trying to tell people this for years. In "
+                           "the past two decades I've worked in cutting edge "
+                           'R&amp;D in everything from VFX to geosimulation to '
+                           'cybersecurity and cryptography. Pull the high '
+                           'impact white papers from pretty much any STEM '
+                           'field in the past decade, and at least 80% of the '
+                           "authors are Chinese PhDs or candidates. They're "
+                           'eating our lunch, and whenever you bring it up, '
+                           'people pretend like it\'s the 90s. "Fake '
+                           'research". "They stole it". Etc.\xa0',
+                   'score': 202},
+                  {'author': 'DruidicMagic',
+                   'body': 'Western countries are run by a small group of '
+                           'psychopathic billionaires who believe that '
+                           "scientific advances like curing diseases aren't "
+                           'profitable enough. Instead research is '
+                           'intentionally focused on trying to find a once '
+                           'daily pill/injection that creates a life long '
+                           'customer.',
+                   'score': 193},
+                  {'author': '-Mediocrates-',
+                   'body': 'Maybe our taxes should be spent on education, '
+                           'healthcare, and infrastructure instead of being '
+                           'spent on proxy wars and wars that we end up losing '
+                           'anyways.',
+                   'score': 100},
+                  {'author': 'National-Stretch3979',
+                   'body': 'China is and always has been playing the long '
+                           'game. By contrast, the US is hyper focussed on '
+                           'short term profits and ROI',
+                   'score': 76},
+                  {'author': 'AvsFan08',
+                   'body': 'They also control the vast majority of the inputs '
+                           'needed for manufacturing and their manufacturing '
+                           'capacity dwarfs the west.\n'
+                           '\n'
+                           "The US has already lost to China, they just don't "
+                           'realize it yet.',
+                   'score': 52}],
+ 'url': 'https://www.reddit.com/r/Futurology/comments/1pn790n/new_research_shows_china_leads_research_in_90_of/'}
+2025-12-28 19:29:57 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1odq9z6/female_spies_are_waging_sex_warfare_to_steal/.json> (referer: https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50)
+2025-12-28 19:29:57 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1odq9z6/female_spies_are_waging_sex_warfare_to_steal/.json>
+{'author': 'digital-didgeridoo',
+ 'created_utc': 1761182303.0,
+ 'keyword': 'china_tech',
+ 'num_comments': 1495,
+ 'permalink': 'https://reddit.com/r/technology/comments/1odq9z6/female_spies_are_waging_sex_warfare_to_steal/',
+ 'post_type': 'google_ranked',
+ 'score': 17593,
+ 'subreddit': 'technology',
+ 'title': 'Female spies are waging ‘sex warfare’ to steal Silicon Valley '
+          'secrets | China and Russia are sending attractive women to seduce '
+          'tech workers - even marrying and having children with their targets',
+ 'top_comments': [{'author': 'I_CUM_ON_HAMSTERS',
+                   'body': 'Getting honeypotted just so I can set Chinese '
+                           'engineering back 15 years with my dogshit code\n'
+                           '\n'
+                           'The world is safe in my hands',
+                   'score': 10965},
+                  {'author': 'angus_the_red',
+                   'body': "You know I'm something of a tech worker myself",
+                   'score': 8034},
+                  {'author': 'HorsePecker',
+                   'body': 'Having children with your targets is diabolical',
+                   'score': 5421},
+                  {'author': 'blatantninja',
+                   'body': 'Still undefeated',
+                   'score': 3493},
+                  {'author': 'NebulousNitrate',
+                   'body': 'I was on one of the teams that was targeted by '
+                           'Russian women almost 2 decades ago in what became '
+                           'a highly publicized international story. I '
+                           'remained on that team for quite a while and had '
+                           'two more attempts to target me, one starting in '
+                           '2015 and another starting in 2017. Their mistake '
+                           'was being unreasonably persistent in trying to '
+                           'seduce an engineer who had poor social skills and '
+                           'mostly kept to himself. In both cases I ended up '
+                           'reporting it to HR, they worked with the feds and '
+                           'I’d get a follow meet at work where they’d ask me '
+                           'if I gave them any sensitive info… I’d say no, and '
+                           'they’d thank me for reporting it. Which led me to '
+                           'believe they were thanking me so many weeks later '
+                           'because they had in fact confirmed them to be '
+                           'spies. Since I left that team I haven’t had any '
+                           'more attempts.',
+                   'score': 2930},
+                  {'author': 'Tyrrox',
+                   'body': 'Hello, I am a Silicon Valley representative. I '
+                           'sure hope no gorgeous Chinese or Russian agents '
+                           'try to steal my secrets. It would be awful if they '
+                           'married and had children with me.',
+                   'score': 2717},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 711},
+                  {'author': 'alucarddrol',
+                   'body': 'These Chinese and Russian spies have NO idea what '
+                           "they're getting into\n"
+                           '\n'
+                           '\n'
+                           'https://harpers.org/archive/2025/11/the-goon-squad-daniel-kolitz-porn-masturbation-loneliness/',
+                   'score': 590},
+                  {'author': 'groglox',
+                   'body': 'This is unironically taught in new hire training '
+                           'at tech companies in the Bay Area',
+                   'score': 567},
+                  {'author': 'krutacautious',
+                   'body': "So, you're saying that if I get good at tech after "
+                           'years of nerding out, I’ll end up with a Chinese '
+                           'or Russian baddie?\n'
+                           '\n'
+                           'Good.\n'
+                           '\n'
+                           'Edit: So, does that mean the young Chinese wife of '
+                           '81 year old Billionaire &amp; Oracle CEO Larry '
+                           'Ellison ( with a 50-year age gap between them ) '
+                           "isn't a sign of true love ? Btw Oracle is buying "
+                           'Tik Tok. \n'
+                           '\n'
+                           ' Mark Zuckerberg’s wife is Chinese too, and Meta '
+                           'shared censorship tools to China.  He once asked '
+                           'Xi Jinping to name his newborn child. But it’s '
+                           'probably just Zuck being a greedy Zuck. I’m '
+                           'surprised that his human wife tolerates a '
+                           'reptilian like him',
+                   'score': 545}],
+ 'url': 'https://www.thetimes.com/article/72fc23c9-3f8b-4344-a47e-4a99f8fd0ee6'}
+2025-12-28 19:30:00 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=china_tech&sort=relevance&limit=50> (referer: None)
+2025-12-28 19:30:00 [scrapy] INFO: Closing spider (finished)
+2025-12-28 19:30:00 [scrapy] INFO: Stored json feed (15 items) in: posts/spiders/output/google_ranked_china_tech_2025-12-28T13-59-20+00-00.json
+2025-12-28 19:30:00 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 14997,
+ 'downloader/request_count': 17,
+ 'downloader/request_method_count/GET': 17,
+ 'downloader/response_bytes': 852738,
+ 'downloader/response_count': 17,
+ 'downloader/response_status_count/200': 17,
+ 'elapsed_time_seconds': 40.119045,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 12, 28, 14, 0, 0, 329899, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 7375416,
+ 'httpcompression/response_count': 17,
+ 'item_scraped_count': 15,
+ 'log_count/DEBUG': 34,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'request_depth_max': 1,
+ 'response_received_count': 17,
+ 'scheduler/dequeued': 17,
+ 'scheduler/dequeued/memory': 17,
+ 'scheduler/enqueued': 17,
+ 'scheduler/enqueued/memory': 17,
+ 'start_time': datetime.datetime(2025, 12, 28, 13, 59, 20, 210854, tzinfo=datetime.timezone.utc)}
+2025-12-28 19:30:00 [scrapy] INFO: Spider closed (finished)

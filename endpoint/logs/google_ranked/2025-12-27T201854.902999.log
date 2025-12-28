@@ -1,0 +1,1122 @@
+2025-12-27 20:18:56 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50> (referer: None)
+2025-12-27 20:18:59 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/interestingasfuck/comments/1n4hgoe/farmer_in_china_spent_16_years_studying_law_so_he/.json> (referer: https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50)
+2025-12-27 20:18:59 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/interestingasfuck/comments/1n4hgoe/farmer_in_china_spent_16_years_studying_law_so_he/.json>
+{'author': 'Wonderfulhumanss',
+ 'created_utc': 1756601595.0,
+ 'keyword': 'pollution',
+ 'num_comments': 264,
+ 'permalink': 'https://reddit.com/r/interestingasfuck/comments/1n4hgoe/farmer_in_china_spent_16_years_studying_law_so_he/',
+ 'post_type': 'google_ranked',
+ 'score': 71217,
+ 'subreddit': 'interestingasfuck',
+ 'title': 'Farmer in China spent 16 years studying Law so he could sue a '
+          'chemical company that had polluted his land and he won the case',
+ 'top_comments': [{'author': 'Papa_Huggies',
+                   'body': 'Imagine being big corpo and taking advantage of an '
+                           'uneducated rural village, only for the farmer to '
+                           'spend 16Y to stick it to you.\n'
+                           '\n'
+                           'Slow burn L',
+                   'score': 4817},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 2236},
+                  {'author': 'Actual-Lingonberry66',
+                   'body': "Next he's travelling to Iowa to sue the farmers "
+                           'who polluted their land and the rivers.',
+                   'score': 417},
+                  {'author': 'Victor_deSpite',
+                   'body': 'Man devotes his life to sue the chemical company, '
+                           'and for the chemical company it was a Tuesday.',
+                   'score': 241},
+                  {'author': 'The_Actual_Sage',
+                   'body': 'Peak r/OrphanCrushingMachine material right here',
+                   'score': 54},
+                  {'author': 'soliterraneous',
+                   'body': 'Generational level hating. Incredibly based',
+                   'score': 35},
+                  {'author': 'KoalaMandala',
+                   'body': 'Chinese Erin Brockovich',
+                   'score': 29},
+                  {'author': 'Icy_Marionberry9175',
+                   'body': 'Beautiful use of free will',
+                   'score': 23},
+                  {'author': 'Leather-Ad1877', 'body': 'Based', 'score': 14},
+                  {'author': '[deleted]', 'body': '[deleted]', 'score': 9}],
+ 'url': 'https://i.redd.it/f6hmkvpe69mf1.jpeg'}
+2025-12-27 20:19:00 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/MapPorn/comments/1p5cnpr/entire_indian_subcontinent_from_last_1_month/.json> (referer: https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50)
+2025-12-27 20:19:00 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/MapPorn/comments/1p5cnpr/entire_indian_subcontinent_from_last_1_month/.json>
+{'author': 'Beginning-Ladder6224',
+ 'created_utc': 1763976540.0,
+ 'keyword': 'pollution',
+ 'num_comments': 299,
+ 'permalink': 'https://reddit.com/r/MapPorn/comments/1p5cnpr/entire_indian_subcontinent_from_last_1_month/',
+ 'post_type': 'google_ranked',
+ 'score': 6494,
+ 'subreddit': 'MapPorn',
+ 'title': 'Entire Indian Subcontinent from last 1 month going through terrible '
+          'pollution - here is a satellite imagery',
+ 'top_comments': [{'author': 'Ok_Release1625',
+                   'body': 'Tibetans should worship that giant wall they have '
+                           'in all senses',
+                   'score': 1317},
+                  {'author': 'whepoalready_readdit',
+                   'body': 'Dang, I wanted to see the south too  \n'
+                           'Edit: not the entire subcontinent  \n'
+                           'Edit: why did this post become controversial? I '
+                           "don't get it",
+                   'score': 1064},
+                  {'author': 'Bitter_Armadillo8182',
+                   'body': 'What’s the main cause of pollution there?',
+                   'score': 388},
+                  {'author': 'Soggy_County_9519',
+                   'body': 'As a Nepalese person who have minimum contribution '
+                           'to this - Why us!!',
+                   'score': 151},
+                  {'author': 'Sluton1',
+                   'body': 'Amazing map! Where did you get a view like this?',
+                   'score': 108},
+                  {'author': 'idgaf9495',
+                   'body': 'Indian Government does not care , to Fudge the Air '
+                           'quality ratings they started spraying water '
+                           'outside all the Air Quality monitoring places in '
+                           'the Capital Delhi.',
+                   'score': 92},
+                  {'author': 'Empty_War8775',
+                   'body': 'My factorio world has less pollution than this',
+                   'score': 81},
+                  {'author': 'stating_facts_only',
+                   'body': 'Indians and Pakistanis.\n'
+                           '\n'
+                           'You both need to unite against this stuff. It’s '
+                           'unbelievable the amount of pollution in the area.\n'
+                           '\n'
+                           'Stop the farmers from burning stubble. This is the '
+                           'largest contributor.',
+                   'score': 71},
+                  {'author': 'Fritz46',
+                   'body': 'Maybe 1 billion people is a tad too much '
+                           'there..\xa0',
+                   'score': 37},
+                  {'author': 'Dull_Refrigerator_58',
+                   'body': "Damn, don't know if I have enough paper straws for "
+                           'this one',
+                   'score': 20}],
+ 'url': 'https://i.redd.it/zu9ygvvsb63g1.png'}
+2025-12-27 20:19:03 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/interestingasfuck/comments/1kvqgin/the_difference_in_light_pollution_globally/.json> (referer: https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50)
+2025-12-27 20:19:03 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/interestingasfuck/comments/1kvqgin/the_difference_in_light_pollution_globally/.json>
+{'author': 'InadequateBraincells',
+ 'created_utc': 1748252863.0,
+ 'keyword': 'pollution',
+ 'num_comments': 783,
+ 'permalink': 'https://reddit.com/r/interestingasfuck/comments/1kvqgin/the_difference_in_light_pollution_globally/',
+ 'post_type': 'google_ranked',
+ 'score': 13654,
+ 'subreddit': 'interestingasfuck',
+ 'title': 'The difference in light pollution globally',
+ 'top_comments': [{'author': 'Rakkachi',
+                   'body': 'I see we dutchies are a beacon of light. Wonder '
+                           'how the sky looks like in Australia at night.\n'
+                           '\n'
+                           'Edit: seeing all these reactions and photos I am '
+                           'really considering a australian vacation. Damn I '
+                           'am missing out!',
+                   'score': 2064},
+                  {'author': 'Linguistic-mystic',
+                   'body': 'South Korea looks like an island',
+                   'score': 1250},
+                  {'author': 'yerrpitsballer',
+                   'body': 'Imagine the night skies in central Africa or '
+                           'Australia 🤩',
+                   'score': 707},
+                  {'author': 'Dank_Tank22',
+                   'body': 'Australia is the definition of turn that light '
+                           'off.',
+                   'score': 520},
+                  {'author': 'GaryCPhoto',
+                   'body': 'As an avid astrophotographer living in Toronto I '
+                           'can attest to the impact of light pollution. That '
+                           'said. The best night I ever witnessed was off the '
+                           'west coast of Ireland.\n'
+                           '\n'
+                           'https://preview.redd.it/ndccctyb243f1.jpeg?width=2000&amp;format=pjpg&amp;auto=webp&amp;s=f42a82ebca290e8e05360b11439e407634b49c8d',
+                   'score': 414},
+                  {'author': 'ZealousidealFox85',
+                   'body': 'Australia mentioned',
+                   'score': 188},
+                  {'author': 'rickynoss',
+                   'body': 'Europe with amber lights mostly but red in Ireland '
+                           'and blue in Eastern Europe for what reason? and '
+                           'what’s that in between Scotland and Norway?',
+                   'score': 186},
+                  {'author': 'shirk-work',
+                   'body': 'Australia, always a good reminder that landmass '
+                           "isn't everything. Has a population of 26.66 "
+                           'million and the tiny island of java has a '
+                           'population of 156 million.',
+                   'score': 138},
+                  {'author': 'Cultural_Ad896',
+                   'body': 'https://preview.redd.it/6tdusnkjp33f1.jpeg?width=346&amp;format=pjpg&amp;auto=webp&amp;s=f2f21dc175a34f75658f9233e7f318a65a6c04bd',
+                   'score': 114},
+                  {'author': 'OldLegWig',
+                   'body': 'japan is burning my retinas',
+                   'score': 76}],
+ 'url': 'https://www.reddit.com/gallery/1kvqgin'}
+2025-12-27 20:19:06 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/okbuddycinephile/comments/1lmgdwd/im_an_environmentalist_and_im_attending_the/.json> (referer: https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50)
+2025-12-27 20:19:06 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/okbuddycinephile/comments/1lmgdwd/im_an_environmentalist_and_im_attending_the/.json>
+{'author': 'Sanddanglokta62',
+ 'created_utc': 1751093522.0,
+ 'keyword': 'pollution',
+ 'num_comments': 540,
+ 'permalink': 'https://reddit.com/r/okbuddycinephile/comments/1lmgdwd/im_an_environmentalist_and_im_attending_the/',
+ 'post_type': 'google_ranked',
+ 'score': 20491,
+ 'subreddit': 'okbuddycinephile',
+ 'title': "'I'm an environmentalist and I'm attending the wedding of one of "
+          "the world's biggest polluters. What have I become?' ahh reaction",
+ 'top_comments': [{'author': 'Remarkable-Eye-9182',
+                   'body': "He doesn't want to look up",
+                   'score': 3337},
+                  {'author': 'kungfupou',
+                   'body': "I'm presuming the hat is not to try to hide "
+                           'himself, but like horse blinders because he saw '
+                           'women his age range and above 25, and his handlers '
+                           "didn't want him to be spooked",
+                   'score': 2458},
+                  {'author': 'UnfairStrategy780',
+                   'body': 'So do all these famous people actually *know* '
+                           'Bezos, like they have hung out with him outside a '
+                           'planned celebrity function? Or is just meeting in '
+                           'passing at the 2022 Oscar party and being A list '
+                           'enough to be invited? Famous people are weird.',
+                   'score': 1490},
+                  {'author': 'Festering-Fecal',
+                   'body': 'Wants us to be vegan\xa0\n'
+                           '\n'
+                           '\n'
+                           "Does films with environmentalists saying it's our "
+                           'problem\xa0\n'
+                           '\n'
+                           '\n'
+                           'Frequently drives his fucking yacht\xa0',
+                   'score': 1291},
+                  {'author': 'Realistic_Caramel341',
+                   'body': 'Thats okay. The enviroment\xa0 must be at least '
+                           '32. Its ancient and has had a good life',
+                   'score': 469},
+                  {'author': 'ThugosaurusFlex_1017',
+                   'body': 'https://preview.redd.it/sdf2bt2mfm9f1.png?width=512&amp;format=png&amp;auto=webp&amp;s=0d80046139e6112c9cebfa86c24711f92994ba11',
+                   'score': 282},
+                  {'author': 'Tasteful_Tambourines',
+                   'body': 'https://preview.redd.it/yygfdu5hdm9f1.jpeg?width=640&amp;format=pjpg&amp;auto=webp&amp;s=bcfbfc19a67cdf0d0a45cdf4078791795871ef4e',
+                   'score': 228},
+                  {'author': 'BobbyArden',
+                   'body': 'Whereever there are women whose Prefrontal '
+                           "cortexes hasn't fully developed, Leo just appears.",
+                   'score': 144},
+                  {'author': 'Spookyy422',
+                   'body': '’I have done ten lines of coke and I have no '
+                           'sunglasses’ ahh reaction',
+                   'score': 124},
+                  {'author': '[deleted]',
+                   'body': 'https://preview.redd.it/vf5knroxin9f1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=c175288f5233dc5d03bafb56854bd1f82cb0a7d7',
+                   'score': 108}],
+ 'url': 'https://i.redd.it/flwp81r28m9f1.jpeg'}
+2025-12-27 20:19:08 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1icuo73/trumps_new_head_of_dot_rips_up_us_fuel_efficiency/.json> (referer: https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50)
+2025-12-27 20:19:08 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1icuo73/trumps_new_head_of_dot_rips_up_us_fuel_efficiency/.json>
+{'author': 'chrisdh79',
+ 'created_utc': 1738160036.0,
+ 'keyword': 'pollution',
+ 'num_comments': 2335,
+ 'permalink': 'https://reddit.com/r/technology/comments/1icuo73/trumps_new_head_of_dot_rips_up_us_fuel_efficiency/',
+ 'post_type': 'google_ranked',
+ 'score': 24616,
+ 'subreddit': 'technology',
+ 'title': 'Trump’s new head of DOT rips up US fuel efficiency regulations | '
+          'Secretary Duffy claims polluting more will make cars cheaper.',
+ 'top_comments': [{'author': 'The_Ombudsman',
+                   'body': "Duffy's qualifications for Transportation "
+                           'Secretary:\n'
+                           '\n'
+                           "He was on MTV's *Road Rules.*",
+                   'score': 6629},
+                  {'author': 'jpiro',
+                   'body': 'What a wonderful way to fall behind on creating '
+                           'the automotive technology the future will be built '
+                           'on.',
+                   'score': 4418},
+                  {'author': 'agha0013',
+                   'body': 'just puts US made vehicles behind the rest of the '
+                           'world, and if they were hoping to maybe export '
+                           "some... they'll still have to meet other emissions "
+                           'regulations or be banned from import to those '
+                           'countries. \n'
+                           '\n'
+                           '\n'
+                           "so it's not going to save money in the long run, "
+                           'it just further cripples US industry on a global '
+                           'stage.',
+                   'score': 4336},
+                  {'author': 'Any_Background_14',
+                   'body': "And there goes what's left of the US automotive "
+                           'industry. Because now no country will import from '
+                           'us.',
+                   'score': 1193},
+                  {'author': 'Parsya37',
+                   'body': 'as if more carbon monoxide in the air is a good '
+                           'thing',
+                   'score': 718},
+                  {'author': '[deleted]',
+                   'body': "This gov't is just moving 100x backwards. The rest "
+                           'of the world will move on without you.',
+                   'score': 446},
+                  {'author': 'ankercrank',
+                   'body': 'Unless California loses its ability to regulate '
+                           'emissions, this doesn’t change much. Also, car '
+                           'makers won’t risk changing model targets because '
+                           'they will assume standards will be enacted again '
+                           'in 4 years.',
+                   'score': 312},
+                  {'author': '[deleted]',
+                   'body': '~~make cars cheaper~~  \n'
+                           'make auto manufacturers more money',
+                   'score': 191},
+                  {'author': 'unlock0',
+                   'body': 'What cars?\n'
+                           '\n'
+                           'The CAFE regulations have driven out small '
+                           'vehicles with carve outs for trucks and SUVs. \xa0 '
+                           'I think the corvette and mustang are the last cars '
+                           'made by American manufacturers in the USA.\n'
+                           '\n'
+                           'These regulations made it better to sell land '
+                           'boats than efficient vehicles.\xa0',
+                   'score': 155},
+                  {'author': 'Ram_Ranch_Rocks',
+                   'body': 'Spoiler: cars become less efficient, pollute more, '
+                           'AND don’t get cheaper.',
+                   'score': 136}],
+ 'url': 'https://arstechnica.com/cars/2025/01/trumps-new-head-of-dot-rips-up-us-fuel-efficiency-regulations/'}
+2025-12-27 20:19:10 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/IndianCricket/comments/1pflgai/how_long_will_we_keep_tolerating_these_visually/.json> (referer: https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50)
+2025-12-27 20:19:10 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/IndianCricket/comments/1pflgai/how_long_will_we_keep_tolerating_these_visually/.json>
+{'author': 'GRSolution',
+ 'created_utc': 1765014134.0,
+ 'keyword': 'pollution',
+ 'num_comments': 280,
+ 'permalink': 'https://reddit.com/r/IndianCricket/comments/1pflgai/how_long_will_we_keep_tolerating_these_visually/',
+ 'post_type': 'google_ranked',
+ 'score': 9345,
+ 'subreddit': 'IndianCricket',
+ 'title': 'How long will we keep tolerating these visually polluted stadiums '
+          'without saying a word?',
+ 'top_comments': [{'author': 'redditrespect30',
+                   'body': 'Pan bahar is the reason India has 2.2 billion '
+                           'though',
+                   'score': 167},
+                  {'author': 'waitaminute322',
+                   'body': 'Now someone will say we are earning because of '
+                           'paan masala ad and that will become top comment.\n'
+                           '\n'
+                           ' But truth is bcci is one of the most corrupt '
+                           "organisations in india and that's why amit shah "
+                           'made his son secretary in bcci even when their '
+                           'entire politics was about blaming nepotism',
+                   'score': 49},
+                  {'author': '[deleted]',
+                   'body': 'It has more to do with outdated and out of sync '
+                           "idiots sitting in administration. You can't dent "
+                           "the fact that, mediocre establishments can't think "
+                           'beyond the cost cutting measures etc. \n'
+                           '\n'
+                           'Been to one such stadium in my university which is '
+                           'a multi-utility stadium for college sports with '
+                           '50,000 capacity and a retractable roof and college '
+                           'games were charged between $8 - 25. Knockout games '
+                           'or popular games were at $25+ etc. and even the '
+                           'food was top notch.\n'
+                           '\n'
+                           'Here we pay 5,000 for a decent stand. Then we '
+                           "won't get parking and have to park far off and "
+                           'walk. Then someone else would be sitting on your '
+                           'seat and you have to adjust yourself in the '
+                           'available seats (and during the break if you go '
+                           'out, someone else will occupy that seat too). Then '
+                           'comes the dirty toilets, over priced and '
+                           'sub-standard condiments/water/food etc. \n'
+                           '\n'
+                           "In all you're just a dirty and worthless spectator "
+                           'in a 3rd world country with 1st world prices.',
+                   'score': 21},
+                  {'author': 'Traditional-Song3501',
+                   'body': 'seriously its such an ugly stadium and there are '
+                           'literally so many of them like kanpur, banglore, '
+                           'cuttack, delhi, indore. international matches of '
+                           'any kind shud be kept away from these venues.',
+                   'score': 7},
+                  {'author': 'Routine_Machine_175',
+                   'body': 'What do you suggest to be done about it?',
+                   'score': 2},
+                  {'author': 'Alternative_Chair517',
+                   'body': 'Genuine question. Can you please explain what you '
+                           "mean by 'gaon ka mela' feel specific to this "
+                           "particular stadium? I wasn't watching the match so "
+                           'just took a look.I know most Indian stadiums '
+                           "aren't very fancy, look wise, but what exactly is "
+                           "'visually polluted' about this particular stadium? "
+                           "It's not great but it didn't look like a 'gaon ka "
+                           "mela to me'.\n"
+                           '\n'
+                           'Also it would have been better if you had simply '
+                           "used a screen grab of today's match instead of the "
+                           "meme which shows Delhi's Kotla, which I agree is "
+                           'probably the ugliest looking stadium in the whole '
+                           'world. That way it would be easier to understand '
+                           'what is it that you are talking about.',
+                   'score': 2},
+                  {'author': 'AvishD',
+                   'body': 'Tbh iam not against pan bahar adverts, or  any '
+                           'advert for that matter. \n'
+                           'At least have stadiums with world class display '
+                           'and facilities',
+                   'score': 2},
+                  {'author': 'crt7981',
+                   'body': 'But, but, how will all the connected members of '
+                           'BCCI and state board association who do not know '
+                           'abc of cricket fill their houses with money?\n'
+                           '\n'
+                           '1. Good Infrastructure with clean advertising '
+                           'boards.\n'
+                           '\n'
+                           '2. Basic amenities at the stadium\n'
+                           '\n'
+                           '3. Technical aspect of broadcasting the game. '
+                           'Better cameras. Better tech to detect and analyze '
+                           'live games. The Ashes looks like a IMAX shot movie '
+                           'compared to matches held in India. In broadcasting '
+                           'terms I think, we are at a par level of what WI at '
+                           'home broadcasts. ENG/AUS/NZ/SA have a lot better '
+                           'tech.',
+                   'score': 2},
+                  {'author': 'Formal-Ad2963',
+                   'body': 'Developed vs developing nation',
+                   'score': 2},
+                  {'author': 'T-72_A', 'body': 'Stupid govt.', 'score': 2}],
+ 'url': 'https://i.redd.it/jqinqk921k5g1.jpeg'}
+2025-12-27 20:19:13 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/Astronomy/comments/1k618ph/why_not_just_do_this_to_reduce_light_pollution/.json> (referer: https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50)
+2025-12-27 20:19:13 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/Astronomy/comments/1k618ph/why_not_just_do_this_to_reduce_light_pollution/.json>
+{'author': 'RedditBen2013',
+ 'created_utc': 1745420227.0,
+ 'keyword': 'pollution',
+ 'num_comments': 1033,
+ 'permalink': 'https://reddit.com/r/Astronomy/comments/1k618ph/why_not_just_do_this_to_reduce_light_pollution/',
+ 'post_type': 'google_ranked',
+ 'score': 21211,
+ 'subreddit': 'Astronomy',
+ 'title': 'Why not just do this to reduce light pollution?',
+ 'top_comments': [{'author': 'Other_Mike',
+                   'body': "Sadly, because it's a niche concern, and so many "
+                           'people think "more is better" when it comes to '
+                           'lighting at night.',
+                   'score': 5677},
+                  {'author': 'loztriforce',
+                   'body': 'I wish there was a sky watching holiday when '
+                           'lights were shut off for an hour',
+                   'score': 1986},
+                  {'author': 'HF_Martini6',
+                   'body': 'good for light pollution very bad for actually '
+                           'lighting up something or you would need to '
+                           'increase the amount of lights (and therefore '
+                           'increase power consumption) by a lot',
+                   'score': 734},
+                  {'author': 'hydromind1',
+                   'body': 'The “best” one ain’t lighting up shit. Better '
+                           'seems good though.',
+                   'score': 419},
+                  {'author': 'Mindmenot',
+                   'body': "To be fair, that's pretty much what most street "
+                           'lights do already in the states anyway.',
+                   'score': 128},
+                  {'author': 'UmbralRaptor',
+                   'body': 'To some extent this is already the case. Full '
+                           'cutoff or "cobrahead" fixtures have been available '
+                           'for streetlights for something like 20+ years '
+                           'now.\n'
+                           '\n'
+                           'But if you look more closely at what lights are '
+                           "used where and why, you'll see the problems. A lot "
+                           'of places lean on "old timey" aesthetics that '
+                           'insist on putting designs at eye level. '
+                           '"Wall-pack" fixtures also are very bad at '
+                           'directing light in useful locations. Signage type '
+                           "lights (obviously) don't direct light downwards, "
+                           'and the long term trend has been to never turn '
+                           "them off. And there's an assumption that more "
+                           'photons == easier visibility (even if the lights '
+                           'are shining directly into your eyes) and less '
+                           'crime.\n'
+                           '\n'
+                           'That last bit is important because you can see it '
+                           'in how the energy efficiency gains in switching to '
+                           'LEDs are being entirely spent on making things '
+                           'brighter.',
+                   'score': 50},
+                  {'author': 'EspaaValorum',
+                   'body': "In case this is not something on people's radar, "
+                           'worth spreading awareness:\n'
+                           '\n'
+                           '\n'
+                           'International Dark Sky Week\xa0 -\xa0'
+                           'https://idsw.darksky.org/',
+                   'score': 26},
+                  {'author': 'Cheesy_fry1',
+                   'body': 'Because it’s such a niche problem for many, but it '
+                           'should be much bigger as it also affects our '
+                           'wildlife. I did my English GCSE qualification '
+                           'speech on this issue.',
+                   'score': 19},
+                  {'author': 'smitcal',
+                   'body': 'I think it’s deter criminals, and for some reason '
+                           'that’s considered more important than some us '
+                           'wanting view Saturns rings.',
+                   'score': 10},
+                  {'author': 'Bad_wit_Usernames',
+                   'body': 'Very few people are going to actually be aware of '
+                           'the reasons why we should do this.  Your average '
+                           'city planner is probably going to care more about '
+                           'aesthetics and least expensive route when '
+                           'planning.\n'
+                           '\n'
+                           'I live in Las Vegas, I see maybe 5 stars in the '
+                           'night sky.  I have a street light right outside my '
+                           'house that is actually in the "Better" category '
+                           "here, but this isn't city-wide.",
+                   'score': 9}],
+ 'url': 'https://i.redd.it/ij7vq7f8mlwe1.jpeg'}
+2025-12-27 20:19:16 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/todayilearned/comments/1kd5ivt/til_gas_stoves_pollute_homes_with_benzene_which/.json> (referer: https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50)
+2025-12-27 20:19:16 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/todayilearned/comments/1kd5ivt/til_gas_stoves_pollute_homes_with_benzene_which/.json>
+{'author': '747WakeTurbulance',
+ 'created_utc': 1746203955.0,
+ 'keyword': 'pollution',
+ 'num_comments': 1403,
+ 'permalink': 'https://reddit.com/r/todayilearned/comments/1kd5ivt/til_gas_stoves_pollute_homes_with_benzene_which/',
+ 'post_type': 'google_ranked',
+ 'score': 19891,
+ 'subreddit': 'todayilearned',
+ 'title': 'TIL Gas stoves pollute homes with benzene, which is linked to '
+          'cancer',
+ 'top_comments': [{'author': 'PaintedClownPenis',
+                   'body': 'I was a chemistry major in the late 80s when '
+                           'benzene was identified as a carcinogen.  Many of '
+                           'the professors were outraged because for decades '
+                           'before that, benzene was the preferred solvent for '
+                           "washing one's hands when they came out of the "
+                           'lab.  \n'
+                           '\n'
+                           'The idea was to wash off all the other deadly '
+                           'chemicals they were working with--with bare '
+                           "hands--so that they weren't tracked around campus "
+                           'via the door handles.  This would have been in the '
+                           "1950s, I'm guessing.  So instead they were "
+                           'painting every door handle they used with '
+                           'benzene.  \n'
+                           '\n'
+                           'To those guys benzene was a miracle substance, a '
+                           'mostly inert and gentle solvent that could be kept '
+                           'around open, and still be used as a valuable '
+                           'precursor chemical in many processes.  \n'
+                           '\n'
+                           'These same professors were also aware of and very '
+                           'proud of the fact that their good practices had '
+                           'extended the life expectancy of a chemist from 25 '
+                           'years in the 1800s to almost average in the '
+                           '1980s.  They certainly included the benzene as a '
+                           'part of those good practices.\n'
+                           '\n'
+                           'We are almost certainly doing the same thing with '
+                           'an unknown number of other substances, right now.  '
+                           'The good part of it is that most of the dangers '
+                           'lurk just at or below our improving perception.  '
+                           "So even if they are dangerous, they aren't as "
+                           'dangerous as the stuff we routinely worked and '
+                           'lived with last century.',
+                   'score': 10061},
+                  {'author': 'SeriousMongoose2290',
+                   'body': 'The main issue with gas is when the home is not '
+                           'ventilated properly. It’s not that much better to '
+                           'cook on, but it’s basically a non issue as long as '
+                           'you have make up air circulating when you’re using '
+                           'the stove.\xa0',
+                   'score': 2238},
+                  {'author': 'relaxyourshoulders',
+                   'body': 'Run the damn fan man',
+                   'score': 1813},
+                  {'author': 'Kaludar_',
+                   'body': 'I went down a rabbit hole with this once before '
+                           'buying a gas stove. The studies I saw, even under '
+                           'worst case scenarios, all burners on high, old '
+                           'stove, no ventilation still produced levels of '
+                           'benzene and nitrogen dioxide lower than the OSHA '
+                           'accepted guidelines for full time exposure (40 '
+                           'hours a week). I think this is a non issue being '
+                           'couched as a hazard to promote more green '
+                           'alternatives.\n'
+                           '\n'
+                           "It's actually dishonest and makes people trust "
+                           'science less.',
+                   'score': 995},
+                  {'author': '[deleted]',
+                   'body': 'If you know a healthier way to light my cigarette, '
+                           'I’m all ears',
+                   'score': 349},
+                  {'author': 'King-JelIy',
+                   'body': "Counterpoint. \n\nWhat's not linked to cancer",
+                   'score': 329},
+                  {'author': 'Malforus',
+                   'body': 'I mean this is the shoe that had to drop doing '
+                           'combustion indoors.  Likely the worst in areas '
+                           'without air handling systems like a hood vent or '
+                           'others.\n'
+                           '\n'
+                           'Also worse with low ceilings without '
+                           'ventilation.  \n'
+                           '\n'
+                           'Time to install a through the wall fan vent in my '
+                           'kitchen...',
+                   'score': 276},
+                  {'author': 'Thel_Odan',
+                   'body': 'Just understand the risks and go from there. I '
+                           "have a gas stove because it's way more reliable "
+                           "than electric. We lose power and it's nice to "
+                           'still be able to cook things. At the end of '
+                           'March/beginning of April we were without power for '
+                           '11 days in freezing temperatures. While it '
+                           "definitely wasn't the best, the gas burners on the "
+                           'stove provided enough heat in the house so we '
+                           "didn't freeze to death or have the pipes explode.",
+                   'score': 128},
+                  {'author': 'schlingfo',
+                   'body': 'Here in Texas, where we lose power all the time, '
+                           'gas is exceedingly reliable.\xa0\n'
+                           '\n'
+                           '\n'
+                           'So we can still cook and boil contaminated water '
+                           "when we're out of power for days and weeks after "
+                           'storms.\n'
+                           '\n'
+                           '\n'
+                           "And the pollutants from the stove don't hold a "
+                           'candle to what the refineries and chemical plants '
+                           'in the Houston area are pumping into the air and '
+                           'water.\n'
+                           '\n'
+                           '\n'
+                           'They can pry it from my cold dead hands.\xa0',
+                   'score': 96},
+                  {'author': 'TheHeroYouNeed247',
+                   'body': 'I often wonder if any of this shit even matters, '
+                           'since we are surrounded by carcinogenic exhaust '
+                           "fumes we can't see.",
+                   'score': 82}],
+ 'url': 'https://www.npr.org/2023/06/16/1181299405/gas-stoves-pollute-homes-with-benzene-which-is-linked-to-cancer'}
+2025-12-27 20:19:18 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/Music/comments/1m1gtz8/sza_slams_use_of_ai_says_its_killing_and/.json> (referer: https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50)
+2025-12-27 20:19:18 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/Music/comments/1m1gtz8/sza_slams_use_of_ai_says_its_killing_and/.json>
+{'author': 'TheMirrorUS',
+ 'created_utc': 1752682376.0,
+ 'keyword': 'pollution',
+ 'num_comments': 857,
+ 'permalink': 'https://reddit.com/r/Music/comments/1m1gtz8/sza_slams_use_of_ai_says_its_killing_and/',
+ 'post_type': 'google_ranked',
+ 'score': 14193,
+ 'subreddit': 'Music',
+ 'title': "Sza slams use of AI says it's 'killing and polluting black and "
+          "brown cities'",
+ 'top_comments': [{'author': 'CarlsManager',
+                   'body': "For context, she's talking about things like this: "
+                           '[https://tennesseelookout.com/2025/07/07/a-billionaire-an-ai-supercomputer-toxic-emissions-and-a-memphis-community-that-did-nothing-wrong/](https://tennesseelookout.com/2025/07/07/a-billionaire-an-ai-supercomputer-toxic-emissions-and-a-memphis-community-that-did-nothing-wrong/)\n'
+                           '\n'
+                           'Climate change is not a sudden, global apocalyptic '
+                           "moment. It's several mini-apocalypses inflicted on "
+                           'the poorest and most vulnerable communities first '
+                           'and then creeping up the class ladder over time.',
+                   'score': 3282},
+                  {'author': 'PaullT2',
+                   'body': "This is the type of thing that the EPA's "
+                           'Environmental Justice division was created to try '
+                           'and address, but it was shut down for being "DEI" '
+                           'over the last few months.',
+                   'score': 943},
+                  {'author': 'IAmTheGingaNinja',
+                   'body': 'People in this thread already don’t seem to '
+                           'realize she’s talking about the literal pollution '
+                           'in black and brown areas that come from trying to '
+                           'produce and maintain ai\n'
+                           '\n'
+                           'They aren’t building these data centers in '
+                           'predominantly rich/white areas',
+                   'score': 562},
+                  {'author': 'homeworkrules69',
+                   'body': 'The highest concentration of data centers in the '
+                           'US is Northern Virginia, centered on Loudoun '
+                           'County. Loudoun is the wealthiest county in '
+                           'America. They produce tax revenue and (some) jobs. '
+                           'I guess this wealth creation should be centered on '
+                           'the Mid-Atlantic and Silicon Valley?',
+                   'score': 213},
+                  {'author': 'iridescentlion',
+                   'body': 'Not everything and every problem needs to be about '
+                           '“racism” Blaming racism for everything is a '
+                           'horrible mindset with no positives. It’s '
+                           'deflecting from the real problem, completely '
+                           'isolates yourself from potential allies, offers no '
+                           'accountability, no way forward, is a cop-out, '
+                           'excuses the real culprits, sows division and holds '
+                           'everyone back',
+                   'score': 144},
+                  {'author': 'combustibledaredevil',
+                   'body': 'Fuck AI go sza',
+                   'score': 98},
+                  {'author': 'BoltThrower28',
+                   'body': 'Ah is see, it only effects black and brown people, '
+                           'I forgot white people don’t live in those areas.',
+                   'score': 86},
+                  {'author': 'BenTramer',
+                   'body': 'All colors are being affected by this insanity.',
+                   'score': 78},
+                  {'author': '[deleted]',
+                   'body': 'mysterious party imagine offer steep continue '
+                           'deserve tart distinct afterthought\n'
+                           '\n'
+                           ' *This post was mass deleted and anonymized with '
+                           '[Redact](https://redact.dev/home)*',
+                   'score': 71},
+                  {'author': 'kaduceus',
+                   'body': 'Race. race. race. \n\n  \nAlways about race.',
+                   'score': 64}],
+ 'url': 'https://www.themirror.com/entertainment/celebrity-news/sza-slams-ai-use-reddit-1271734'}
+2025-12-27 20:19:21 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/interesting/comments/1k5ui1m/the_solution_to_reduce_light_pollution_is/.json> (referer: https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50)
+2025-12-27 20:19:21 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/interesting/comments/1k5ui1m/the_solution_to_reduce_light_pollution_is/.json>
+{'author': 'kirtash93',
+ 'created_utc': 1745398773.0,
+ 'keyword': 'pollution',
+ 'num_comments': 2245,
+ 'permalink': 'https://reddit.com/r/interesting/comments/1k5ui1m/the_solution_to_reduce_light_pollution_is/',
+ 'post_type': 'google_ranked',
+ 'score': 115303,
+ 'subreddit': 'interesting',
+ 'title': 'The Solution To Reduce Light Pollution Is Actually So Simple',
+ 'top_comments': [{'author': 'contemplatinglife70',
+                   'body': 'Just give everyone night vision goggles.',
+                   'score': 3994},
+                  {'author': 'a-b-h-i',
+                   'body': 'Insects like fireflies are going extinct around '
+                           'cities.',
+                   'score': 2748},
+                  {'author': 'Whole-Energy2105',
+                   'body': 'By covering the top of the globe with a reflective '
+                           'hood, you need less power to light the same ground '
+                           'area. This is being applied across the world and '
+                           'allows us to see the pretty stars again. 🙂',
+                   'score': 1198},
+                  {'author': 'CobaltLemur',
+                   'body': "Why do I get the impression there's always a "
+                           'certain group of people who are actively hostile '
+                           'to anything that would help anyone.',
+                   'score': 999},
+                  {'author': 'nanana_catdad',
+                   'body': 'It’s a good thing light doesn’t bounce off that '
+                           '100% light absorbing ground there\n'
+                           '\n'
+                           'edit: yes I know this is better than the '
+                           'alternatives.',
+                   'score': 605},
+                  {'author': 'SimpleVegetable5715',
+                   'body': "They didn't include the stadium lighting at every "
+                           'big box mart around my city.\n'
+                           '\n'
+                           '![gif](giphy|vvaDh9BKJy0mpElmh8|downsized)\n'
+                           '\n'
+                           "Birds don't even know it's nighttime.",
+                   'score': 331},
+                  {'author': 'Malabingo',
+                   'body': 'So we just need some old Wehrmacht helmets for the '
+                           'lamps? Got it!\n'
+                           '\n'
+                           '![gif](giphy|ImoticrbHdhNS)',
+                   'score': 180},
+                  {'author': 'ImpeccableManners',
+                   'body': 'i might be very german now but ive never seen the '
+                           'left one anywhere. we only have better and best '
+                           'according to this scale.',
+                   'score': 105},
+                  {'author': 'DangerousArea1427',
+                   'body': 'every donkey here: "akchually, ground reflects the '
+                           'light" - yes, no one said it doesnt. Pic says '
+                           '"LESS light pollution" not "NO light pollution". '
+                           'Jesus fuckin christ.',
+                   'score': 85},
+                  {'author': 'Existing-Mulberry382',
+                   'body': 'We already have a good boy in the sky.\n'
+                           '\n'
+                           '![gif](giphy|wEM71wbHnFPTHa7FSt)',
+                   'score': 30}],
+ 'url': 'https://i.redd.it/28lmlggmujwe1.jpeg'}
+2025-12-27 20:19:23 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/MapPorn/comments/1kulwar/map_of_light_pollution_around_the_world/.json> (referer: https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50)
+2025-12-27 20:19:23 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/MapPorn/comments/1kulwar/map_of_light_pollution_around_the_world/.json>
+{'author': 'Rare-Professor-4644',
+ 'created_utc': 1748120919.0,
+ 'keyword': 'pollution',
+ 'num_comments': 1923,
+ 'permalink': 'https://reddit.com/r/MapPorn/comments/1kulwar/map_of_light_pollution_around_the_world/',
+ 'post_type': 'google_ranked',
+ 'score': 46198,
+ 'subreddit': 'MapPorn',
+ 'title': 'Map of light pollution around the world…',
+ 'top_comments': [{'author': 'Consistent_Work_4760',
+                   'body': 'Wonder what life is like for those little blips in '
+                           'the middle of Australia.\n'
+                           '\n'
+                           'All night truck stops? Podunk mining towns? \n'
+                           '\n'
+                           'imagine being that isolated both relatively and '
+                           'absolutely.',
+                   'score': 2681},
+                  {'author': 'LLV_Mailman',
+                   'body': 'What that giant island next to Japan? Oh thats '
+                           'right, never mind',
+                   'score': 2385},
+                  {'author': 'swagsauce3',
+                   'body': 'Why is most of the light in Canada and NE US '
+                           'blue-ish',
+                   'score': 2016},
+                  {'author': 'jafetsigfinns',
+                   'body': "Surprised no one's mentioned the spot between the "
+                           'UK and Norway yet. Is that all just oil platforms '
+                           'or ship traffic or what? Kinda wild to see so many '
+                           'lights in an area that is all ocean.',
+                   'score': 1425},
+                  {'author': 'POOPPOOPPEEPEEWEEWEE',
+                   'body': 'its insane how bright the BENELUX is compared to '
+                           'the rest of Europe',
+                   'score': 646},
+                  {'author': 'noermalguy221234',
+                   'body': 'It’s so… beautiful',
+                   'score': 548},
+                  {'author': 'yurious',
+                   'body': 'This is a NOAA map showing the change in '
+                           'illumination from 1993-2003. Lights are '
+                           'color-coded:\n'
+                           '\n'
+                           '**Red** — lights appeared during that period\n'
+                           '\n'
+                           '**Orange / yellow** — regions of high/low '
+                           'intensity lighting that increased in brightness '
+                           'over the ten years\n'
+                           '\n'
+                           '**Grey** — unchanged\n'
+                           '\n'
+                           '**Pale blue / dark blue** — low and high intensity '
+                           'lighting that decreased in brightness\n'
+                           '\n'
+                           '**Very dark blue** — were present in 1993 but had '
+                           'disappeared by 2003\n'
+                           '\n'
+                           '[https://www.sciencephoto.com/media/160004/view](https://www.sciencephoto.com/media/160004/view)\n'
+                           '\n'
+                           'DISCLAIMER (edited):\n'
+                           '\n'
+                           "They wrote that it's made by NOAA (National "
+                           'Oceanic and Atmospheric Administration) and '
+                           'SCIENCE PHOTO LIBRARY (themselves). But the more I '
+                           'look at this photo, the more I think that this may '
+                           "be bogus data and colours because I didn't find "
+                           'any original from NOAA.',
+                   'score': 500},
+                  {'author': 'pqratusa',
+                   'body': 'Why is Ireland red, while NI and the rest of the '
+                           'UK golden yellow?',
+                   'score': 430},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 296},
+                  {'author': 'fcknbroken',
+                   'body': 'r/mapswithoutnz',
+                   'score': 296}],
+ 'url': 'https://www.reddit.com/gallery/1kulwar'}
+2025-12-27 20:19:26 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/europe/comments/1lmdjg1/paris_pollution_after_they_added_bike_lanes_and/.json> (referer: https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50)
+2025-12-27 20:19:26 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/europe/comments/1lmdjg1/paris_pollution_after_they_added_bike_lanes_and/.json>
+{'author': 'Potential-Focus3211',
+ 'created_utc': 1751083185.0,
+ 'keyword': 'pollution',
+ 'num_comments': 1669,
+ 'permalink': 'https://reddit.com/r/europe/comments/1lmdjg1/paris_pollution_after_they_added_bike_lanes_and/',
+ 'post_type': 'google_ranked',
+ 'score': 50530,
+ 'subreddit': 'europe',
+ 'title': 'Paris pollution after they added bike lanes and restricted cars',
+ 'top_comments': [{'author': 'Primary-Juice-4888',
+                   'body': 'Meanwhile Berlin cancelling almost all bike line '
+                           'projects and building a literal motorway in the '
+                           'middle of the city..',
+                   'score': 6519},
+                  {'author': 'Koririn',
+                   'body': 'Wow. Why is this thread so full of people who '
+                           'refuse to take these changes as a good thing and '
+                           'want to defend cars instead?',
+                   'score': 2752},
+                  {'author': 'Strict_Geologist_385',
+                   'body': 'Great, but stop reposting incomplete graphs!\n'
+                           '- What pollutant was measured?\n'
+                           '- How many ppm do which colors represent?\n'
+                           '\n'
+                           'Guys/Girls, you need to at least include the '
+                           'legend…extra points if you offer a short summary '
+                           'of the abstract or other relevant text.\n'
+                           '\n'
+                           'Edit: Without data backing up a graph, this will '
+                           'do little to change people‘s minds as it can '
+                           'easily (and rightly so) be dismissed…so link the '
+                           'source.',
+                   'score': 1314},
+                  {'author': 'ptok_',
+                   'body': 'and what those color represent?',
+                   'score': 484},
+                  {'author': 'Mysterious_Detail_57',
+                   'body': "It's almost as if there's less pollution when "
+                           "there's less cars around",
+                   'score': 248},
+                  {'author': 'DrTakumiFR',
+                   'body': 'This is the 4th time that I see this map reposted '
+                           'with this braindead simplistic title, even the '
+                           'ones who monitor these maps have never linked the '
+                           'drop of emissions to "bike lanes" or '
+                           '"restrictions":\n'
+                           '\n'
+                           'https://www.airparif.fr/sites/default/files/document_publication/Bilan_QA_75_2023.pdf\n'
+                           '\n'
+                           'The reason cited in their document is cars getting '
+                           'newer.\n'
+                           '\n'
+                           'The average car is 11,2 years old in France, so '
+                           'when new regulations come for engine '
+                           'manufacturers, the results have some delay.\n'
+                           '\n'
+                           'The real reasons for the drop in NO² particles are '
+                           ':\n'
+                           '- ICE engines getting cleaner thanks to EURO '
+                           'regulations\n'
+                           '- The number of diesel cars started dropping in '
+                           '2016 (77% in 2007, 50% in 2024)\n'
+                           '- Less traffic thanks to remote work\n'
+                           '\n'
+                           'That being said, adding bike lanes and making '
+                           'clean transportation easier can only help, but '
+                           'coming up with random conclusions that fit your '
+                           "narrative hurts the debate, don't spread bullshit "
+                           'like this (and add some damn numbers to your '
+                           'charts).',
+                   'score': 135},
+                  {'author': 'LowRevolution6175',
+                   'body': 'Source?',
+                   'score': 113},
+                  {'author': 'moe3',
+                   'body': 'Finally some good fucking news.',
+                   'score': 81},
+                  {'author': 'JumpyEntrance394',
+                   'body': 'My teachers at school always told me a graph '
+                           'without proper labeling is useless. Am personnally '
+                           'very happy for the Paris cycling developments and '
+                           'the reduction of speeds throughout, but this graph '
+                           'is useless. Sorry, computer says no.',
+                   'score': 58},
+                  {'author': 'Joltie',
+                   'body': 'What a terrible map. Without the color gradients '
+                           'being explained, noone can be certain if it has '
+                           'improved or worsened, nor by how much.',
+                   'score': 49}],
+ 'url': 'https://i.redd.it/h2a1ajyzcl9f1.png'}
+2025-12-27 20:19:28 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/interestingasfuck/comments/1pceg45/96_out_of_the_top_100_most_polluted_cities_in/.json> (referer: https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50)
+2025-12-27 20:19:28 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/interestingasfuck/comments/1pceg45/96_out_of_the_top_100_most_polluted_cities_in/.json>
+{'author': 'smash_1048',
+ 'created_utc': 1764696213.0,
+ 'keyword': 'pollution',
+ 'num_comments': 700,
+ 'permalink': 'https://reddit.com/r/interestingasfuck/comments/1pceg45/96_out_of_the_top_100_most_polluted_cities_in/',
+ 'post_type': 'google_ranked',
+ 'score': 9024,
+ 'subreddit': 'interestingasfuck',
+ 'title': '96 out of the top 100 most polluted cities in terms of AQI are from '
+          'India',
+ 'top_comments': [{'author': 'putrid_flesh',
+                   'body': 'And apparently 2 of the other 4 are Nepal which '
+                           'borders India',
+                   'score': 2815},
+                  {'author': 'arthurdentstowels',
+                   'body': 'This made me go and look at the AQI where I am '
+                           "(UK) because it's always something I've skipped "
+                           "past when checking the weather. It's 2. I feel "
+                           'like I need some kind of scale to put it into '
+                           'context, but if 0 is clean then over 800 must look '
+                           'like Silent Hill.',
+                   'score': 808},
+                  {'author': 'thefrostman1214',
+                   'body': 'Only 4 more ✊✊✊',
+                   'score': 722},
+                  {'author': 'Witty-Stand888',
+                   'body': 'might as well take up smoking if you live there.',
+                   'score': 589},
+                  {'author': 'StuckInNY',
+                   'body': 'The same mountains that kept that region safer '
+                           'from invasion is now trapping air pollution.',
+                   'score': 503},
+                  {'author': 'nikiterrapepper',
+                   'body': 'Why don’t they hold Modi accountable?',
+                   'score': 391},
+                  {'author': '[deleted]', 'body': '[deleted]', 'score': 209},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 152},
+                  {'author': 'koldhart4',
+                   'body': 'i was back in India(Delhi) in November and '
+                           'breathing felt like an exhausting task whenever i '
+                           'was outside travelling, you can physically feel '
+                           'the difficulty it took to breathe in and out.\n'
+                           '\n'
+                           'i locked myself in my house with air filters for a '
+                           'solid 2-3 weeks before it was time to leave India '
+                           'again.',
+                   'score': 139},
+                  {'author': 'sexotaku',
+                   'body': 'How did we manage to pollute so much while also '
+                           'failing to provide employment?',
+                   'score': 133}],
+ 'url': 'https://i.redd.it/2bvz1s0rrt4g1.png'}
+2025-12-27 20:19:30 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/Amazing/comments/1njgvl5/smoke_trapped_in_a_plastic_bag_to_demonstrate_how/.json> (referer: https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50)
+2025-12-27 20:19:30 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/Amazing/comments/1njgvl5/smoke_trapped_in_a_plastic_bag_to_demonstrate_how/.json>
+{'author': 'Wooden-Journalist902',
+ 'created_utc': 1758124268.0,
+ 'keyword': 'pollution',
+ 'num_comments': 2009,
+ 'permalink': 'https://reddit.com/r/Amazing/comments/1njgvl5/smoke_trapped_in_a_plastic_bag_to_demonstrate_how/',
+ 'post_type': 'google_ranked',
+ 'score': 47479,
+ 'subreddit': 'Amazing',
+ 'title': 'Smoke trapped in a plastic bag to demonstrate how one fire can '
+          'generate significant pollution.',
+ 'top_comments': [{'author': 'NoIdNoNameWho',
+                   'body': 'And then what?\n'
+                           '\n'
+                           '![gif](giphy|l46CyJmS9KUbokzsI|downsized)',
+                   'score': 1414},
+                  {'author': 'FlipMeynard',
+                   'body': 'That giant plastic bag ain’t so great either',
+                   'score': 741},
+                  {'author': 'vega455',
+                   'body': 'Now I understand. Before I thought the black smoke '
+                           'went into space and made it black. Thank you for '
+                           'the science.',
+                   'score': 497},
+                  {'author': '00WORDYMAN1983',
+                   'body': 'What did they do with the dangerous polluting '
+                           "smoke that was captured? Surely they didn't "
+                           'release it and pollute the air?',
+                   'score': 247},
+                  {'author': 'Slainlion',
+                   'body': 'what are they burining? Tires?',
+                   'score': 152},
+                  {'author': 'EffektieweEffie',
+                   'body': 'The fuel kind of matters, looks like they are '
+                           'burning tyres.',
+                   'score': 114},
+                  {'author': 'v4nrick',
+                   'body': 'ahhh smoke goes up, now i get it',
+                   'score': 73},
+                  {'author': 'AdmiralClover',
+                   'body': 'I feel like this is another instance of blaming '
+                           'people for pissing in the pool while a company is '
+                           'dumping an entire septic tank',
+                   'score': 36},
+                  {'author': 'BinaryHippie',
+                   'body': 'I wonder what pollution was released to make that '
+                           'plastic bag.',
+                   'score': 36},
+                  {'author': 'IceColdSteph',
+                   'body': 'Im not saying aliens dont exist.  But if i saw '
+                           'this from a long way away, it definitely looks '
+                           'like aliens',
+                   'score': 9}],
+ 'url': 'https://v.redd.it/gw8eyx53yqpf1'}
+2025-12-27 20:19:31 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/nextfuckinglevel/comments/1pok8gs/bangladesh_takes_action_to_clean_its_polluted/.json> (referer: https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50)
+2025-12-27 20:19:31 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/nextfuckinglevel/comments/1pok8gs/bangladesh_takes_action_to_clean_its_polluted/.json>
+{'author': 'AromaticPurple5146',
+ 'created_utc': 1765936419.0,
+ 'keyword': 'pollution',
+ 'num_comments': 6419,
+ 'permalink': 'https://reddit.com/r/nextfuckinglevel/comments/1pok8gs/bangladesh_takes_action_to_clean_its_polluted/',
+ 'post_type': 'google_ranked',
+ 'score': 126500,
+ 'subreddit': 'nextfuckinglevel',
+ 'title': 'Bangladesh takes action to clean its polluted rivers.',
+ 'top_comments': [{'author': 'Donkeybrother',
+                   'body': 'Holy Fuck ... enough garbage to support the weight '
+                           'of people standing on it ! Disgusting .',
+                   'score': 38937},
+                  {'author': 'Dark_Akarin',
+                   'body': 'cleaning group destroys bridge supporting local '
+                           'businesses.',
+                   'score': 19876},
+                  {'author': 'Haliucinogenas1',
+                   'body': 'I wonder how long it will stay "clean"...',
+                   'score': 8514},
+                  {'author': 'Schim4499',
+                   'body': 'The people that are chest deep in that water are '
+                           'martyrs. Or will be very soon.',
+                   'score': 7470},
+                  {'author': 'Kiss-a-Cod',
+                   'body': 'I’m astonished to see there was a river under '
+                           'there',
+                   'score': 3714},
+                  {'author': 'ZGPJ',
+                   'body': 'Many hands makes… still extremely arduous work by '
+                           'the looks of this',
+                   'score': 1911},
+                  {'author': 'oneness_all',
+                   'body': 'I was like where the fuck is the river?\n'
+                           '\n'
+                           'The people living there are gonno be pissed that '
+                           'their road is gone.',
+                   'score': 1332},
+                  {'author': 'ifuckedyourmom-247',
+                   'body': 'good for them, i have good faith in the upcoming '
+                           'generations. they will fix what their ancestors '
+                           'forced them to live in.',
+                   'score': 1151},
+                  {'author': 'Lucky_Cod_7437',
+                   'body': '![gif](giphy|dOl2LFw0RbTMc)',
+                   'score': 755},
+                  {'author': 'pjtpassword',
+                   'body': "That's great. But a mind set needs to change in "
+                           'the people. Not hopeful that it will.',
+                   'score': 453}],
+ 'url': 'https://v.redd.it/flkm3h3l7o7g1'}
+2025-12-27 20:19:33 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=pollution&sort=relevance&limit=50> (referer: None)
+2025-12-27 20:19:33 [scrapy] INFO: Closing spider (finished)
+2025-12-27 20:19:33 [scrapy] INFO: Stored json feed (15 items) in: posts/spiders/output/google_ranked_pollution_2025-12-27T14-48-54+00-00.json
+2025-12-27 20:19:33 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 14996,
+ 'downloader/request_count': 17,
+ 'downloader/request_method_count/GET': 17,
+ 'downloader/response_bytes': 863210,
+ 'downloader/response_count': 17,
+ 'downloader/response_status_count/200': 17,
+ 'elapsed_time_seconds': 38.741915,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 12, 27, 14, 49, 33, 653541, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 7462641,
+ 'httpcompression/response_count': 17,
+ 'item_scraped_count': 15,
+ 'log_count/DEBUG': 34,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'request_depth_max': 1,
+ 'response_received_count': 17,
+ 'scheduler/dequeued': 17,
+ 'scheduler/dequeued/memory': 17,
+ 'scheduler/enqueued': 17,
+ 'scheduler/enqueued/memory': 17,
+ 'start_time': datetime.datetime(2025, 12, 27, 14, 48, 54, 911626, tzinfo=datetime.timezone.utc)}
+2025-12-27 20:19:33 [scrapy] INFO: Spider closed (finished)

@@ -1,0 +1,66 @@
+2025-12-28 19:32:26 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=vivo&sort=relevance&limit=50> (referer: None)
+2025-12-28 19:32:26 [scrapy] ERROR: Spider error processing <GET https://www.reddit.com/search.json?q=vivo&sort=relevance&limit=50> (referer: None)
+Traceback (most recent call last):
+  File "C:\Users\aman\OneDrive\Desktop\late_proj\venv\Lib\site-packages\scrapy\utils\defer.py", line 343, in iter_errback
+    yield next(it)
+          ~~~~^^^^
+  File "C:\Users\aman\OneDrive\Desktop\late_proj\venv\Lib\site-packages\scrapy\utils\python.py", line 369, in __next__
+    return next(self.data)
+  File "C:\Users\aman\OneDrive\Desktop\late_proj\venv\Lib\site-packages\scrapy\utils\python.py", line 369, in __next__
+    return next(self.data)
+  File "C:\Users\aman\OneDrive\Desktop\late_proj\venv\Lib\site-packages\scrapy\core\spidermw.py", line 167, in process_sync
+    yield from iterable
+  File "C:\Users\aman\OneDrive\Desktop\late_proj\venv\Lib\site-packages\scrapy\spidermiddlewares\base.py", line 58, in process_spider_output
+    for o in result:
+             ^^^^^^
+  File "C:\Users\aman\OneDrive\Desktop\late_proj\venv\Lib\site-packages\scrapy\core\spidermw.py", line 167, in process_sync
+    yield from iterable
+  File "C:\Users\aman\OneDrive\Desktop\late_proj\venv\Lib\site-packages\scrapy\spidermiddlewares\base.py", line 58, in process_spider_output
+    for o in result:
+             ^^^^^^
+  File "C:\Users\aman\OneDrive\Desktop\late_proj\venv\Lib\site-packages\scrapy\core\spidermw.py", line 167, in process_sync
+    yield from iterable
+  File "C:\Users\aman\OneDrive\Desktop\late_proj\venv\Lib\site-packages\scrapy\spidermiddlewares\base.py", line 58, in process_spider_output
+    for o in result:
+             ^^^^^^
+  File "C:\Users\aman\OneDrive\Desktop\late_proj\venv\Lib\site-packages\scrapy\core\spidermw.py", line 167, in process_sync
+    yield from iterable
+  File "C:\Users\aman\OneDrive\Desktop\late_proj\venv\Lib\site-packages\scrapy\spidermiddlewares\depth.py", line 59, in process_spider_output
+    yield from super().process_spider_output(response, result, spider)
+  File "C:\Users\aman\OneDrive\Desktop\late_proj\venv\Lib\site-packages\scrapy\spidermiddlewares\base.py", line 58, in process_spider_output
+    for o in result:
+             ^^^^^^
+  File "C:\Users\aman\OneDrive\Desktop\late_proj\venv\Lib\site-packages\scrapy\core\spidermw.py", line 167, in process_sync
+    yield from iterable
+  File "C:\Users\aman\OneDrive\Desktop\late_proj\endpoint\endpoint\spiders\competitor_mentions.py", line 62, in parse
+    if self.count >= self.max_posts:
+       ^^^^^^^^^^
+AttributeError: 'CompetitorMentionSpider' object has no attribute 'count'
+2025-12-28 19:32:26 [scrapy] INFO: Closing spider (finished)
+2025-12-28 19:32:26 [scrapy] INFO: Stored json feed (0 items) in: posts/spiders/output/competitor_mentions_2025-12-28T14-02-24+00-00.json
+2025-12-28 19:32:26 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 159,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 71316,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'elapsed_time_seconds': 2.07322,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 12, 28, 14, 2, 26, 549966, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 384503,
+ 'httpcompression/response_count': 1,
+ 'log_count/DEBUG': 3,
+ 'log_count/ERROR': 2,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'spider_exceptions/AttributeError': 1,
+ 'spider_exceptions/count': 1,
+ 'start_time': datetime.datetime(2025, 12, 28, 14, 2, 24, 476746, tzinfo=datetime.timezone.utc)}
+2025-12-28 19:32:26 [scrapy] INFO: Spider closed (finished)

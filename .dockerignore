@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Docker ignores itself
+.dockerignore
+
+# Git files
+.git
+.gitignore
+
+# Editor settings
+.vscode/
+.idea/
+*.log

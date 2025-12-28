@@ -1,0 +1,200 @@
+2025-12-27 20:21:03 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=new-year&sort=new&limit=50> (referer: None)
+2025-12-27 20:21:06 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=new-year&sort=new&limit=50&after=t3_1pwzgv4> (referer: https://www.reddit.com/search.json?q=new-year&sort=new&limit=50)
+2025-12-27 20:21:08 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=new-year&sort=new&limit=50&after=t3_1pwzbnn> (referer: https://www.reddit.com/search.json?q=new-year&sort=new&limit=50)
+2025-12-27 20:21:09 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=new-year&sort=new&limit=50&after=t3_1pwzbnn>
+{'author': 'pre1988',
+ 'created_utc': 1766846104.0,
+ 'keyword': 'new-year',
+ 'num_comments': 6,
+ 'permalink': 'https://reddit.com/r/AskIndianWomen/comments/1pwz8sg/to_all_the_women_who_are_in_their_20s/',
+ 'post_type': 'high_engagement',
+ 'score': 28,
+ 'subreddit': 'AskIndianWomen',
+ 'title': 'To all the women who are in their 20s.',
+ 'url': 'https://www.reddit.com/r/AskIndianWomen/comments/1pwz8sg/to_all_the_women_who_are_in_their_20s/'}
+2025-12-27 20:21:11 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=new-year&sort=new&limit=50&after=t3_1pwz81r> (referer: https://www.reddit.com/search.json?q=new-year&sort=new&limit=50)
+2025-12-27 20:21:11 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=new-year&sort=new&limit=50&after=t3_1pwz81r>
+{'author': 'BhaveshShaha',
+ 'created_utc': 1766846022.0,
+ 'keyword': 'new-year',
+ 'num_comments': 6,
+ 'permalink': 'https://reddit.com/r/IPMATtards/comments/1pwz7pt/ask_me_anything_ama_bhavesh_shaha_ipm_2124_iim/',
+ 'post_type': 'high_engagement',
+ 'score': 12,
+ 'subreddit': 'IPMATtards',
+ 'title': 'Ask Me Anything (AMA) - Bhavesh Shaha [IPM 21-24 @ IIM Ranchi] '
+          '#2025.Q4',
+ 'url': 'https://www.reddit.com/gallery/1pwz7pt'}
+2025-12-27 20:21:12 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=new-year&sort=new&limit=50&after=t3_1pwz3iq> (referer: https://www.reddit.com/search.json?q=new-year&sort=new&limit=50)
+2025-12-27 20:21:15 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=new-year&sort=relevance&limit=50> (referer: None)
+2025-12-27 20:21:15 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=new-year&sort=relevance&limit=50>
+{'author': 'IncomingBroccoli',
+ 'created_utc': 1735695304.0,
+ 'keyword': 'new-year',
+ 'num_comments': 1380,
+ 'permalink': 'https://reddit.com/r/nextfuckinglevel/comments/1hqswch/new_years_celebration_in_china/',
+ 'post_type': 'high_engagement',
+ 'score': 99505,
+ 'subreddit': 'nextfuckinglevel',
+ 'title': "New Year's celebration in China",
+ 'url': 'https://v.redd.it/cwxlap39daae1'}
+2025-12-27 20:21:15 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=new-year&sort=relevance&limit=50>
+{'author': 'PacmanTheHitman',
+ 'created_utc': 1674522654.0,
+ 'keyword': 'new-year',
+ 'num_comments': 3756,
+ 'permalink': 'https://reddit.com/r/dankmemes/comments/10jt88x/new_year_same_me/',
+ 'post_type': 'high_engagement',
+ 'score': 94497,
+ 'subreddit': 'dankmemes',
+ 'title': 'New Year, Same Me',
+ 'url': 'https://i.redd.it/kasfifwknxda1.jpg'}
+2025-12-27 20:21:15 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=new-year&sort=relevance&limit=50>
+{'author': 'Better-Turnip-226',
+ 'created_utc': 1748886143.0,
+ 'keyword': 'new-year',
+ 'num_comments': 2246,
+ 'permalink': 'https://reddit.com/r/interestingasfuck/comments/1l1of91/a_guy_checks_his_computer_on_new_years_night_2000/',
+ 'post_type': 'high_engagement',
+ 'score': 92040,
+ 'subreddit': 'interestingasfuck',
+ 'title': "A guy checks his computer on New Year's night, 2000.",
+ 'url': 'https://v.redd.it/bdxzj6z8wj4f1'}
+2025-12-27 20:21:15 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=new-year&sort=relevance&limit=50>
+{'author': 'wayhighupcanada',
+ 'created_utc': 1672553945.0,
+ 'keyword': 'new-year',
+ 'num_comments': 1293,
+ 'permalink': 'https://reddit.com/r/funny/comments/100dgtg/new_years_defensive_activated/',
+ 'post_type': 'high_engagement',
+ 'score': 91637,
+ 'subreddit': 'funny',
+ 'title': 'New years defensive activated . .',
+ 'url': 'https://v.redd.it/7gk1q1mk1f9a1'}
+2025-12-27 20:21:15 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=new-year&sort=relevance&limit=50>
+{'author': 'Limp_Falcon_2314',
+ 'created_utc': 1735941143.0,
+ 'keyword': 'new-year',
+ 'num_comments': 9551,
+ 'permalink': 'https://reddit.com/r/pics/comments/1hsy4xz/trump_on_new_years_eve_at_maralago/',
+ 'post_type': 'high_engagement',
+ 'score': 58866,
+ 'subreddit': 'pics',
+ 'title': 'Trump on New Years Eve at Mar-a-Lago ',
+ 'url': 'https://i.redd.it/1pqoka1aouae1.jpeg'}
+2025-12-27 20:21:15 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=new-year&sort=relevance&limit=50>
+{'author': 'curiositykeepsmeup',
+ 'created_utc': 1735744352.0,
+ 'keyword': 'new-year',
+ 'num_comments': 7429,
+ 'permalink': 'https://reddit.com/r/pics/comments/1hr4rd0/the_terrorists_flag_being_hidden_at_the_new/',
+ 'post_type': 'high_engagement',
+ 'score': 50384,
+ 'subreddit': 'pics',
+ 'title': 'The terrorist’s flag being hidden at the New Orleans new years mass '
+          'casualty incident',
+ 'url': 'https://www.reddit.com/gallery/1hr4rd0'}
+2025-12-27 20:21:15 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=new-year&sort=relevance&limit=50>
+{'author': 'AlphaCoronae',
+ 'created_utc': 1735804075.0,
+ 'keyword': 'new-year',
+ 'num_comments': 803,
+ 'permalink': 'https://reddit.com/r/agedlikemilk/comments/1hroood/happy_new_year/',
+ 'post_type': 'high_engagement',
+ 'score': 50016,
+ 'subreddit': 'agedlikemilk',
+ 'title': 'Happy New Year!',
+ 'url': 'https://i.redd.it/ph4j0kfocjae1.jpeg'}
+2025-12-27 20:21:15 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=new-year&sort=relevance&limit=50>
+{'author': 'Buchi0k',
+ 'created_utc': 1735957353.0,
+ 'keyword': 'new-year',
+ 'num_comments': 4372,
+ 'permalink': 'https://reddit.com/r/TikTokCringe/comments/1ht40wt/guy_ruins_the_vibes_12_seconds_into_the_new_year/',
+ 'post_type': 'high_engagement',
+ 'score': 45615,
+ 'subreddit': 'TikTokCringe',
+ 'title': 'Guy ruins the vibes 12 seconds into the new year',
+ 'url': 'https://v.redd.it/0rlixz7h0wae1'}
+2025-12-27 20:21:15 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=new-year&sort=relevance&limit=50>
+{'author': 'skatermario3',
+ 'created_utc': 1735692368.0,
+ 'keyword': 'new-year',
+ 'num_comments': 245,
+ 'permalink': 'https://reddit.com/r/3Dprinting/comments/1hqs2ik/happy_new_year/',
+ 'post_type': 'high_engagement',
+ 'score': 39797,
+ 'subreddit': '3Dprinting',
+ 'title': 'Happy New Year!',
+ 'url': 'https://i.redd.it/1krbdjaj4aae1.jpeg'}
+2025-12-27 20:21:15 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=new-year&sort=relevance&limit=50>
+{'author': 'Sarang_616',
+ 'created_utc': 1737714143.0,
+ 'keyword': 'new-year',
+ 'num_comments': 1134,
+ 'permalink': 'https://reddit.com/r/MadeMeSmile/comments/1i8scxg/unlucky_hardworking_mom_from_china_got_the_best/',
+ 'post_type': 'high_engagement',
+ 'score': 35480,
+ 'subreddit': 'MadeMeSmile',
+ 'title': "Unlucky, hardworking mom from China got the best New Year's gift",
+ 'url': 'https://v.redd.it/0pkg2e8b4xee1'}
+2025-12-27 20:21:15 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=new-year&sort=relevance&limit=50>
+{'author': 'WHITERUNNPC',
+ 'created_utc': 1735753148.0,
+ 'keyword': 'new-year',
+ 'num_comments': 361,
+ 'permalink': 'https://reddit.com/r/TheNightFeeling/comments/1hr7tzm/first_sober_new_years_in_22_years_went_for_a_walk/',
+ 'post_type': 'high_engagement',
+ 'score': 34363,
+ 'subreddit': 'TheNightFeeling',
+ 'title': 'First sober New Years in 22 years. Went for a walk.',
+ 'url': 'https://www.reddit.com/gallery/1hr7tzm'}
+2025-12-27 20:21:15 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=new-year&sort=relevance&limit=50>
+{'author': 'Technical_Ad4270',
+ 'created_utc': 1735604402.0,
+ 'keyword': 'new-year',
+ 'num_comments': 2444,
+ 'permalink': 'https://reddit.com/r/40something/comments/1hq1vle/celebrating_this_new_year_with_6_years_sober_today/',
+ 'post_type': 'high_engagement',
+ 'score': 29278,
+ 'subreddit': '40something',
+ 'title': 'Celebrating this New Year with 6 years sober today 🥳✨ ',
+ 'url': 'https://i.redd.it/k43ub55zu2ae1.jpeg'}
+2025-12-27 20:21:15 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=new-year&sort=relevance&limit=50>
+{'author': 'Clear-Example3029',
+ 'created_utc': 1735707715.0,
+ 'keyword': 'new-year',
+ 'num_comments': 234,
+ 'permalink': 'https://reddit.com/r/cyberpunkgame/comments/1hqw3bk/happy_new_year/',
+ 'post_type': 'high_engagement',
+ 'score': 26142,
+ 'subreddit': 'cyberpunkgame',
+ 'title': 'Happy New Year!',
+ 'url': 'https://i.redd.it/pr8ak5e6ebae1.jpeg'}
+2025-12-27 20:21:15 [scrapy] INFO: Closing spider (finished)
+2025-12-27 20:21:15 [scrapy] INFO: Stored json feed (15 items) in: posts/spiders/output/high_engagement_new-year_2025-12-27T14-51-02+00-00.json
+2025-12-27 20:21:15 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 4582,
+ 'downloader/request_count': 6,
+ 'downloader/request_method_count/GET': 6,
+ 'downloader/response_bytes': 399031,
+ 'downloader/response_count': 6,
+ 'downloader/response_status_count/200': 6,
+ 'elapsed_time_seconds': 13.300388,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 12, 27, 14, 51, 15, 363162, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 2040875,
+ 'httpcompression/response_count': 6,
+ 'item_scraped_count': 15,
+ 'log_count/DEBUG': 23,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'request_depth_max': 4,
+ 'response_received_count': 6,
+ 'scheduler/dequeued': 6,
+ 'scheduler/dequeued/memory': 6,
+ 'scheduler/enqueued': 6,
+ 'scheduler/enqueued/memory': 6,
+ 'start_time': datetime.datetime(2025, 12, 27, 14, 51, 2, 62774, tzinfo=datetime.timezone.utc)}
+2025-12-27 20:21:15 [scrapy] INFO: Spider closed (finished)

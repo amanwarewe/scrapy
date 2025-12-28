@@ -1,0 +1,204 @@
+2025-12-28 20:00:03 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50> (referer: None)
+2025-12-28 20:00:03 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50>
+{'author': 'Colarnayna',
+ 'created_utc': 1766872092.0,
+ 'keyword': 'Acer_laptop',
+ 'num_comments': 14,
+ 'permalink': 'https://reddit.com/r/teensthatloveretro/comments/1px9ko5/just_installed_windows_vista_on_this_laptop/',
+ 'post_type': 'high_engagement',
+ 'score': 38,
+ 'subreddit': 'teensthatloveretro',
+ 'title': 'Just installed Windows Vista on this laptop',
+ 'url': 'https://i.redd.it/67u9hz6vht9g1.jpeg'}
+2025-12-28 20:00:05 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50&after=t3_1px9e2x> (referer: https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50)
+2025-12-28 20:00:06 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50&after=t3_1px9e2x>
+{'author': 'wahaj7',
+ 'created_utc': 1766862484.0,
+ 'keyword': 'Acer_laptop',
+ 'num_comments': 23,
+ 'permalink': 'https://reddit.com/r/LenovoLOQ/comments/1px5t4j/laptop_upgrade_acer_nitro_lenov_loq/',
+ 'post_type': 'high_engagement',
+ 'score': 61,
+ 'subreddit': 'LenovoLOQ',
+ 'title': 'Laptop upgrade Acer Nitro =&gt; Lenov LOQ',
+ 'url': 'https://i.redd.it/uh2mk3gbos9g1.jpeg'}
+2025-12-28 20:00:06 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50&after=t3_1px9e2x>
+{'author': 'wavaier',
+ 'created_utc': 1766841556.0,
+ 'keyword': 'Acer_laptop',
+ 'num_comments': 41,
+ 'permalink': 'https://reddit.com/r/AcerNitro/comments/1pwxnso/im_gonna_be_a_part_of_this_community_soon/',
+ 'post_type': 'high_engagement',
+ 'score': 18,
+ 'subreddit': 'AcerNitro',
+ 'title': 'Im gonna be a part of this community soon!!!',
+ 'url': 'https://i.redd.it/jvnf0fh2zq9g1.jpeg'}
+2025-12-28 20:00:08 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50&after=t3_1pwucxw> (referer: https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50)
+2025-12-28 20:00:08 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50&after=t3_1pwucxw>
+{'author': 'ScaryBarnacle328',
+ 'created_utc': 1766779295.0,
+ 'keyword': 'Acer_laptop',
+ 'num_comments': 126,
+ 'permalink': 'https://reddit.com/r/AcerNitro/comments/1pwdhil/just_got_acer_nitro_v_16_ai_what_should_i_do_first/',
+ 'post_type': 'high_engagement',
+ 'score': 93,
+ 'subreddit': 'AcerNitro',
+ 'title': 'Just got Acer Nitro V 16 AI — what should I do first?',
+ 'url': 'https://i.redd.it/puztssmstl9g1.jpeg'}
+2025-12-28 20:00:08 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50&after=t3_1pwucxw>
+{'author': 'Mzldk',
+ 'created_utc': 1766790225.0,
+ 'keyword': 'Acer_laptop',
+ 'num_comments': 17,
+ 'permalink': 'https://reddit.com/r/GamingLaptops/comments/1pwhruj/which_one_is_better/',
+ 'post_type': 'high_engagement',
+ 'score': 15,
+ 'subreddit': 'GamingLaptops',
+ 'title': 'Which one is better?',
+ 'url': 'https://www.reddit.com/gallery/1pwhruj'}
+2025-12-28 20:00:11 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50&after=t3_1pw8bcy> (referer: https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50)
+2025-12-28 20:00:11 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50&after=t3_1pw8bcy>
+{'author': 'Dense_Needleworker77',
+ 'created_utc': 1766717232.0,
+ 'keyword': 'Acer_laptop',
+ 'num_comments': 44,
+ 'permalink': 'https://reddit.com/r/macbookair/comments/1pvtktp/any_tips_for_my_new_15_m2_macbook_air/',
+ 'post_type': 'high_engagement',
+ 'score': 28,
+ 'subreddit': 'macbookair',
+ 'title': 'Any tips for my new 15” M2 MacBook Air?',
+ 'url': 'https://www.reddit.com/gallery/1pvtktp'}
+2025-12-28 20:00:14 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50&after=t3_1pvrio2> (referer: https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50)
+2025-12-28 20:00:14 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50&after=t3_1pvrio2>
+{'author': 'pplatonic',
+ 'created_utc': 1766698729.0,
+ 'keyword': 'Acer_laptop',
+ 'num_comments': 30,
+ 'permalink': 'https://reddit.com/r/ZZZ_Official/comments/1pvniz5/zzz_can_run_on_anything_screenshots_of_the_game/',
+ 'post_type': 'high_engagement',
+ 'score': 148,
+ 'subreddit': 'ZZZ_Official',
+ 'title': 'ZZZ Can Run On Anything! [Screenshots of the game axing its own '
+          'shaders while loading on my shitty acer laptop - and yes, '
+          'everything IS on its lowest settings]',
+ 'url': 'https://www.reddit.com/gallery/1pvniz5'}
+2025-12-28 20:00:14 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50&after=t3_1pvrio2>
+{'author': 'Wiliker',
+ 'created_utc': 1766674339.0,
+ 'keyword': 'Acer_laptop',
+ 'num_comments': 13,
+ 'permalink': 'https://reddit.com/r/diyelectronics/comments/1pvexgc/wiring_ac_charger_onto_the_motherboard/',
+ 'post_type': 'high_engagement',
+ 'score': 20,
+ 'subreddit': 'diyelectronics',
+ 'title': 'Wiring ac charger onto the motherboard',
+ 'url': 'https://i.redd.it/gu90oklu5d9g1.jpeg'}
+2025-12-28 20:00:16 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50&after=t3_1pv7rho> (referer: https://www.reddit.com/search.json?q=Acer_laptop&sort=new&limit=50)
+2025-12-28 20:00:19 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=Acer_laptop&sort=relevance&limit=50> (referer: None)
+2025-12-28 20:00:20 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=Acer_laptop&sort=relevance&limit=50>
+{'author': 'etheroaway',
+ 'created_utc': 1698085768.0,
+ 'keyword': 'Acer_laptop',
+ 'num_comments': 1594,
+ 'permalink': 'https://reddit.com/r/mildlyinteresting/comments/17erdym/my_brand_new_acer_laptop_came_with_the_e_r/',
+ 'post_type': 'high_engagement',
+ 'score': 37806,
+ 'subreddit': 'mildlyinteresting',
+ 'title': 'My brand new acer laptop came with the “e” “r” backwards with green '
+          'backlight keys',
+ 'url': 'https://i.redd.it/8rwq4lcswzvb1.jpg'}
+2025-12-28 20:00:20 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=Acer_laptop&sort=relevance&limit=50>
+{'author': 'SignalRelease4562',
+ 'created_utc': 1752960134.0,
+ 'keyword': 'Acer_laptop',
+ 'num_comments': 1954,
+ 'permalink': 'https://reddit.com/r/mildlyinteresting/comments/1m47fdq/my_new_acer_laptop_has_backwards_e_and_r/',
+ 'post_type': 'high_engagement',
+ 'score': 36943,
+ 'subreddit': 'mildlyinteresting',
+ 'title': 'My New Acer Laptop Has Backwards E and R',
+ 'url': 'https://i.redd.it/k3fvpe4hewdf1.jpeg'}
+2025-12-28 20:00:20 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=Acer_laptop&sort=relevance&limit=50>
+{'author': 'ControlCAD',
+ 'created_utc': 1739890084.0,
+ 'keyword': 'Acer_laptop',
+ 'num_comments': 1070,
+ 'permalink': 'https://reddit.com/r/technology/comments/1isebl8/trump_tariffs_result_in_10_laptop_price_hike_in/',
+ 'post_type': 'high_engagement',
+ 'score': 25737,
+ 'subreddit': 'technology',
+ 'title': 'Trump tariffs result in 10% laptop price hike in U.S. says Acer CEO '
+          '| Prices are set to go up from March.',
+ 'url': 'https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs'}
+2025-12-28 20:00:20 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=Acer_laptop&sort=relevance&limit=50>
+{'author': 'SY6Dave',
+ 'created_utc': 1736495453.0,
+ 'keyword': 'Acer_laptop',
+ 'num_comments': 624,
+ 'permalink': 'https://reddit.com/r/oddlyspecific/comments/1hxzfmm/laptop_red_flags/',
+ 'post_type': 'high_engagement',
+ 'score': 18712,
+ 'subreddit': 'oddlyspecific',
+ 'title': 'Laptop red flags',
+ 'url': 'https://i.redd.it/h3xkabzig4ce1.jpeg'}
+2025-12-28 20:00:20 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=Acer_laptop&sort=relevance&limit=50>
+{'author': 'elmkzgirxp',
+ 'created_utc': 1472647178.0,
+ 'keyword': 'Acer_laptop',
+ 'num_comments': 901,
+ 'permalink': 'https://reddit.com/r/gadgets/comments/50gyoe/acer_announces_the_thinnest_and_fattest_laptops/',
+ 'post_type': 'high_engagement',
+ 'score': 5639,
+ 'subreddit': 'gadgets',
+ 'title': 'Acer announces the thinnest and fattest laptops in the world',
+ 'url': 'http://www.theverge.com/2016/8/31/12725646/acer-ifa-2016-biggest-smallest'}
+2025-12-28 20:00:20 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=Acer_laptop&sort=relevance&limit=50>
+{'author': 'Gaudivas',
+ 'created_utc': 1472720227.0,
+ 'keyword': 'Acer_laptop',
+ 'num_comments': 831,
+ 'permalink': 'https://reddit.com/r/gadgets/comments/50ma10/acers_predator_21_x_puts_a_curved_screen_and_dual/',
+ 'post_type': 'high_engagement',
+ 'score': 5438,
+ 'subreddit': 'gadgets',
+ 'title': "Acer's Predator 21 X puts a curved screen and dual GTX 1080s in a "
+          'laptop',
+ 'url': 'http://www.theverge.com/circuitbreaker/2016/8/31/12718840/acer-curved-gaming-laptop-predator-21x-price-release-date-ifa-2016'}
+2025-12-28 20:00:20 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/search.json?q=Acer_laptop&sort=relevance&limit=50>
+{'author': 'daklaw',
+ 'created_utc': 1483657566.0,
+ 'keyword': 'Acer_laptop',
+ 'num_comments': 730,
+ 'permalink': 'https://reddit.com/r/videos/comments/5m9tae/the_biggest_heaviest_laptop_ever_9000_acer/',
+ 'post_type': 'high_engagement',
+ 'score': 5125,
+ 'subreddit': 'videos',
+ 'title': 'The BIGGEST, HEAVIEST, Laptop EVER - $9,000 Acer Predator 21X',
+ 'url': 'https://youtu.be/bnpoAIfUWIk?t=6'}
+2025-12-28 20:00:20 [scrapy] INFO: Closing spider (finished)
+2025-12-28 20:00:20 [scrapy] INFO: Stored json feed (15 items) in: posts/spiders/output/high_engagement_Acer_laptop_2025-12-28T14-30-01+00-00.json
+2025-12-28 20:00:20 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 5520,
+ 'downloader/request_count': 7,
+ 'downloader/request_method_count/GET': 7,
+ 'downloader/response_bytes': 317277,
+ 'downloader/response_count': 7,
+ 'downloader/response_status_count/200': 7,
+ 'elapsed_time_seconds': 18.12393,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 12, 28, 14, 30, 20, 92290, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 1692476,
+ 'httpcompression/response_count': 7,
+ 'item_scraped_count': 15,
+ 'log_count/DEBUG': 24,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'request_depth_max': 5,
+ 'response_received_count': 7,
+ 'scheduler/dequeued': 7,
+ 'scheduler/dequeued/memory': 7,
+ 'scheduler/enqueued': 7,
+ 'scheduler/enqueued/memory': 7,
+ 'start_time': datetime.datetime(2025, 12, 28, 14, 30, 1, 968360, tzinfo=datetime.timezone.utc)}
+2025-12-28 20:00:20 [scrapy] INFO: Spider closed (finished)

@@ -1,0 +1,1273 @@
+2025-12-28 21:05:55 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50> (referer: None)
+2025-12-28 21:05:57 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/Games/comments/1005a3f/factorio_this_year_we_have_reached_another_sales/.json> (referer: https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50)
+2025-12-28 21:05:57 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/Games/comments/1005a3f/factorio_this_year_we_have_reached_another_sales/.json>
+{'author': 'Turbostrider27',
+ 'body': None,
+ 'created_utc': 1672525515.0,
+ 'keyword': 'christmas_sales',
+ 'num_comments': 275,
+ 'permalink': 'https://reddit.com/r/Games/comments/1005a3f/factorio_this_year_we_have_reached_another_sales/',
+ 'post_type': 'google_ranked',
+ 'score': 2507,
+ 'subreddit': 'Games',
+ 'title': 'Factorio: This year we have reached another sales milestone, with '
+          '3.5 million sales being passed this Christmas',
+ 'top_comments': [{'author': 'gamelord12',
+                   'body': "I'm surprised that's all they've sold.  Factorio "
+                           'is one of those games that, even though it has '
+                           'combat, it shows how many great game designs are '
+                           "out there that don't involve killing things.",
+                   'score': 311},
+                  {'author': '[deleted]',
+                   'body': 'Still curious what they will do with the '
+                           'expansion.   I hope they improve the bitter '
+                           'warfare a bit.  I always enjoyed the tower defence '
+                           'aspect.',
+                   'score': 265},
+                  {'author': '3ebfan',
+                   'body': 'The factory genre is one of my favorite new '
+                           'genres.\n'
+                           '\n'
+                           'Dyson Sphere Program is great too.',
+                   'score': 90},
+                  {'author': 'Hyroero',
+                   'body': 'Just an incredible game all round.\n'
+                           '\n'
+                           'Actually like the devs have a set price point and '
+                           "no sales. Means I'm not waiting around for a "
+                           'better deal.\n'
+                           '\n'
+                           'Demo is a good representation of the game and '
+                           "you'll know if it's for you after trying it.",
+                   'score': 88},
+                  {'author': 'Alchohlica',
+                   'body': 'I love the game. Just hate how much it made me '
+                           'want an actual city building game in that art '
+                           'style it’s so beautiful',
+                   'score': 66},
+                  {'author': '[deleted]',
+                   'body': 'I discovered Factorio last year and it is '
+                           'definitely one of the best games I have ever '
+                           'played. In an era when there are so many broken '
+                           'and bug riddled game, its super refreshing to play '
+                           'a game that is deep, complex and extremely '
+                           'satisfying and most importantly, everything almost '
+                           'always just works. If any issues pop up, the devs '
+                           'hop on it very quickly. \n'
+                           '\n'
+                           'They deserve all the success and more. I know the '
+                           'expansion is taking forever, but if anyone has '
+                           'earned the right to take their time, its these '
+                           'guys. Its not like the game is some huge mass '
+                           'market, flavour of the month type of thing where '
+                           'you need to release your new content ASAP or you '
+                           'lose your audience. Factorio will always have an '
+                           'audience, I feel.',
+                   'score': 45},
+                  {'author': 'Redfeather1975',
+                   'body': "I don't know anything about this game except that "
+                           'youtube sometimes recommends videos of someone in '
+                           "the game building tubes. That's it. Just tubes.",
+                   'score': 31},
+                  {'author': 'ICPosse8',
+                   'body': 'I’ve automated up to purple science and I’m just '
+                           'kinda lost on where to go next. Everything is kind '
+                           'of in order minimal spaghetti I feel but I’m just '
+                           'feeling a little overwhelmed again. Fucking love '
+                           'the game but you really gotta wrap your brain '
+                           'around a lot of concepts in order to keep things '
+                           'organized and not all over the fucking place. The '
+                           'bugs man… fuck those bugs.',
+                   'score': 16},
+                  {'author': 'Carpathicus',
+                   'body': 'Factorio is a perfect game in my opinion. So '
+                           'addicting and enjoyable - there are few games out '
+                           'there that just hit the sweet spot like that.',
+                   'score': 15},
+                  {'author': 'TumNarDok',
+                   'body': 'That is quite a jump form the 4000 units sold back '
+                           'when I got my hands on it at like patch 0.4. Grats '
+                           'to the devs.',
+                   'score': 7}],
+ 'url': 'https://www.factorio.com/blog/post/fff-372'}
+2025-12-28 21:05:59 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/funny/comments/3y3wgo/christmas_sales/.json> (referer: https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50)
+2025-12-28 21:05:59 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/funny/comments/3y3wgo/christmas_sales/.json>
+{'author': 'poodlenoodle1',
+ 'body': None,
+ 'created_utc': 1450984416.0,
+ 'keyword': 'christmas_sales',
+ 'num_comments': 357,
+ 'permalink': 'https://reddit.com/r/funny/comments/3y3wgo/christmas_sales/',
+ 'post_type': 'google_ranked',
+ 'score': 16617,
+ 'subreddit': 'funny',
+ 'title': 'Christmas Sales',
+ 'top_comments': [{'author': '[deleted]', 'body': '[deleted]', 'score': 1856},
+                  {'author': 'meteda1080',
+                   'body': 'In my experience Jewish people take this '
+                           'stereotype rather lightheartedly. Being frugal and '
+                           "good with money isn't really a bad stereotype in "
+                           'the first place and most Jewish people have a '
+                           'self-deprecating sense of humor. ',
+                   'score': 709},
+                  {'author': 'Sephiroso',
+                   'body': "If I was in that situation, i'd probably buy "
+                           "anyway from a mixture of awe of the balls it'd "
+                           'take for a salesman to say that and from the '
+                           'hilarity of it all.',
+                   'score': 425},
+                  {'author': 'powerengineer',
+                   'body': 'How do you make copper wire? Let two jews fight '
+                           'over a penny!',
+                   'score': 176},
+                  {'author': '[deleted]',
+                   'body': 'One of my favourite scenes of the series comes '
+                           'from that episode. \n'
+                           '\n'
+                           "[Cam's high pitch screaming] \n"
+                           '\n'
+                           'Jay: "What the hell sound is that?" \n'
+                           '\n'
+                           'Manny: "Coyotes must\'ve got a cat" ',
+                   'score': 104},
+                  {'author': 'Myriadskills',
+                   'body': 'Is that the kid from Up IRL?',
+                   'score': 33},
+                  {'author': '[deleted]', 'body': '[deleted]', 'score': 26},
+                  {'author': '[deleted]',
+                   'body': '[Source](https://www.youtube.com/watch?v=4U5hB6GHVb0)',
+                   'score': 22},
+                  {'author': 'arsefag',
+                   'body': 'I\'ll just throw in a little Jewish joke. "I once '
+                           'asked my Jewish dad for $40, he said "whaat! $20? '
+                           'Whaddya mean $10? I\'ll give you 5..."" sorry. '
+                           "It's really silly... ",
+                   'score': 7},
+                  {'author': 'BitterBubblegum',
+                   'body': "I'm Jewish &amp; I feel that OP is just cruel. "
+                           'There should have been a warning that this is '
+                           'going to be HILARIOUS. I was drinking while I was '
+                           'reading it &amp; I almost drowned :(',
+                   'score': 4}],
+ 'url': 'http://i.imgur.com/iOT2W.jpg'}
+2025-12-28 21:06:02 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/AdviceAnimals/comments/lftzcd/50_emails_a_day_from_things_i_bought_at_christmas/.json> (referer: https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50)
+2025-12-28 21:06:02 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/AdviceAnimals/comments/lftzcd/50_emails_a_day_from_things_i_bought_at_christmas/.json>
+{'author': 'escargoxpress',
+ 'body': None,
+ 'created_utc': 1612842913.0,
+ 'keyword': 'christmas_sales',
+ 'num_comments': 300,
+ 'permalink': 'https://reddit.com/r/AdviceAnimals/comments/lftzcd/50_emails_a_day_from_things_i_bought_at_christmas/',
+ 'post_type': 'google_ranked',
+ 'score': 12005,
+ 'subreddit': 'AdviceAnimals',
+ 'title': '50 emails a day from things I bought at Christmas, even after '
+          'making sure I did not sign up for promotional/sale emails.',
+ 'top_comments': [{'author': 'Atarut',
+                   'body': '*buys mattress*\n'
+                           '\n'
+                           '*ding* \n'
+                           '\n'
+                           'Email: “Hey fam! Welcome to the Fluffytown Sleep '
+                           'Club! We’ll send you an exclusive Sleep Club '
+                           'newsletter twice a day with insights into the '
+                           'Fluffytown mattress lifestyle—“\n'
+                           'Unsubscribe. Not every product is a lifestyle. '
+                           'Sometimes I just needed some socks. Staying at one '
+                           'roadside motel in South Dakota does not make me '
+                           'part of the “Rapid City Lazy Inn Family.” My car '
+                           'is not my personality, and it does not require a '
+                           'monthly magazine.\n'
+                           '\n'
+                           'I know, I know, unsubscribe, use a temporary '
+                           'email—I do. It just bothers me how much time and '
+                           'resources go into creating marketing to people who '
+                           'already bought a one-off consumable, and how '
+                           'pandering and insulting that marketing turns out '
+                           'to be. Does this work on anyone? Who is out there '
+                           'who reads the mattress newsletter? (Does it bring '
+                           'you joy?) Now that everyone is fucking broke, will '
+                           'companies stop trying to sell lifestyles?\n'
+                           '\n'
+                           'Not likely. My discount burial shroud will come '
+                           'with an unshakeable subscription to a digital '
+                           'magazine just for “Shrouders” like me, people who '
+                           'are in the know about the tradition of fine '
+                           'Yorkshire shroud craftsmanship that sets Dicky '
+                           'Burlington’s Gentleman’s Shroudery apart from the '
+                           'rest. But I’ll have gotten it at a Black Friday '
+                           'sale, just in time for death, and as the emails '
+                           'hammer into the remnants of my consciousness, my '
+                           'spectral fingers will reach for the unsubscribe '
+                           'button, but never connect, never connect.',
+                   'score': 347},
+                  {'author': 'semifraki',
+                   'body': 'My favorites are all the emails making sure I '
+                           'watch their Superbowl ads. Like why do you need to '
+                           'advertise your advertisement? I already bought '
+                           "your soap, and I'm already seeing your email. "
+                           'Leave me alone!',
+                   'score': 151},
+                  {'author': '[deleted]',
+                   'body': 'I donated to a wildlife conservancy once and now I '
+                           'get like 10 letters a month from other charities '
+                           'asking for donations.\n'
+                           'Never again...',
+                   'score': 131},
+                  {'author': 'PocketDeuces',
+                   'body': "Seems that you can't take a shit these days "
+                           'without getting a survey about your experience.\n'
+                           '\n'
+                           'No, I am NOT interested in filling out a brief 5 '
+                           'question survey!\n'
+                           '\n'
+                           "... Unless you're paying.  Then I'm happy to "
+                           'randomly click whatever is necessary to get me '
+                           'through those screens as quickly as possible.',
+                   'score': 92},
+                  {'author': '[deleted]',
+                   'body': 'HEY DID YOU FORGET THIS IN YOUR SHOPPING CART????\n'
+                           '\n'
+                           '5 minutes later \n'
+                           '\n'
+                           '&amp;#x200B;\n'
+                           '\n'
+                           'HEY YOU DIDNT FINISH PURCHASING THIS ITEM IN YOUR '
+                           'SHOPPING CART',
+                   'score': 45},
+                  {'author': 'Spruce-Moose',
+                   'body': "Here in Canada I found Hudson's Bay *both* spammed "
+                           "me with marketing emails *and* didn't respond to "
+                           'my query! Not impressed...',
+                   'score': 36},
+                  {'author': 'poo_finger',
+                   'body': 'I just went through and unsubscribed from a ton of '
+                           'shit. Still getting their emails...',
+                   'score': 32},
+                  {'author': 'miss_g',
+                   'body': 'My favourite is when I start getting emails for '
+                           "sales before I've even received what I ordered "
+                           "from them, so now they're just rubbing it in my "
+                           "face that I've been ripped off too :/",
+                   'score': 22},
+                  {'author': 'acewavelink',
+                   'body': 'Jesus, what company so we know to avoid them?',
+                   'score': 18},
+                  {'author': 'rChewbacca',
+                   'body': 'And people wonder why amazon is taking everything '
+                           'over. I try to buy direct but at this point if '
+                           "they dont take apple pay (blocking my email) I'm "
+                           'likely to just buy from amazon. \n'
+                           '\n'
+                           'I dont have to create a new account I dont want '
+                           'every time I buy something. \n'
+                           '\n'
+                           'I dont get email bombed every time I buy '
+                           'something\n'
+                           '\n'
+                           'I get fast shipping for free. \n'
+                           '\n'
+                           'Smaller companies need to step up their game by '
+                           'backing off.',
+                   'score': 17}],
+ 'url': 'https://i.redd.it/ajwdl7tikdg61.jpg'}
+2025-12-28 21:06:05 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/books/comments/5mkxpf/book_sales_the_week_before_christmas_were_highest/.json> (referer: https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50)
+2025-12-28 21:06:05 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/books/comments/5mkxpf/book_sales_the_week_before_christmas_were_highest/.json>
+{'author': 'sfh2015',
+ 'body': None,
+ 'created_utc': 1483802651.0,
+ 'keyword': 'christmas_sales',
+ 'num_comments': 763,
+ 'permalink': 'https://reddit.com/r/books/comments/5mkxpf/book_sales_the_week_before_christmas_were_highest/',
+ 'post_type': 'google_ranked',
+ 'score': 23447,
+ 'subreddit': 'books',
+ 'title': 'Book sales the week before Christmas were highest in 10 years',
+ 'top_comments': [{'author': 'crazyrabbits23',
+                   'body': 'This title should have included "In the UK".\n'
+                           '\n'
+                           '&gt;Christmas trading for the UK book market saw '
+                           'its strongest sales in 10 years, new figures have '
+                           'revealed.\n'
+                           '\n'
+                           'EDIT: My highest-rated comment! Thank you, '
+                           'r/books!',
+                   'score': 2471},
+                  {'author': 'SomeOtherNonsense',
+                   'body': 'Yeah, I said fuck it and bought a few books each '
+                           'for everyone in my family for Christmas. I know '
+                           'that other than myself and my mom, no one else in '
+                           'the family really reads, but maybe they should.  I '
+                           'also know buying books for people is typically '
+                           'considered a lame gift, but I happen to '
+                           'whole-heartedly disagree. ',
+                   'score': 672},
+                  {'author': 'Generic09',
+                   'body': "Didn't I just read an article about barns and "
+                           'noble having bad/declining sales?',
+                   'score': 154},
+                  {'author': 'eastbayted',
+                   'body': 'For people curious about book sales in the United '
+                           "States, here's some data: [U.S. print book sales "
+                           'rose 3.3% in 2016 over 2015, making it the '
+                           'third-straight year of print '
+                           'growth](http://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/72450-print-book-sales-rose-again-in-2016.html)\n'
+                           '\n'
+                           "You're welcome!",
+                   'score': 144},
+                  {'author': 'SuperNinjaBot',
+                   'body': 'Believe it or not, not sure about the younger folk '
+                           'but people around my age (25-29) are actually '
+                           'reading a ton.  \n'
+                           '\n'
+                           'I have a gold leaf collection, and its not because '
+                           'of vanity (no one knows I have it except now you '
+                           'guys).  Ive read a lot of classics and newer '
+                           'shit.  Its changed me as a person.  \n'
+                           '\n'
+                           'Its weird too because I NEVER read in school.  '
+                           'Just got older and decided that god damnit I wanna '
+                           'read the complete works of Sir Doyle (Sherlock am '
+                           'I right?) and I want a nice hard cover gold leaf '
+                           'copy of it.  Since then Ive read tons of shit.  \n'
+                           '\n'
+                           'Since then Ive noticed tons of people around my '
+                           'age reading heavily.  I dont facebook on the bus, '
+                           'contrary to every single stereotype out there '
+                           'about people my age and younger.  I read.  \n'
+                           '\n'
+                           'Even my bother, who you would never guess reads is '
+                           'reading.  I was watching Zoo on netflix the other '
+                           'day and I was telling my brother about it and he '
+                           "goes 'Oh its a great book'.  I was like WTF didnt "
+                           'notice.  Was very surprised he reads and Ive known '
+                           'him since close to the moment he took his first '
+                           'breath.  ',
+                   'score': 116},
+                  {'author': '[deleted]',
+                   'body': 'I accidentally ordered 72 dozen Ryan Gosling '
+                           'coloring books because I have an Amazon Echo and '
+                           'thats my safe word',
+                   'score': 55},
+                  {'author': 'SiriusCyberneticCorp',
+                   'body': 'When I went out Christmas shopping, I realised '
+                           'that bookshops are still my favourite shops. Where '
+                           'else can you walk into on a whim and find a '
+                           'practically inexhaustible supply of items for sale '
+                           'that suit your gender, age, personality, '
+                           'interests, qualifications, opinions, politics, '
+                           'mood and meandering thoughts? You can walk away '
+                           'with items that will influence you emotionally '
+                           'and  for weeks, months, years, even decades after '
+                           'reading. Some books never leave you, even '
+                           'physically some books will survive on shelves '
+                           "you'll walk past until your dying day.\n"
+                           '\n'
+                           'In this world of fleeting, flickering, frantic '
+                           'information, bookshops and books are a haven.\n'
+                           '\n'
+                           'It will take more than a kindle and a computer to '
+                           'kill that off.',
+                   'score': 38},
+                  {'author': 'flyingfalk',
+                   'body': 'For whatever reason this year, I bought more books '
+                           'the week before Christmas than I have since '
+                           'college.  It may be that the initial hype of '
+                           'eReaders and tablets has worn off and people '
+                           'realize the old way is still best. Also, books '
+                           'make excellent Christmas gifts. ',
+                   'score': 37},
+                  {'author': 'tydestra',
+                   'body': 'Sigh and here I am with people telling me they '
+                           "won't buy me books as presents because according "
+                           "to them, I have too many book. There's no such "
+                           'thing as too many books.\n',
+                   'score': 12},
+                  {'author': 'redferret867',
+                   'body': '&gt;highest since 2007\n'
+                           '\n'
+                           "In case people have forgotten, 'since 2007' has "
+                           'been a global (Western) recession. Every consumer '
+                           'spending sector is going to be seeing growth as we '
+                           'are coming out of it.\n'
+                           '\n'
+                           'Reading may be going through some kind of '
+                           'renaissance like TV did a decade ago, but I think '
+                           'this is more just an example of income recovery.',
+                   'score': 9}],
+ 'url': 'http://www.independent.co.uk/arts-entertainment/books/news/book-sales-christmas-harry-potter-and-the-cursed-child-girl-on-the-train-a7514556.html'}
+2025-12-28 21:06:07 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/mildlyinteresting/comments/z6yd6j/these_red_white_and_blue_christmas_trees_for_sale/.json> (referer: https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50)
+2025-12-28 21:06:08 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/mildlyinteresting/comments/z6yd6j/these_red_white_and_blue_christmas_trees_for_sale/.json>
+{'author': 'BigBobShort',
+ 'body': None,
+ 'created_utc': 1669646705.0,
+ 'keyword': 'christmas_sales',
+ 'num_comments': 624,
+ 'permalink': 'https://reddit.com/r/mildlyinteresting/comments/z6yd6j/these_red_white_and_blue_christmas_trees_for_sale/',
+ 'post_type': 'google_ranked',
+ 'score': 3340,
+ 'subreddit': 'mildlyinteresting',
+ 'title': 'These red, white, and blue Christmas trees for sale in my hometown '
+          '(western Pennsylvania).',
+ 'top_comments': [{'author': 'RangerBumble',
+                   'body': 'Who buys French trees for Christmas?',
+                   'score': 821},
+                  {'author': 'balsaaaq',
+                   'body': 'Is this at the taco, mattress, Christmas tree '
+                           "place that I've heard so much about?",
+                   'score': 737},
+                  {'author': 'spartiecat',
+                   'body': 'Vive la liberté! Joyeux Noël!',
+                   'score': 330},
+                  {'author': 'Lord-Velveeta',
+                   'body': 'That’s tacky on another level.',
+                   'score': 216},
+                  {'author': 'meestercosmo',
+                   'body': 'Farmers in the Netherlands will absolutely love '
+                           'these!',
+                   'score': 173},
+                  {'author': 'Wage_slave',
+                   'body': 'So when the needles fall off and get stuck in your '
+                           "feet, it's patriotic as fuck and way more festive.",
+                   'score': 171},
+                  {'author': 'Tawrren',
+                   'body': 'So instead of smelling like fresh cut pine they '
+                           'smell like paint? How festive',
+                   'score': 96},
+                  {'author': 'merkaba_462',
+                   'body': 'Peak Pennsyltucky.',
+                   'score': 93},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 54},
+                  {'author': 'Kangar', 'body': 'Freedom trees!', 'score': 52}],
+ 'url': 'https://i.redd.it/ca2muibvwq2a1.jpg'}
+2025-12-28 21:06:11 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/stalker/comments/1h67kzl/nvgs_were_planned_but_got_disabledcut_for/.json> (referer: https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50)
+2025-12-28 21:06:11 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/stalker/comments/1h67kzl/nvgs_were_planned_but_got_disabledcut_for/.json>
+{'author': 'SquattingSamurai',
+ 'body': None,
+ 'created_utc': 1733286058.0,
+ 'keyword': 'christmas_sales',
+ 'num_comments': 483,
+ 'permalink': 'https://reddit.com/r/stalker/comments/1h67kzl/nvgs_were_planned_but_got_disabledcut_for/',
+ 'post_type': 'google_ranked',
+ 'score': 1375,
+ 'subreddit': 'stalker',
+ 'title': 'NVGs were planned, but got disabled/cut for whatever reason. Same '
+          'goes for missing PDA tabs, and as we now know - the A-Life itself. '
+          'I think GSC was given an ultimatum to release the game by Christmas '
+          'to capitalize on the sales, so they had to cut missing/broken '
+          'mechanics out completely.',
+ 'top_comments': [{'author': 'BadgerinAPuddle',
+                   'body': 'Most saddened by the missing archive tab in the '
+                           "pda. I'm a vet player since 2007, But a new player "
+                           'should be able to learn more about the world and '
+                           'the mutant/anomaly that almost just killed them '
+                           'without having to google it.',
+                   'score': 910},
+                  {'author': 'Treetisi',
+                   'body': 'The helmet slot does get an upgrade for psi '
+                           "radiation from the story quests so it's not grayed "
+                           'out forever but that is the only attachment I have '
+                           'found. Night vision would be super useful because '
+                           'the flashlight is next to useless at times',
+                   'score': 243},
+                  {'author': 'zelolz',
+                   'body': 'I believe they are also self publishing, so money '
+                           'could have also been an issue.',
+                   'score': 201},
+                  {'author': 'SquattingSamurai',
+                   'body': 'I really hope they are still working on all these '
+                           'missing features and will add them in the future. '
+                           'It is not game breaking for me personally, but so '
+                           'far it just feels like an unfinished product, '
+                           'despite how good it is',
+                   'score': 99},
+                  {'author': 'Pereyragunz',
+                   'body': 'Things that feel missing from the game, but i hope '
+                           'them to be on the pipeline for the future:\n'
+                           '\n'
+                           '- A-Life: Complex little system, that one. It '
+                           'really was the magic sauce of the originals. '
+                           'Perfected in that one russian mod wich the source '
+                           'code was lost for a long time.\n'
+                           '- Nightvision: Simple enough feature, feels '
+                           'necesary for any stealth play to be had (as '
+                           'flashlights are understandably inconspicuous)\n'
+                           '- Notification/Chat Log: The originals Log of '
+                           'notifications and chats was incredibly useful. You '
+                           'might be zoned out during a cutscene or '
+                           'conversation, but could inmediately check back '
+                           "it's contents on the PDA. This one i think feels "
+                           'easy enough to implement that should come back '
+                           'asap.\n'
+                           '- Artifact Variety: Artifacts feel like a step '
+                           'down from previous iterations. The negatives are '
+                           'always the same (varying degrees of radiation) and '
+                           "there's many that serve the same purpose (give "
+                           'literally the same benefits).\n'
+                           '\n'
+                           'I might have some minor grievances with the '
+                           'economy, repairs, incentives to do regular quests, '
+                           'but those are not fundamental issues and the '
+                           'system and economy work as is, for the most part.',
+                   'score': 97},
+                  {'author': 'CameraOpposite3124',
+                   'body': 'Since they have a whole thing with a season pass '
+                           "and planned expansions, we're getting all that "
+                           'down the road. 100%',
+                   'score': 51},
+                  {'author': 'JohnAntichrist',
+                   'body': 'Poor poor GSC and evil evil Microsoft '
+                           '![gif](emote|free_emotes_pack|rage)\n'
+                           '\n'
+                           'There is no fucking conspiracy, GSC probably ran '
+                           'out of money and had to release the game before '
+                           "the year's end and spend the rest of december "
+                           'patching up any holes.\n'
+                           '\n'
+                           'They knew the game was in this state, lets not '
+                           'pretend some outside power forced them to fuck up '
+                           'their one chance at a good release',
+                   'score': 45},
+                  {'author': 'BackwardsNUpsideDown',
+                   'body': 'I made a post the other day about an m701 mounted '
+                           'in the wall in rostok, with a thermal optic on '
+                           'top. I havent seen anyone mention it',
+                   'score': 43},
+                  {'author': 'joehay',
+                   'body': ' I think you are right that they were pressured to '
+                           'release pre-Christmas. With that said, the amount '
+                           'of post launch support they have provided so far '
+                           'has been outstanding. There is so much '
+                           'replay-ability in this game, that even in when '
+                           'they do add all of this missing mechanics (NVGs, '
+                           'fixed A-life, faction rep., Radio on the PDA[This '
+                           'one bugs me a little too much]) we will all still '
+                           'be playing over and over again.',
+                   'score': 18},
+                  {'author': 'Sanabil-Asrar',
+                   'body': "I'm gonna tell you something, the team is "
+                           'passionate about this game , the things they were '
+                           'able to finish and implement truly speaks for '
+                           'itsef. Sound, environment, lighting the overall '
+                           'vibe ,they nailed it.\n'
+                           '\n'
+                           '\n'
+                           'They ran into problems with A.I consuming too much '
+                           'resources i.e ram and CPU usage. They were very '
+                           'ambitious about A-life 2.0 , they wanted to '
+                           'surprise the old veteran stalkers. \n'
+                           '\n'
+                           '\n'
+                           'I have also noticed many things that are in game '
+                           'but are deactivated. Even many extra animations '
+                           'are simplified.\n'
+                           '\n'
+                           '\n'
+                           'Give them time, let them cook, when certain '
+                           'investors get involved,it becomes obvious that '
+                           "they have to make it by the end of deadline. I'm "
+                           'hopeful that they will implement all the things '
+                           'and this game will be loved be all fans.',
+                   'score': 15}],
+ 'url': 'https://www.reddit.com/gallery/1h67kzl'}
+2025-12-28 21:06:13 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/PUBATTLEGROUNDS/comments/7loz7m/lets_be_honest10_isnt_complete_game_and_it_was/.json> (referer: https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50)
+2025-12-28 21:06:13 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/PUBATTLEGROUNDS/comments/7loz7m/lets_be_honest10_isnt_complete_game_and_it_was/.json>
+{'author': 'Philip_Raven',
+ 'body': 'Game is still crashing on some systems\n'
+         '\n'
+         'Even with newest client it says you cannot play until you have '
+         'newest client\n'
+         '\n'
+         'if you die in a game i says you can continue playing there even tho '
+         'you are dead\n'
+         '\n'
+         'first minute or two is lag fest and rubberbanding with basically no '
+         'chance to influence if you die or not\n'
+         '\n'
+         'people glitchning into walls after vaulting mechanic gives up\n'
+         '\n'
+         'people killing themselfs during vaulting\n'
+         '\n'
+         'cars getting stuck into the ground (sometimes instantly killing you) '
+         'in random intervals\n'
+         '\n'
+         'those are just bugs I personally experienced today\n'
+         '\n'
+         '(yes I am little salty since I couldnt finish last three games in a '
+         'row due to game glitching on me)',
+ 'created_utc': 1514040746.0,
+ 'keyword': 'christmas_sales',
+ 'num_comments': 2304,
+ 'permalink': 'https://reddit.com/r/PUBATTLEGROUNDS/comments/7loz7m/lets_be_honest10_isnt_complete_game_and_it_was/',
+ 'post_type': 'google_ranked',
+ 'score': 17863,
+ 'subreddit': 'PUBATTLEGROUNDS',
+ 'title': "Let's be honest...1.0 isn't complete game and it was only a push "
+          'for Christmas sales',
+ 'top_comments': [{'author': '[deleted]',
+                   'body': 'There was a period of time on the test server when '
+                           'they removed all cosmetic item drops from the loot '
+                           'table, and the beginning of every match was *so '
+                           'much smoother*.\n'
+                           '\n'
+                           'Why the fuck are they STILL in the game? Nobody is '
+                           'looting pants during a match. Please just remove '
+                           'them because they are a totally unnecessary burden '
+                           'on the servers that offers zero gameplay benefit.',
+                   'score': 7948},
+                  {'author': 'bindiboi',
+                   'body': 'They just wanted to "deliver" on their promise of '
+                           'releasing the game when they said they would, and '
+                           'everyone here are congratulating them on their '
+                           '"awesome" job.\n'
+                           '\n'
+                           'The game experience is better, but not '
+                           'release-ready. My friends and I consider it early '
+                           'access still. Maybe next year!',
+                   'score': 1419},
+                  {'author': 'Brokenmonalisa',
+                   'body': "It's miles ahead of the previous live version. "
+                           "They've said 1.0 was just a milestone there's "
+                           'still plenty of development to be done. ',
+                   'score': 961},
+                  {'author': 'k4rst3n',
+                   'body': 'Still a better love story than DayZ',
+                   'score': 745},
+                  {'author': '[deleted]', 'body': '[deleted]', 'score': 711},
+                  {'author': '[deleted]', 'body': '[deleted]', 'score': 640},
+                  {'author': 'Geroken',
+                   'body': 'Why is nobody mentioning the BP bug? When you win '
+                           'you dont receive BP as well.',
+                   'score': 627},
+                  {'author': 'UltravioletClearance',
+                   'body': 'The audio mastering is *still* a mess. People are '
+                           'cranking their volumes to unsafe levels to hear '
+                           'footsteps and get blasted with gunshots and '
+                           'explosions at levels proven to be dangerous to '
+                           'hearing. People are still using third-party '
+                           'compressors and paid software solutions to get a '
+                           'competitive advantage. \n'
+                           '\n'
+                           "I'm not sure if this is an issue with the game or "
+                           "my settings (haven't played in months due to the "
+                           'above issues and just played about 4 hours today '
+                           'for the first time), but the entire movement '
+                           'system feels clunky... it just feels weird. Not '
+                           'sure how to explain it... its like WSAD strictly '
+                           'moves your character 90 degrees, and mouse '
+                           'movement is clunky in directing your character to '
+                           'move any way else. ',
+                   'score': 401},
+                  {'author': 'AngstWolfe',
+                   'body': 'I was playing with a squad of buddies last night '
+                           'and right as all 100 people got on the plane it '
+                           'kicked us off, all 100!! People were screeching '
+                           'everywhere and you could hardly grab a gun before '
+                           'you got headshot punched. It dropped us right over '
+                           'spawn island on Miramar. ',
+                   'score': 297},
+                  {'author': '[deleted]',
+                   'body': 'There are still some bulletproof fences too...',
+                   'score': 198}],
+ 'url': 'https://www.reddit.com/r/PUBATTLEGROUNDS/comments/7loz7m/lets_be_honest10_isnt_complete_game_and_it_was/'}
+2025-12-28 21:06:15 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/gaming/comments/7indp8/please_do_not_buy_destiny_2_on_sale_or_for_your/.json> (referer: https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50)
+2025-12-28 21:06:15 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/gaming/comments/7indp8/please_do_not_buy_destiny_2_on_sale_or_for_your/.json>
+{'author': 'E404_User_Not_Found',
+ 'body': 'D2 has been out on PC for less than 2 months. I was so close to '
+         'buying it at 50% off over Black Friday weekend and I’m so glad I '
+         'didn’t. Bungee was clever to release this DLC *after* everyone '
+         'bought the game on sale. People just wanting to try Destiny for the '
+         'first time and parents buying it for their kid’s Christmas not '
+         'knowing that they’d actually have to pay more money if they wanted '
+         'to continue playing the game they just bought in a matter of weeks '
+         'due to DLC lockouts. This was overlooked in D1 and we cannot allow '
+         'it to be overlooked again. Bungie could easily allow these players '
+         'to continue playing the game they bought but that would cost more '
+         'money for them and more server space. Instead they make the consumer '
+         'pay up. In many ways this is *worse* than EA. EA locked stuff off '
+         'but at least they did it from the start. Bungie has you pay $60 for '
+         'a game and then took many parts of that away 2-3 months later if you '
+         'didn’t pay up more money. The front page of reddit needs to be '
+         'filled with complaints. Look what it did to EA. We can make a change '
+         'to these horrible business practices at Bungie as well. \n'
+         '\n'
+         'For those not in the know: Destiny 2’s DLC updates the games heroic '
+         'strikes, raids, and nightfall. This is the main way of getting new '
+         'gear and for many players the best parts of the game. With the DLC '
+         'it **does not add on to the game but replaces content** that you '
+         'already purchased. No longer can you run these strikes or raids if '
+         'you don’t buy the DLC. Bungie is taking away content after you paid '
+         'for it and placing it behind a paywall.',
+ 'created_utc': 1512833880.0,
+ 'keyword': 'christmas_sales',
+ 'num_comments': 4035,
+ 'permalink': 'https://reddit.com/r/gaming/comments/7indp8/please_do_not_buy_destiny_2_on_sale_or_for_your/',
+ 'post_type': 'google_ranked',
+ 'score': 57488,
+ 'subreddit': 'gaming',
+ 'title': 'Please do not buy Destiny 2 on sale or for your kids for Christmas '
+          'unless you plan to invest in all its mandatory DLC as well. This '
+          'needs to stop.',
+ 'top_comments': [{'author': 'MustyBones',
+                   'body': "Haven't touched it since I got burned when Destiny "
+                           '1 came out. That was a massive disappointment for '
+                           'me, even though players told me they "fixed" the '
+                           'game and "it was so much better now".\n'
+                           '\n'
+                           "I shouldn't have to buy a game and hope that it "
+                           'gets patched in and updated later. \n'
+                           '\n'
+                           'Looks like this is the same thing all over again.',
+                   'score': 6156},
+                  {'author': '2shovel2knight',
+                   'body': 'Seems like they never should have released a $60 '
+                           '"fuck you" version and just done an $80 base price '
+                           'with the DLC bundled for everyone.',
+                   'score': 5606},
+                  {'author': '[deleted]',
+                   'body': "I can't believe this is the same developer of the "
+                           'HALO Series. Bungie you need to put the brakes on '
+                           'and take a hard look at yourselves. You guys are '
+                           'breaking my heart. \n'
+                           '\n'
+                           'On a side note, keep up the good work ubisoft.',
+                   'score': 3080},
+                  {'author': 'Talisintiel',
+                   'body': 'All of these triple A developer companies are '
+                           'getting away with murder. I just got COD and crazy '
+                           'how focused around these silly drops(Loot Boxes) '
+                           'the game revolved around. The game is basically '
+                           'all about earning these things in a chance of '
+                           'winning what you actually want. ',
+                   'score': 779},
+                  {'author': 'killer_burrito',
+                   'body': 'Okay, so, my girlfriend is thinking of buying this '
+                           "game, and I'm out of the loop.  What's the deal?  "
+                           'Did they actually remove content from the game '
+                           'after release?',
+                   'score': 639},
+                  {'author': 'collectivemangoe',
+                   'body': 'It blows me away that everyone is just now getting '
+                           "upset at this. Don't you remember that this *is "
+                           'exactly the same thing they did with the first '
+                           'game over a year ago??* Remember when everyone who '
+                           'put 100 hours into the first game(myself included) '
+                           'told people not to buy the second game because of '
+                           "*EXACTLY* this terrible business practice? I'm not "
+                           "saying it isn't totally bullshit and dirty but all "
+                           'of you gave your money to bungie and Activision '
+                           'and said "yes please, more of the same"',
+                   'score': 500},
+                  {'author': 'a_n_d_r_e_w',
+                   'body': "Why can't they just be honest and make a baseline "
+                           'price of $80?',
+                   'score': 229},
+                  {'author': 'Deadscale',
+                   'body': 'They did a great service releasing the free trial '
+                           'for the game.\n'
+                           '\n'
+                           'Initially me and a friend were waiting for Xmas '
+                           "sales to buy D2, I'd never played destiny and from "
+                           "what I'd heard D1 was quite a blast, and when the "
+                           "free trial came out we figured we'd play it until "
+                           'the xmas sale to get somewhat of a headstart.\n'
+                           '\n'
+                           "Think we've hit level 4/5 and we've not touched "
+                           "the game again, Just didn't hype us up at all, the "
+                           'start was pretty cool inside the ship an all, but '
+                           'when we hit the open area and did a few quests we '
+                           'just dropped it.\n'
+                           '\n'
+                           "I know we're only low level, but the mobs were too "
+                           'few and far between to pose any threat or '
+                           'challenge, we spent more time sprinting to an '
+                           'objective than fighting and when we finally hit '
+                           'the objective where we had to defend it, we spent '
+                           'more time dicking around than fighting because the '
+                           'waves took that long to spawn.\n'
+                           '\n'
+                           "Luckily it's a free trial so only time was lost.\n"
+                           '\n'
+                           'Edit: Grammar',
+                   'score': 200},
+                  {'author': 'Inflicties',
+                   'body': 'Uh. Just to clarify, you actually can still play '
+                           "the regular raid and nightfall. They're locked out "
+                           'of the prestige (hard mode) raid and nightfall '
+                           'which they previously had access to. Also locked '
+                           'out of the top tier competitive playlist, Trials '
+                           'of ~~Osiris~~ the Nine. I understand you want to '
+                           'bring more attention to the problem, but you at '
+                           'least need to be accurate with the exact problem.',
+                   'score': 156},
+                  {'author': '[deleted]',
+                   'body': 'We need a new law that forces video game '
+                           'publishers to clearly and prominently label a game '
+                           'with warnings about DLC, loot boxes and '
+                           'microtransactions that require extra money if a '
+                           'game has them. ',
+                   'score': 112}],
+ 'url': 'https://www.reddit.com/r/gaming/comments/7indp8/please_do_not_buy_destiny_2_on_sale_or_for_your/'}
+2025-12-28 21:06:18 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/mildlyinfuriating/comments/zv4ha0/my_county_does_not_allow_alcohol_sales_on/.json> (referer: https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50)
+2025-12-28 21:06:18 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/mildlyinfuriating/comments/zv4ha0/my_county_does_not_allow_alcohol_sales_on/.json>
+{'author': 'The_Alkemizt',
+ 'body': None,
+ 'created_utc': 1671995691.0,
+ 'keyword': 'christmas_sales',
+ 'num_comments': 1219,
+ 'permalink': 'https://reddit.com/r/mildlyinfuriating/comments/zv4ha0/my_county_does_not_allow_alcohol_sales_on/',
+ 'post_type': 'google_ranked',
+ 'score': 6722,
+ 'subreddit': 'mildlyinfuriating',
+ 'title': 'My county does not allow alcohol sales on christmas day',
+ 'top_comments': [{'author': '[deleted]',
+                   'body': 'Just another Sunday in some counties.',
+                   'score': 2362},
+                  {'author': 'Ceph_Stormblessed',
+                   'body': 'At least you learned that you should stock up '
+                           'beforehand on major holidays. Shits rough out '
+                           'there.',
+                   'score': 1210},
+                  {'author': 'CheeseburgerSmoothy',
+                   'body': 'The first time I was in a dry county I thought '
+                           'they were joking.',
+                   'score': 726},
+                  {'author': '[deleted]',
+                   'body': 'Because Jesus turned water into grape juice.',
+                   'score': 687},
+                  {'author': 'Toomanyboogers',
+                   'body': 'Colorado doesn’t sell alcohol on Christmas. As '
+                           'someone that works in a liquor store it’s nice to '
+                           'have that one day a year off that we don’t have to '
+                           'work. Always plan ahead  and stock up!',
+                   'score': 408},
+                  {'author': '[deleted]',
+                   'body': 'Where the fuck do you live that shops are even '
+                           'open on Christmas day?',
+                   'score': 158},
+                  {'author': 'BobanMarjonGo',
+                   'body': 'This is some top notch separation of church &amp; '
+                           'state \n'
+                           '/s',
+                   'score': 140},
+                  {'author': 'AdConsistent2152',
+                   'body': 'Oh Hey Georgia',
+                   'score': 86},
+                  {'author': 'Shalamarr',
+                   'body': 'Where I live, **nothing** is open on Christmas '
+                           'Day.',
+                   'score': 84},
+                  {'author': 'Deathmedical',
+                   'body': "Lots of places don't sell booz on Sundays.",
+                   'score': 76}],
+ 'url': 'https://i.redd.it/8ghpxx7mx48a1.jpg'}
+2025-12-28 21:06:21 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/mildlyinteresting/comments/zv4dcl/my_county_does_not_allow_alcohol_sales_on/.json> (referer: https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50)
+2025-12-28 21:06:21 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/mildlyinteresting/comments/zv4dcl/my_county_does_not_allow_alcohol_sales_on/.json>
+{'author': 'The_Alkemizt',
+ 'body': None,
+ 'created_utc': 1671995369.0,
+ 'keyword': 'christmas_sales',
+ 'num_comments': 6376,
+ 'permalink': 'https://reddit.com/r/mildlyinteresting/comments/zv4dcl/my_county_does_not_allow_alcohol_sales_on/',
+ 'post_type': 'google_ranked',
+ 'score': 59138,
+ 'subreddit': 'mildlyinteresting',
+ 'title': 'My county does not allow alcohol sales on christmas day',
+ 'top_comments': [{'author': 'Yjorik',
+                   'body': "Guess it's drugs for Christmas then",
+                   'score': 19974},
+                  {'author': 'davtruss',
+                   'body': "My entire state doesn't allow alcohol sales on a "
+                           'Sunday unless you go in, sit down, and buy a '
+                           'sandwich or some such from a licensed restaurant '
+                           'that gets at least 40% of its sales from food.\n'
+                           '\n'
+                           'Edit: After a lovely Christmas Eve and Christmas '
+                           'morning with the family, I stop by reddit briefly '
+                           "and reply to somebody who says liquor isn't sold "
+                           'on Sundays in their state. Get sidetracked by '
+                           'people arguing about whether alcohol is a drug, an '
+                           'NBA game, and a Ukrainian dude in ask me anything '
+                           "who says he's an award winning photographer.\n"
+                           '\n'
+                           'Suddenly realized this has started a revolution '
+                           'against religiously motivated alcohol laws and '
+                           'will read all replies. But to answer the question, '
+                           'it is Arkansas, and we must not forget the '
+                           'Baptists.\n'
+                           '\n'
+                           'Entire counties in Arkansas are dry all the time '
+                           'until a county or city votes to sell liquor at all '
+                           'or on Sunday or ANY day. The exceptions even in '
+                           'wet counties for Sunday include only on premises '
+                           'sales at restaurants.\n'
+                           '\n'
+                           'An Arkansas map of wet/dry status is absolutely as '
+                           'complicated as sectarian religion in Syria.',
+                   'score': 6450},
+                  {'author': 'Helpful-nothelpful',
+                   'body': 'Opens liquor store on county line.',
+                   'score': 5385},
+                  {'author': 'fiendishfauna',
+                   'body': '“we’re christian so you have to be christian '
+                           'too!!”',
+                   'score': 2879},
+                  {'author': '[deleted]',
+                   'body': 'Is that Georgia or North Carolina?',
+                   'score': 1668},
+                  {'author': 'HalfBakedPotato84',
+                   'body': 'Separation of Church and state?',
+                   'score': 1541},
+                  {'author': 'Globalmask',
+                   'body': 'What about alcohol theft on Christmas?',
+                   'score': 1230},
+                  {'author': 'danijay637',
+                   'body': 'I’ll never forgot moving to Georgia,USA and being '
+                           'shocked I couldn’t buy liquor on Sunday. Even when '
+                           'the law changed they only sold liquor between the '
+                           'hours of 12-5 or something.',
+                   'score': 1015},
+                  {'author': 'chngminxo',
+                   'body': 'Your shops are open on Christmas Day?',
+                   'score': 546},
+                  {'author': 'Groinificator',
+                   'body': "So it's free?",
+                   'score': 503}],
+ 'url': 'https://i.redd.it/v7rvl5pnw48a1.jpg'}
+2025-12-28 21:06:23 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/The1980s/comments/1hls2f2/the_sexy_sales_clerk_in_national_lampoons/.json> (referer: https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50)
+2025-12-28 21:06:23 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/The1980s/comments/1hls2f2/the_sexy_sales_clerk_in_national_lampoons/.json>
+{'author': 'Ilikechickenwings1',
+ 'body': None,
+ 'created_utc': 1735094162.0,
+ 'keyword': 'christmas_sales',
+ 'num_comments': 437,
+ 'permalink': 'https://reddit.com/r/The1980s/comments/1hls2f2/the_sexy_sales_clerk_in_national_lampoons/',
+ 'post_type': 'google_ranked',
+ 'score': 9851,
+ 'subreddit': 'The1980s',
+ 'title': "The sexy sales Clerk in National Lampoon's Christmas Vacation is "
+          'now over 70 Years Old',
+ 'top_comments': [{'author': 'SkyerKayJay1958',
+                   'body': 'I just watched the movie - what stuck out was how '
+                           "natural all the actor's teeth were - overbites, "
+                           'crooked, not perfect and had lots of character and '
+                           'beauty.',
+                   'score': 296},
+                  {'author': 'kwpg3', 'body': 'No lines Rusty.', 'score': 267},
+                  {'author': 'Watch_Noob_72',
+                   'body': 'Nicolette Scorsese, she’s still a hottie.',
+                   'score': 218},
+                  {'author': 'LucasJackson44',
+                   'body': '“Can I take something out?”',
+                   'score': 44},
+                  {'author': '[deleted]',
+                   'body': 'Beautiful gal!  Now that she’s nearly 70, it’s '
+                           'time to do a reminder for ourselves that this '
+                           'great movie was in theaters in 1989.  That was 35 '
+                           'years ago.  I was 13.  \n'
+                           '\n'
+                           'In 1989, a 35 year old Christmas movie was “White '
+                           'Christmas”, with Bing Crosby and Danny Fucking '
+                           'Kaye.\n'
+                           '\n'
+                           'Merry Christmas, ya filthy animals!❤️',
+                   'score': 36},
+                  {'author': 'VendaGoat',
+                   'body': "I don't have a log.....",
+                   'score': 22},
+                  {'author': 'Top_Praline999',
+                   'body': 'All I’m hearing is she can’t get pregnant',
+                   'score': 22},
+                  {'author': '[deleted]',
+                   'body': 'Wow. So she was over 35 in Christmas Vacation? '
+                           'Thought she would have been in her twenties.',
+                   'score': 15},
+                  {'author': 'Thierry22',
+                   'body': 'Hahah! I watched the movie yesterday and I googled '
+                           'the same thing.',
+                   'score': 15},
+                  {'author': 'RustySchackelfurd',
+                   'body': 'Name?',
+                   'score': 10}],
+ 'url': 'https://i.redd.it/3uv72yirpw8e1.jpeg'}
+2025-12-28 21:06:26 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/Frugal/comments/1hw6v4d/christmas_hamster_were_on_sale_now_i_need_ideas/.json> (referer: https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50)
+2025-12-28 21:06:26 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/Frugal/comments/1hw6v4d/christmas_hamster_were_on_sale_now_i_need_ideas/.json>
+{'author': 'ILICKTREEZx3',
+ 'body': "Actually bought it about a week ago. Just couldn't resist the sale "
+         'price but once I got home I realized I had no idea what to do with '
+         'all this meat for 1 or 2 people. I threw it in the freezer in a '
+         'panic. Once I take it out, defrost and cook it, what the hell is one '
+         'woman supposed to do with about 8 pounds of ham?\n'
+         '\n'
+         "Edit: silly, stupid typo. I promise I'm not trying to cook a "
+         'hamster! Just a regular ham 😅\n'
+         '\n'
+         'Edit 2: I was not expecting this to blow up!  I guess my reddit '
+         'legacy will now be "that person who wanted to cook a Christmas '
+         'hamster"',
+ 'created_utc': 1736296673.0,
+ 'keyword': 'christmas_sales',
+ 'num_comments': 781,
+ 'permalink': 'https://reddit.com/r/Frugal/comments/1hw6v4d/christmas_hamster_were_on_sale_now_i_need_ideas/',
+ 'post_type': 'google_ranked',
+ 'score': 9935,
+ 'subreddit': 'Frugal',
+ 'title': 'Christmas hamster were on sale, now I need ideas!',
+ 'top_comments': [{'author': 'DaysOfWhineAndToeses',
+                   'body': 'https://preview.redd.it/sfvdmtkl2obe1.jpeg?width=500&amp;format=pjpg&amp;auto=webp&amp;s=343fd2b21af6915d65f65f604734ef55c7b73a86',
+                   'score': 7673},
+                  {'author': 'CyberDonSystems',
+                   'body': 'Lol best typo ever',
+                   'score': 3168},
+                  {'author': 'AnythingNext3360',
+                   'body': '"you know, it\'s really irresponsible to impulse '
+                           'purchase a pet without doing the proper research '
+                           'and preparation beforehand so that you can provide '
+                           'a good home for the animaoooOOOOOHHHH MY GOD oh '
+                           'it\'s a typo."',
+                   'score': 1457},
+                  {'author': 'dogmademedoit888',
+                   'body': "holy crap, I'm laughing so loudly my husband came "
+                           'in from the kitchen--where, I promise you, he was '
+                           'NOT cooking hamsters--to see what all the fuss was '
+                           'about. thanks for the giggle, I really needed it. '
+                           '(also, I was trying to figure out how you were '
+                           'getting two meals out of a HAMSTER!!!)',
+                   'score': 1445},
+                  {'author': 'Airregaithel',
+                   'body': 'https://preview.redd.it/g0yfm9h8hobe1.jpeg?width=1125&amp;format=pjpg&amp;auto=webp&amp;s=962b752e13bea8f0e7e2ae799bcc11cc55a311c6\n'
+                           '\n'
+                           'I especially like where it cuts off with the '
+                           'preview. 😂',
+                   'score': 553},
+                  {'author': 'DaJabroniz',
+                   'body': 'https://preview.redd.it/89luqqa72obe1.jpeg?width=256&amp;format=pjpg&amp;auto=webp&amp;s=5d694dbea6e6d5ca47e1e6386176bf5cd0b4e6e5',
+                   'score': 377},
+                  {'author': 'iwanttocontributetoo',
+                   'body': 'Really confused--first mad that yet another person '
+                           "bought a pet they didn't research about "
+                           'beforehand...but, but then you started talking '
+                           'about having enough meat for 1 - 2  people 😭',
+                   'score': 304},
+                  {'author': 'Evening-Guarantee-84',
+                   'body': "I can't stop laughing!!!!",
+                   'score': 208},
+                  {'author': 'cashewkowl',
+                   'body': 'Makes great beans soups! Take out the ham. Eat '
+                           'some as ham slices for dinner, use some in '
+                           'sandwiches. Maybe some scalloped potatoes with '
+                           'ham. Chunk up some ham (or the meaty ham bone) and '
+                           'cook with a pound of dried beans to make a '
+                           'delicious soup.',
+                   'score': 194},
+                  {'author': '[deleted]',
+                   'body': 'omg christmas hamster!!!  too much meat! lol',
+                   'score': 185}],
+ 'url': 'https://www.reddit.com/r/Frugal/comments/1hw6v4d/christmas_hamster_were_on_sale_now_i_need_ideas/'}
+2025-12-28 21:06:29 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/Austin/comments/1psfqyp/tshirt_for_sale_at_armadillo_christmas_bazaar/.json> (referer: https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50)
+2025-12-28 21:06:29 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/Austin/comments/1psfqyp/tshirt_for_sale_at_armadillo_christmas_bazaar/.json>
+{'author': '90percent_crap',
+ 'body': "About as good a summary as I've seen",
+ 'created_utc': 1766347671.0,
+ 'keyword': 'christmas_sales',
+ 'num_comments': 737,
+ 'permalink': 'https://reddit.com/r/Austin/comments/1psfqyp/tshirt_for_sale_at_armadillo_christmas_bazaar/',
+ 'post_type': 'google_ranked',
+ 'score': 2169,
+ 'subreddit': 'Austin',
+ 'title': 'T-Shirt for Sale at Armadillo Christmas Bazaar',
+ 'top_comments': [{'author': '[deleted]', 'body': '[deleted]', 'score': 1209},
+                  {'author': 'TXJKUR',
+                   'body': '&gt; I miss the *old* Austin, that was the *gold* '
+                           'Austin.   \n'
+                           'The ‘no tech *bros*’ Austin, when it had *soul* '
+                           'Austin.   \n'
+                           'I hate the *new* Austin, less spot of *blue* '
+                           'Austin.   \n'
+                           '‘fore people *moved* to Austin, that was the '
+                           '*true* Austin.\n'
+                           '\n'
+                           'lol',
+                   'score': 240},
+                  {'author': 'YellowRobeSmith',
+                   'body': 'Basically just a list of places I fingered this '
+                           'one girl.',
+                   'score': 237},
+                  {'author': 'MyHGC', 'body': 'T R U D Y S', 'score': 164},
+                  {'author': 'ElRoJo-45',
+                   'body': 'I moved away 10 years ago and this is list of my '
+                           'childhood. I didn’t know all that was gone.',
+                   'score': 148},
+                  {'author': 'SporesM0ldsandFungus',
+                   'body': 'Halcyon coffee shop, Dog and Duck Pub, Opal '
+                           "Devine's, Mangia's Pizza.\n"
+                           '\n'
+                           '\n'
+                           "Einstein's and Le Fun for arcades",
+                   'score': 92},
+                  {'author': 'ambeaver',
+                   'body': 'I would add Artz rib house and the Bazaar',
+                   'score': 80},
+                  {'author': 'Top_Pomegranate_104',
+                   'body': 'No spaghetti warehouse?',
+                   'score': 52},
+                  {'author': 'Wide-Height2544',
+                   'body': 'Tower is on there but no Ruta maya. Hmm',
+                   'score': 48},
+                  {'author': 'Khalitz',
+                   'body': 'Katz deli was so good. Loved it when I used to '
+                           'work overnight.',
+                   'score': 47}],
+ 'url': 'https://i.redd.it/nj4it39e6m8g1.jpeg'}
+2025-12-28 21:06:32 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/Steam/comments/1hlaxft/christmas_sale_has_put_me_on_a_dilemma/.json> (referer: https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50)
+2025-12-28 21:06:32 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/Steam/comments/1hlaxft/christmas_sale_has_put_me_on_a_dilemma/.json>
+{'author': 'Z3R0Diro',
+ 'body': "Help, I can't choose 😭",
+ 'created_utc': 1735036281.0,
+ 'keyword': 'christmas_sales',
+ 'num_comments': 1759,
+ 'permalink': 'https://reddit.com/r/Steam/comments/1hlaxft/christmas_sale_has_put_me_on_a_dilemma/',
+ 'post_type': 'google_ranked',
+ 'score': 17332,
+ 'subreddit': 'Steam',
+ 'title': 'Christmas Sale has put me on a dilemma',
+ 'top_comments': [{'author': 'KumaWilson',
+                   'body': 'Flip a coin. Your emotional reaction to the '
+                           'outcome should tell you what you really wanted all '
+                           'along. If you say "oh...", you know it should have '
+                           'been the other one from the start.',
+                   'score': 5802},
+                  {'author': '-sepptt',
+                   'body': "It's hard to tell\n"
+                           '\n'
+                           'https://preview.redd.it/qrjwe83c4s8e1.jpeg?width=960&amp;format=pjpg&amp;auto=webp&amp;s=5b9e4f09b93a55833a870eea14addba72706a85c',
+                   'score': 1659},
+                  {'author': 'WhyNoLoreReason',
+                   'body': 'I had the exact same dilemma a few days ago. I '
+                           'flipped a coin, got cyberpunk but ended up buying '
+                           'Elden ring. If you flip a coin, you can see if '
+                           'you’re satisfied or disappointed by the outcome, '
+                           'and choose based on that',
+                   'score': 1381},
+                  {'author': 'DwindIe',
+                   'body': 'Get both: play neither. classic steam sale',
+                   'score': 554},
+                  {'author': 'OverFox17',
+                   'body': 'My opinion, go for Cyberpunk',
+                   'score': 498},
+                  {'author': 'Ok_Switch_1205',
+                   'body': 'Flip a coin then. Or buy one and wait a few weeks '
+                           'until the exact same “sale” pops up and buy the '
+                           'other.',
+                   'score': 475},
+                  {'author': 'RedNeyo',
+                   'body': 'You like Fantasy go with Elden Ring you like SciFi '
+                           'go with Cyberpunk. Both games are great in their '
+                           'own right it just depends what you want to play. '
+                           'Cyberpunk is cheaper so it gets you another game '
+                           'and possibly save up a bit for the DLC if u like '
+                           "it extra. Personally I'd go with ER always",
+                   'score': 329},
+                  {'author': 'I_love_bowls',
+                   'body': 'Gamble it to get 80€',
+                   'score': 196},
+                  {'author': 'Razgriz_101',
+                   'body': 'Personally Cyberpunk has a great modding scene and '
+                           'if it includes PL then even better. Also the 2.2 '
+                           'patch has done wonders for the vanilla experience '
+                           'aswell when it comes to customisation.\n'
+                           '\n'
+                           'If you’ve never played a souls game before I’d '
+                           'recommend trying an older dark souls game with the '
+                           'money left over to get a feel for it!',
+                   'score': 152},
+                  {'author': '[deleted]', 'body': '[removed]', 'score': 84}],
+ 'url': 'https://i.redd.it/t5uhs4nnxr8e1.jpeg'}
+2025-12-28 21:06:34 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/meat/comments/1pfq665/is_it_ok_to_freeze_a_prime_rib_now_for_a_few/.json> (referer: https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50)
+2025-12-28 21:06:34 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/meat/comments/1pfq665/is_it_ok_to_freeze_a_prime_rib_now_for_a_few/.json>
+{'author': 'Biafra_Gordon',
+ 'body': None,
+ 'created_utc': 1765030138.0,
+ 'keyword': 'christmas_sales',
+ 'num_comments': 1964,
+ 'permalink': 'https://reddit.com/r/meat/comments/1pfq665/is_it_ok_to_freeze_a_prime_rib_now_for_a_few/',
+ 'post_type': 'google_ranked',
+ 'score': 4199,
+ 'subreddit': 'meat',
+ 'title': 'Is it ok to freeze a prime rib now for a few weeks then thaw for '
+          "Christmas dinner? It's on sale for 8.99/lb currently, over 50% off.",
+ 'top_comments': [{'author': 'Budget_Ad5871',
+                   'body': 'Yes, if you invest in a vacuum sealer it will more '
+                           'than pay for itself throughout the year if you '
+                           'just buy on sale meat and freeze it',
+                   'score': 3},
+                  {'author': 'omahasteakssimon',
+                   'body': "Yep, and it's a great idea actually! Just put it "
+                           'in the fridge 2 days before you plan to cook it to '
+                           'thaw properly.',
+                   'score': 2},
+                  {'author': 'Ok_Beginning9526',
+                   'body': 'Pro tip, throw your spices of choice on it and a '
+                           'few sprigs of rosemary and whatever else you '
+                           'desire, and then vacuum seal the shit out of it. '
+                           'The vacuum seal will keep it from frostbite. As it '
+                           'is thawing in the fridge, it’ll also get that '
+                           'flavor started.',
+                   'score': 2},
+                  {'author': 'JungleJim-68',
+                   'body': 'You can freeze meat indefinitely, anyone who says '
+                           'you can’t is just being ridiculous, just ensure it '
+                           'won’t be freezer burnt',
+                   'score': 2},
+                  {'author': 'Responsible-End-307',
+                   'body': 'Vac seal it instead of',
+                   'score': 2},
+                  {'author': 'JP6-',
+                   'body': 'I would buy every single one in the store',
+                   'score': 2},
+                  {'author': 'daveindo',
+                   'body': 'Nope, straight to jail.',
+                   'score': 2},
+                  {'author': 'Girlpilot16',
+                   'body': 'Most meats have been previously frozen so go ahead '
+                           'but wrap it again first, freezer wrap, ziplock '
+                           'freezer with additional plastic. If you use vacuum '
+                           'pack will last at least 6 months',
+                   'score': 2},
+                  {'author': 'YP_Schwartzy',
+                   'body': 'Of course you can but Ribeye roasts go on sale the '
+                           'week of Christmas like clock work',
+                   'score': 2},
+                  {'author': 'Street_Situation_769',
+                   'body': 'Chances are that the grocery stores near you will '
+                           'have the same deal the week of Christmas',
+                   'score': 2}],
+ 'url': 'https://i.redd.it/julafxwrcl5g1.jpeg'}
+2025-12-28 21:06:37 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=christmas_sales&sort=relevance&limit=50> (referer: None)
+2025-12-28 21:06:37 [scrapy] INFO: Closing spider (finished)
+2025-12-28 21:06:37 [scrapy] INFO: Stored json feed (15 items) in: posts/spiders/output/google_ranked_christmas_sales_2025-12-28T15-35-52+00-00.json
+2025-12-28 21:06:37 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 15023,
+ 'downloader/request_count': 17,
+ 'downloader/request_method_count/GET': 17,
+ 'downloader/response_bytes': 892561,
+ 'downloader/response_count': 17,
+ 'downloader/response_status_count/200': 17,
+ 'elapsed_time_seconds': 44.915127,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 12, 28, 15, 36, 37, 645139, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 7550115,
+ 'httpcompression/response_count': 17,
+ 'item_scraped_count': 15,
+ 'log_count/DEBUG': 34,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'request_depth_max': 1,
+ 'response_received_count': 17,
+ 'scheduler/dequeued': 17,
+ 'scheduler/dequeued/memory': 17,
+ 'scheduler/enqueued': 17,
+ 'scheduler/enqueued/memory': 17,
+ 'start_time': datetime.datetime(2025, 12, 28, 15, 35, 52, 730012, tzinfo=datetime.timezone.utc)}
+2025-12-28 21:06:37 [scrapy] INFO: Spider closed (finished)
