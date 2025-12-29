@@ -1,0 +1,826 @@
+2025-12-29 00:26:56 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50> (referer: None)
+2025-12-29 00:26:59 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1pqijb6/lg_will_let_you_delete_the_previously_unremovable/.json> (referer: https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50)
+2025-12-29 00:26:59 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1pqijb6/lg_will_let_you_delete_the_previously_unremovable/.json>
+{'author': 'afk_exe',
+ 'body': '',
+ 'created_utc': 1766142698.0,
+ 'keyword': 'microsoft',
+ 'num_comments': 583,
+ 'permalink': 'https://reddit.com/r/technology/comments/1pqijb6/lg_will_let_you_delete_the_previously_unremovable/',
+ 'post_type': 'competitor_post',
+ 'score': 13139,
+ 'subreddit': 'technology',
+ 'title': 'LG will let you delete the previously unremovable Microsoft Copilot '
+          'shortcut on its smart TVs',
+ 'top_comments': [{'author': 'afk_exe',
+                   'body': 'For clarification here is LG’s full issued '
+                           'statement by Chris De Maria:\n'
+                           '\n'
+                           '“Following recent coverage regarding the arrival '
+                           "of Microsoft Copilot on LG TVs, we're reaching out "
+                           'to provide an important clarification. Based on '
+                           'recent coverage regarding the arrival of Microsoft '
+                           'Copilot on LG TVs, we want to clarify that '
+                           'Microsoft Copilot is provided as a shortcut icon '
+                           'to enhance customer accessibility and convenience. '
+                           'It is not an application-based service embedded in '
+                           'the TV. When users select the Copilot shortcut, '
+                           "Microsoft's website opens through the TV's web "
+                           'browser, and features such as microphone input are '
+                           "activated only with the customer's explicit "
+                           'consent.”',
+                   'score': 304},
+                  {'author': 'ifyousaysu',
+                   'body': 'Delete may not mean uninstalled…have to remember, '
+                           'Microsoft paid for your unfiltered information.',
+                   'score': 3},
+                  {'author': 'SculptusPoe',
+                   'body': 'Copilot actively caused my mouse to stutter and '
+                           'have keyboard input lag on everything I typed. I '
+                           'was getting frustrated and thinking that Microsoft '
+                           'was slowing my windows 10 computer on purpose to '
+                           'force me into windows 11. I figured that was just '
+                           'my anger, but as it turns out an update had '
+                           'installed Copilot, and indeed, it was the cause of '
+                           'all of my keyboard input lag and mouse stuttering. '
+                           'I used gpedit.msc and went to the option to enable '
+                           'copilot to be disabled (some sort of double '
+                           'negative wording in that to confuse people '
+                           'probably.) The input problems completely went '
+                           'away.',
+                   'score': 2}],
+ 'url': 'https://www.engadget.com/ai/lg-will-let-you-delete-the-previously-unremovable-microsoft-copilot-shortcut-on-its-smart-tvs-215352944.html'}
+2025-12-29 00:27:01 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/pcmasterrace/comments/1o71tsz/i_still_cant_believe_somebody_at_microsoft/.json> (referer: https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50)
+2025-12-29 00:27:01 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/pcmasterrace/comments/1o71tsz/i_still_cant_believe_somebody_at_microsoft/.json>
+{'author': 'Skorpeyo',
+ 'body': '',
+ 'created_utc': 1760503441.0,
+ 'keyword': 'microsoft',
+ 'num_comments': 1420,
+ 'permalink': 'https://reddit.com/r/pcmasterrace/comments/1o71tsz/i_still_cant_believe_somebody_at_microsoft/',
+ 'post_type': 'competitor_post',
+ 'score': 14112,
+ 'subreddit': 'pcmasterrace',
+ 'title': "I still can't believe somebody at Microsoft thought this would look "
+          'cool',
+ 'top_comments': [{'author': 'dandatrk',
+                   'body': '[Easy fix to return the classic '
+                           'options.](https://learn.microsoft.com/en-us/answers/questions/2287432/(article)-restore-old-right-click-context-menu-in)',
+                   'score': 2007},
+                  {'author': 'markthelast',
+                   'body': 'Microsoft has not made huge strides in GUI since '
+                           'Vista/7, which were arguably cooler than anything '
+                           'before. I like the Windows Aero glass aesthetic, '
+                           'which was divisive, and vibrant color palette. '
+                           'Windows 8 and 10 have been a focus on '
+                           'simplification and flattening everything. Now with '
+                           'Windows 11, we are going to lose sharp corners for '
+                           'rounded edges among other changes.',
+                   'score': 21},
+                  {'author': 'Phothiabea',
+                   'body': 'This is Microsofts version of a kid pushing all '
+                           'the mess in their room under the bed so the room '
+                           "looks tidied up. It's insane that this was their "
+                           'solution to the cluttered right click menu',
+                   'score': 5},
+                  {'author': 'EdwardLovagrend',
+                   'body': 'Seems my comment disappeared or got lost in the '
+                           'aether or whatever.\n'
+                           '\n'
+                           '"[You can display the Legacy Right-Click Context '
+                           'menu by clicking "Show more options" at the end of '
+                           'the list or pressing Shift+F10. If you want it to '
+                           'be the default, you need to add a registry entry '
+                           'below so that every time you right-click a File or '
+                           'Folder, it shows the Legacy Context menu by '
+                           'default.\n'
+                           '\n'
+                           'Restore the old Context Menu in Windows 11\n'
+                           'Right-click the Start button and choose Windows '
+                           'Terminal.\n'
+                           'Copy the command from below, paste it into the '
+                           'Windows Terminal Window, and press Enter.\n'
+                           'reg.exe add '
+                           '"HKCU\\Software\\Classes\\CLSID\\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\\InprocServer32" '
+                           '/f /ve\n'
+                           '\n'
+                           'Command in Windows Terminal to Restore old context '
+                           'menu\n'
+                           '\n'
+                           'The Registry change masks the new COM object that '
+                           'executes the compact menus with the "Show more '
+                           'options" entry. Once you get this performed, '
+                           'Explorer reverts to the Legacy context menu."\n'
+                           '\n'
+                           '[ARTICLE] Restore old Right-click Context menu in '
+                           'Windows 11 - Microsoft Q&amp;A '
+                           'https://share.google/rtmAIlhNd1vlnqqL0',
+                   'score': 5}],
+ 'url': 'https://i.redd.it/zifm2730g7vf1.jpeg'}
+2025-12-29 00:27:04 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/gadgets/comments/1plvlf4/lg_update_installs_unremovable_microsoft_copilot/.json> (referer: https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50)
+2025-12-29 00:27:04 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/gadgets/comments/1plvlf4/lg_update_installs_unremovable_microsoft_copilot/.json>
+{'author': 'UnusualSoup',
+ 'body': '',
+ 'created_utc': 1765658820.0,
+ 'keyword': 'microsoft',
+ 'num_comments': 880,
+ 'permalink': 'https://reddit.com/r/gadgets/comments/1plvlf4/lg_update_installs_unremovable_microsoft_copilot/',
+ 'post_type': 'competitor_post',
+ 'score': 9222,
+ 'subreddit': 'gadgets',
+ 'title': 'LG Update Installs Unremovable Microsoft Copilot on Smart TVs, '
+          'Ignites Backlash',
+ 'top_comments': [],
+ 'url': 'https://www.webpronews.com/lg-update-installs-unremovable-microsoft-copilot-on-smart-tvs-ignites-backlash/'}
+2025-12-29 00:27:05 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1ohxdgy/us_government_uses_halo_images_in_a_call_to/.json> (referer: https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50)
+2025-12-29 00:27:05 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1ohxdgy/us_government_uses_halo_images_in_a_call_to/.json>
+{'author': 'ControlCAD',
+ 'body': '',
+ 'created_utc': 1761616787.0,
+ 'keyword': 'microsoft',
+ 'num_comments': 1384,
+ 'permalink': 'https://reddit.com/r/technology/comments/1ohxdgy/us_government_uses_halo_images_in_a_call_to/',
+ 'post_type': 'competitor_post',
+ 'score': 28662,
+ 'subreddit': 'technology',
+ 'title': "US government uses Halo images in a call to 'destroy' immigration, "
+          'Microsoft declines to comment',
+ 'top_comments': [{'author': 'Reddit_is_fascist69',
+                   'body': "Microsoft was guzzling the president's tiny balls "
+                           'so they missed the whole Halo advertisement.',
+                   'score': 4530},
+                  {'author': 'OrneryError1',
+                   'body': 'White House uses a Microsoft IP to compare '
+                           'immigrants to a viral plague and Microsoft '
+                           'declines to comment???',
+                   'score': 131},
+                  {'author': 'Trollogic',
+                   'body': 'EDIT: I was thinking of Trademark law, not '
+                           'copyright!\n'
+                           '\n'
+                           'Original comment (answer to my question posed is '
+                           '“no”): If Microsoft fails to enforce their '
+                           'copyright against the government then is it '
+                           'possible they have constructively given up their '
+                           'copyright? Could anyone make the legal argument '
+                           'that they can use Halo content now?',
+                   'score': 101},
+                  {'author': 'HM9719',
+                   'body': '“Microsoft declines to comment” tells you '
+                           'everything you need to know: they gave money to '
+                           'the destruction of the East Wing of the White '
+                           'House.',
+                   'score': 44},
+                  {'author': 'fuck_all_you_too',
+                   'body': 'They only did it to show their power over '
+                           'Microsoft to the entire world. This is their way '
+                           'of saying "Do something about it", and Microsoft '
+                           'isnt going to do shit.',
+                   'score': 33}],
+ 'url': 'https://www.pcgamer.com/games/us-government-uses-halo-images-in-a-call-to-destroy-immigration-microsoft-declines-to-comment/'}
+2025-12-29 00:27:08 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/SipsTea/comments/1nvyyx1/microsoft_how_to_destroy_a_brand_101/.json> (referer: https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50)
+2025-12-29 00:27:08 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/SipsTea/comments/1nvyyx1/microsoft_how_to_destroy_a_brand_101/.json>
+{'author': 'ExotiquePlayboy',
+ 'body': '',
+ 'created_utc': 1759396762.0,
+ 'keyword': 'microsoft',
+ 'num_comments': 2147,
+ 'permalink': 'https://reddit.com/r/SipsTea/comments/1nvyyx1/microsoft_how_to_destroy_a_brand_101/',
+ 'post_type': 'competitor_post',
+ 'score': 39536,
+ 'subreddit': 'SipsTea',
+ 'title': 'Microsoft: How to destroy a brand 101',
+ 'top_comments': [],
+ 'url': 'https://i.redd.it/3b47stkv1osf1.jpeg'}
+2025-12-29 00:27:09 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/todayilearned/comments/1pdk47y/til_microsoft_invested_two_years_and_about_us1/.json> (referer: https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50)
+2025-12-29 00:27:09 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/todayilearned/comments/1pdk47y/til_microsoft_invested_two_years_and_about_us1/.json>
+{'author': 'Away_Flounder3813',
+ 'body': '',
+ 'created_utc': 1764804594.0,
+ 'keyword': 'microsoft',
+ 'num_comments': 1101,
+ 'permalink': 'https://reddit.com/r/todayilearned/comments/1pdk47y/til_microsoft_invested_two_years_and_about_us1/',
+ 'post_type': 'competitor_post',
+ 'score': 17097,
+ 'subreddit': 'todayilearned',
+ 'title': 'TIL Microsoft invested two years and about US$1 billion developing '
+          'the Kin, a line of mobile phones that was briefly sold in 2010. '
+          'After only 48 days on the market, Microsoft discontinued the Kin '
+          'line in June 2010 due to poor sales, They blamed Verizon for not '
+          'promoting the phones actively enough.',
+ 'top_comments': [{'author': 'Dbeebs',
+                   'body': 'In fairness, Microsoft is excellent at making '
+                           'terrible decisions.',
+                   'score': 7086},
+                  {'author': 'onnamattanetario',
+                   'body': 'I had one of the Kin Two phones back then and I '
+                           'have to say I kinda liked it. The Zune music '
+                           'interface was great and I liked having the sliding '
+                           'keyboard, having graduated from a flip-style '
+                           "Samsung phone. The web browser wasn't great, but "
+                           'it gave me basic access in stores that had wifi. I '
+                           'was even able to engineer some sort of way to read '
+                           'books too.\n'
+                           '\n'
+                           'If anything, I wish Microsoft would release the '
+                           'Zune software as an app for modern phones.',
+                   'score': 1809},
+                  {'author': 'CardboardBrains',
+                   'body': 'I remember going to the Microsoft Kin booth at '
+                           'Coachella that year.',
+                   'score': 289},
+                  {'author': 'McBeers',
+                   'body': 'My first job out of college was working on this.  '
+                           "Didn't really understand the market case for it "
+                           'but naively trusted that the Microsoft execs knew '
+                           'better than me.  At least nobody complained about '
+                           'the bit I did (UI rendering reliability within a '
+                           'version of Silverlight we ported to it).',
+                   'score': 108},
+                  {'author': 'Damage2Damage',
+                   'body': 'My first thought was, why was Microsoft not '
+                           'promoting them, then I realized that back then '
+                           'people probably still went to phone stores',
+                   'score': 60}],
+ 'url': 'https://en.wikipedia.org/wiki/Microsoft_Kin'}
+2025-12-29 00:27:12 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1pn98zo/lg_tv_users_baffled_by_unremovable_microsoft/.json> (referer: https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50)
+2025-12-29 00:27:13 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1pn98zo/lg_tv_users_baffled_by_unremovable_microsoft/.json>
+{'author': 'ScootSchloingo',
+ 'body': '',
+ 'created_utc': 1765810269.0,
+ 'keyword': 'microsoft',
+ 'num_comments': 1434,
+ 'permalink': 'https://reddit.com/r/technology/comments/1pn98zo/lg_tv_users_baffled_by_unremovable_microsoft/',
+ 'post_type': 'competitor_post',
+ 'score': 10624,
+ 'subreddit': 'technology',
+ 'title': 'LG TV users baffled by unremovable Microsoft Copilot installation — '
+          'surprise forced update shows app pinned to the home screen',
+ 'top_comments': [{'author': 'Stilgar314',
+                   'body': "Just when you thought Microsoft won't be capable "
+                           'of finding another way to piss you off, boom, '
+                           'there it is. Microsoft has become the main world '
+                           'producer of disappointment.',
+                   'score': 50}],
+ 'url': 'https://www.tomshardware.com/service-providers/tv-providers/lg-tv-update-adds-non-removable-microsoft-copilot-app-to-webos'}
+2025-12-29 00:27:15 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1p92qzs/you_heard_wrong_users_brutually_reject_microsofts/.json> (referer: https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50)
+2025-12-29 00:27:15 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1p92qzs/you_heard_wrong_users_brutually_reject_microsofts/.json>
+{'author': 'Scary_',
+ 'body': '',
+ 'created_utc': 1764355734.0,
+ 'keyword': 'microsoft',
+ 'num_comments': 1436,
+ 'permalink': 'https://reddit.com/r/technology/comments/1p92qzs/you_heard_wrong_users_brutually_reject_microsofts/',
+ 'post_type': 'competitor_post',
+ 'score': 19520,
+ 'subreddit': 'technology',
+ 'title': 'You heard wrong” – users brutually reject Microsoft’s “Copilot for '
+          'work” in Edge and Windows 11',
+ 'top_comments': [{'author': 'Syrairc',
+                   'body': 'The quality of Copilot varies so wildly across '
+                           'products that Microsoft has completely destroyed '
+                           'any credibility the brand has.\n'
+                           '\n'
+                           '\n'
+                           'Today I asked the copilot in power automate '
+                           'desktop to generate vbscript to filter a column. '
+                           "The script didn't work. I asked it to generate the "
+                           'same script and indicated the error from the '
+                           'previous one. It regenerated the whole script as a '
+                           'script that uses WMI to reboot my computer. In '
+                           'Spanish.',
+                   'score': 5178},
+                  {'author': 'LukasVolt',
+                   'body': 'Anytime this shit comes up within our company we '
+                           'built an additional GPO to restrict access as '
+                           'Microsoft is trying to force companies to use it. '
+                           'We have so many rules just to prohibit Microsoft '
+                           'from implementing AI in their broken piece of '
+                           'their messed up operating system in order to keep '
+                           'our day-to-day business running.\n'
+                           '\n'
+                           'Edit: fixed a typo',
+                   'score': 2075},
+                  {'author': 'Ordoo',
+                   'body': 'Dear Microsoft:\n'
+                           '\n'
+                           "We don't care about your garbo, we just want our "
+                           'computers to do what we want them to do\n'
+                           '\n'
+                           'Pound sand.',
+                   'score': 1844},
+                  {'author': 'TheseBrokenWingsTake',
+                   'body': 'Everyone I know at Microsoft makes fun of how '
+                           "crappy it is. They don't even want it.",
+                   'score': 790},
+                  {'author': 'Weekly-Trash-272',
+                   'body': "I definitely don't mind the integration of AI, but "
+                           'what I do hate is being forced to use it. '
+                           'Microsoft loves to force things on users and not '
+                           "give them the option to opt out. That's what I "
+                           'dislike.\n'
+                           '\n'
+                           'One of the reasons I was actually excited about '
+                           'the Steam Machine was so I could try out Linux and '
+                           'finally get away from this cycle of windows.',
+                   'score': 746}],
+ 'url': 'https://www.windowslatest.com/2025/11/28/you-heard-wrong-users-brutually-reject-microsofts-copilot-for-work-in-edge-and-windows-11/'}
+2025-12-29 00:27:17 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/todayilearned/comments/1pe64pr/til_squirting_was_what_microsoft_called_sharing/.json> (referer: https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50)
+2025-12-29 00:27:17 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/todayilearned/comments/1pe64pr/til_squirting_was_what_microsoft_called_sharing/.json>
+{'author': 'stuffitystuff',
+ 'body': '',
+ 'created_utc': 1764869484.0,
+ 'keyword': 'microsoft',
+ 'num_comments': 1941,
+ 'permalink': 'https://reddit.com/r/todayilearned/comments/1pe64pr/til_squirting_was_what_microsoft_called_sharing/',
+ 'post_type': 'competitor_post',
+ 'score': 33151,
+ 'subreddit': 'todayilearned',
+ 'title': 'TIL "squirting" was what Microsoft called "sharing" MP3s via their '
+          'Zune MP3 player and Microsoft CEO Steve Ballmer tried really hard '
+          'to sell the feature: "I want to squirt you a picture of my kids. '
+          "You want to squirt me back a video of your vacation. That's a "
+          'software experience."',
+ 'top_comments': [{'author': 'ElectroSpore',
+                   'body': 'I feel like Microsoft would do so much better if '
+                           'they fired all the people that named things in the '
+                           'last decade. (edit: maybe last 2 decades they keep '
+                           'merging the names of things or changing them then '
+                           'messing up the documentation)',
+                   'score': 2360},
+                  {'author': 'peacefinder',
+                   'body': 'That and “Bing”. It made perfect sense, it was '
+                           'meant to evoke a little bell ringing when the '
+                           'result you wanted popped up. But Microsoft totally '
+                           'failed to get that message out.',
+                   'score': 117},
+                  {'author': 'criticalpwnage',
+                   'body': '[This has already been '
+                           'debunked.](https://youtu.be/ud6rwVkbovA?si=bR4YpLnT4skgZA_c&amp;t=456) '
+                           'Squirting was a generic term for data transfers, '
+                           'Microsoft did not make it up for the Zune. Steve '
+                           'Ballmer just used the term in an interview.  No '
+                           'where in Zune marketing materials or even the '
+                           'manual does it mention squirting.',
+                   'score': 94}],
+ 'url': 'https://fishbowl.pastiche.org/2006/10/17/how_to_and_how_not_to_sell_technology'}
+2025-12-29 00:27:20 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1p32mrr/microsoft_finally_admits_almost_all_major_windows/.json> (referer: https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50)
+2025-12-29 00:27:20 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1p32mrr/microsoft_finally_admits_almost_all_major_windows/.json>
+{'author': 'CackleRooster',
+ 'body': '',
+ 'created_utc': 1763741339.0,
+ 'keyword': 'microsoft',
+ 'num_comments': 3095,
+ 'permalink': 'https://reddit.com/r/technology/comments/1p32mrr/microsoft_finally_admits_almost_all_major_windows/',
+ 'post_type': 'competitor_post',
+ 'score': 36781,
+ 'subreddit': 'technology',
+ 'title': 'Microsoft finally admits almost all major Windows 11 core features '
+          'are broken',
+ 'top_comments': [{'author': 'azthal',
+                   'body': 'This article is so misleading as to be a flat out '
+                           'lie.\n'
+                           '\n'
+                           'Microsoft have not admitted to any such thing. The '
+                           'two sourced they quote for this is a statement '
+                           'from Davaluri that says "we really do care about '
+                           'developers and take feedback", and a single '
+                           'support article saying that the latest patch has a '
+                           'problem with XAML packages. That is one bug '
+                           'affecting many different systems, but is not any '
+                           'kind of admitance that "core features are '
+                           'broken".\n'
+                           '\n'
+                           '  \n'
+                           'I fundamentally disagree with Microsofts current '
+                           'focus on AI for Windows, and think they are going '
+                           'the wrong direction, but this article is literally '
+                           'just making shit up.',
+                   'score': 1118},
+                  {'author': 'sketch24',
+                   'body': 'Can someone from Microsoft at least explain why '
+                           'when I press "update and shutdown" it updates and '
+                           'restarts anyway? I feel like that should be basic '
+                           "programming and don't appreciate a blinding light "
+                           'waking me up when I thought I already turned off '
+                           'my computer.  Assholes.',
+                   'score': 92},
+                  {'author': 'SpoonerUK',
+                   'body': 'This thread is gold!\n'
+                           '\n'
+                           'As a 25 year veteran Microsoft Enterprise level '
+                           'engineer, the things they are changing and '
+                           'implementing in the last 5 years are just insane.\n'
+                           '\n'
+                           'When I first started in IT, I was actually '
+                           'enthusiastic about learning and getting '
+                           'experience.  These days, the whole MS ecosystem is '
+                           'just a ballache.\n'
+                           '\n'
+                           'Azure\n'
+                           '\n'
+                           'OneDrive\n'
+                           '\n'
+                           'Teams\n'
+                           '\n'
+                           'CoPilot\n'
+                           '\n'
+                           'M365\n'
+                           '\n'
+                           'EXO\n'
+                           '\n'
+                           '  \n'
+                           'They can all FUCK RIGHT OFF.\n'
+                           '\n'
+                           'Nothing is easy anymore, and support is a joke.\n'
+                           '\n'
+                           "..and don't get me started on what they've done to "
+                           'Xbox.',
+                   'score': 37}],
+ 'url': 'https://www.neowin.net/news/microsoft-finally-admits-almost-all-major-windows-11-core-features-are-broken/'}
+2025-12-29 00:27:23 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1pbpgan/security_disaster500_million_microsoft_users_say/.json> (referer: https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50)
+2025-12-29 00:27:23 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1pbpgan/security_disaster500_million_microsoft_users_say/.json>
+{'author': 'MarvelsGrantMan136',
+ 'body': '',
+ 'created_utc': 1764624569.0,
+ 'keyword': 'microsoft',
+ 'num_comments': 3652,
+ 'permalink': 'https://reddit.com/r/technology/comments/1pbpgan/security_disaster500_million_microsoft_users_say/',
+ 'post_type': 'competitor_post',
+ 'score': 22922,
+ 'subreddit': 'technology',
+ 'title': '‘Security Disaster’—500 Million Microsoft Users Say No To Windows '
+          '11',
+ 'top_comments': [{'author': 'Stilgar314',
+                   'body': 'Microsoft gave us a never ending parade of popups, '
+                           'notifications and right away ads for choosing Edge '
+                           'as default browser, install some AI crap or '
+                           'whatever random app/service some corpo committee '
+                           'had puked. The only sensible reaction is learning '
+                           'to ignore absolutely everything Windows ask us. '
+                           'They trained us so well in ignoring their messages '
+                           'that there\'s a billion people that "just don’t '
+                           'see upgrading as worth the hassle, even when the '
+                           'option to do so is sitting right in front of them"',
+                   'score': 3786},
+                  {'author': 'Ripped_Alleles',
+                   'body': 'Windows 11 is not a safe or secure O/S. They are '
+                           'storing and transmitting far too much invasive '
+                           'personal data, and there will be breaches both on '
+                           'Microsoft side of things and the average users.\n'
+                           '\n'
+                           "You can't even guarantee that your files and "
+                           "system are yours to use any more; there's been "
+                           'several cases of people loosing access to their '
+                           'work and data because of Bitlocker &amp; Windows '
+                           'account being mandatory.\n'
+                           '\n'
+                           "And to top it off with the plan to add 'Agentic "
+                           "Ai' to W11 that Microsoft themselves have admitted "
+                           'can be manipulated into installing malware and/or '
+                           'manipulating your system, things are only going to '
+                           'get worse.\n'
+                           '\n'
+                           'Thankfully there is MacOS and more ideally, Linux '
+                           'as alternatives. I highly encourage anyone that '
+                           'cares at all about protecting their work, data, '
+                           'and just simple ownership of their system, to make '
+                           'the switch today.',
+                   'score': 595},
+                  {'author': 'snaggleboot',
+                   'body': 'Why would I want to be forced into making changes '
+                           'I don’t want? I don’t like the look or feel of '
+                           'windows 11. I hate their AI initiatives, I hate '
+                           'their hardware requirements for a fucking OS '
+                           'update, which is insane on its own. Microsoft had '
+                           'all my love and threw it away, just like hundreds '
+                           'of millions of computers because of this shit. '
+                           'What a waste. I’d rather figure out how to get my '
+                           'shit running on Linux than go to windows 11 at '
+                           'this point.',
+                   'score': 332},
+                  {'author': 'Razathorn',
+                   'body': 'How do you even take an article seriously when it '
+                           'says allowing updates for home users till 2026 was '
+                           'a mistake?  The whole article is about a security '
+                           'disaster but the author is clearly more interested '
+                           'in the financial implications for microsoft of not '
+                           "forcing people to update.  Ooooh it's a security "
+                           'nightmare and giving people security updates was '
+                           'the bad part!!!111.',
+                   'score': 116},
+                  {'author': '[deleted]',
+                   'body': 'The push for Windows 11 is the dumbest and most '
+                           'transparently anti-consumer action Microsoft has '
+                           'ever taken that I can remember.  I know they do '
+                           'sketchy shit but this is just dumb.  11 has '
+                           'literally 0 benefit for windows 10 users.  \n'
+                           '\n'
+                           'I challenge you to find one compelling feature of '
+                           'windows 11 that 10 does not have.  I do not '
+                           'consider integrated LLM spying to be a “feature”.',
+                   'score': 78}],
+ 'url': 'https://www.forbes.com/sites/zakdoffman/2025/12/01/security-disaster-500-million-microsoft-users-say-no-to-windows-11/'}
+2025-12-29 00:27:25 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1p2osv5/microsoft_ai_ceo_puzzled_that_people_are/.json> (referer: https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50)
+2025-12-29 00:27:25 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1p2osv5/microsoft_ai_ceo_puzzled_that_people_are/.json>
+{'author': 'Moth_LovesLamp',
+ 'body': '',
+ 'created_utc': 1763697810.0,
+ 'keyword': 'microsoft',
+ 'num_comments': 3488,
+ 'permalink': 'https://reddit.com/r/technology/comments/1p2osv5/microsoft_ai_ceo_puzzled_that_people_are/',
+ 'post_type': 'competitor_post',
+ 'score': 36246,
+ 'subreddit': 'technology',
+ 'title': 'Microsoft AI CEO puzzled that people are unimpressed by AI',
+ 'top_comments': [{'author': 'ChipsAhoy2022',
+                   'body': 'Microsoft leadership is in an AI bubble which '
+                           'their customers are not. \n'
+                           '\n'
+                           'Recent consumer backlash about MS plans to deepen '
+                           'AI integration in Windows is a wakeup call.',
+                   'score': 1434},
+                  {'author': 'Damrey',
+                   'body': 'Copilot does nothing to help make my job easier. '
+                           'It can’t follow prompts, recall past conversations '
+                           'as they relate to present ones, or give accurate '
+                           'information on basic questions. It just searches '
+                           'the internet for paid sources and offers them up. '
+                           'It doesn’t send emails, it doesn’t balance your '
+                           'accounts, it doesn’t do anything except consume '
+                           'massive amount of resources to train off its '
+                           'massive amount of data collection that we have '
+                           'been fooled as the product into paying to give our '
+                           'time and information. Get fucked Microsoft. This '
+                           'product is destroying the jobs of people that do a '
+                           'lot of important tasks, and the product isn’t even '
+                           'replacing the jobs. It just writes some slop email '
+                           'and tells me to do more work. The outputs have no '
+                           'fact check or human to verify so it makes me do '
+                           'quality control. Microsoft copilot is like a '
+                           'sophomore confidently masquerading as some '
+                           'repository of knowledge and efficiency and it’s '
+                           'neither. It’s a garbage tool propped up by elite '
+                           'techno feudalists.',
+                   'score': 79},
+                  {'author': 'IcestormsEd',
+                   'body': 'When was the last time Microsoft impressed on '
+                           'anything? The only thing impressive is how '
+                           'consistent they are at fucking with their '
+                           'customers.',
+                   'score': 75}],
+ 'url': 'https://80.lv/articles/microsoft-ai-ceo-puzzled-by-people-being-unimpressed-by-ai'}
+2025-12-29 00:27:26 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/.json> (referer: https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50)
+2025-12-29 00:27:26 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/.json>
+{'author': 'defjam16',
+ 'body': '',
+ 'created_utc': 1765632489.0,
+ 'keyword': 'microsoft',
+ 'num_comments': 3408,
+ 'permalink': 'https://reddit.com/r/mildlyinfuriating/comments/1plldqo/my_lg_tvs_new_software_update_installed_microsoft/',
+ 'post_type': 'competitor_post',
+ 'score': 36241,
+ 'subreddit': 'mildlyinfuriating',
+ 'title': 'My LG TV’s new software update installed Microsoft Copilot, which '
+          'cannot be deleted.',
+ 'top_comments': [],
+ 'url': 'https://i.redd.it/41jzmk3w3z6g1.jpeg'}
+2025-12-29 00:27:29 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/technology/comments/1pmrwdh/microsoft_scales_back_ai_goals_because_almost/.json> (referer: https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50)
+2025-12-29 00:27:29 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/technology/comments/1pmrwdh/microsoft_scales_back_ai_goals_because_almost/.json>
+{'author': 'aacool',
+ 'body': '',
+ 'created_utc': 1765753747.0,
+ 'keyword': 'microsoft',
+ 'num_comments': 4417,
+ 'permalink': 'https://reddit.com/r/technology/comments/1pmrwdh/microsoft_scales_back_ai_goals_because_almost/',
+ 'post_type': 'competitor_post',
+ 'score': 45856,
+ 'subreddit': 'technology',
+ 'title': 'Microsoft Scales Back AI Goals Because Almost Nobody Is Using '
+          'Copilot',
+ 'top_comments': [{'author': 'VenetianAccessory',
+                   'body': 'I promise any normal person with half a fucking '
+                           'brain could make Microsoft dominate in the market '
+                           'again.\n'
+                           '\n'
+                           'OS should “just fucking work.” It should be '
+                           'secure. Patches shouldn’t break shit. Figure out '
+                           'the anticheat hooks properly.\n'
+                           '\n'
+                           'Make the menus fucking easier, not harder. Stop '
+                           'putting cloud and AI in everything. Stop trying to '
+                           'be an everything company and just make an '
+                           'absolutely amazing operating system.',
+                   'score': 2899},
+                  {'author': 'tonkatoyelroy',
+                   'body': 'Last quarter I rolled out Microsoft Copilot to '
+                           '4,000 employees.\n'
+                           '\n'
+                           '$30 per seat per month.\n'
+                           '\n'
+                           '$1.4 million annually.\n'
+                           '\n'
+                           'I called it "digital transformation."\n'
+                           '\n'
+                           'The board loved that phrase.\n'
+                           '\n'
+                           'They approved it in eleven minutes.\n'
+                           '\n'
+                           'No one asked what it would actually do.\n'
+                           '\n'
+                           'Including me.\n'
+                           '\n'
+                           'I told everyone it would "10x productivity."\n'
+                           '\n'
+                           "That's not a real number.\n"
+                           '\n'
+                           'But it sounds like one.\n'
+                           '\n'
+                           "HR asked how we'd measure the 10x.\n"
+                           '\n'
+                           'I said we\'d "leverage analytics dashboards."\n'
+                           '\n'
+                           'They stopped asking.\n'
+                           '\n'
+                           'Three months later I checked the usage reports.\n'
+                           '\n'
+                           '47 people had opened it.\n'
+                           '\n'
+                           '12 had used it more than once.\n'
+                           '\n'
+                           'One of them was me.\n'
+                           '\n'
+                           'I used it to summarize an email I could have read '
+                           'in 30 seconds.\n'
+                           '\n'
+                           'It took 45 seconds.\n'
+                           '\n'
+                           'Plus the time it took to fix the hallucinations.\n'
+                           '\n'
+                           'But I called it a "pilot success."\n'
+                           '\n'
+                           "Success means the pilot didn't visibly fail.\n"
+                           '\n'
+                           'The CFO asked about ROI.\n'
+                           '\n'
+                           'I showed him a graph.\n'
+                           '\n'
+                           'The graph went up and to the right.\n'
+                           '\n'
+                           'It measured "AI enablement."\n'
+                           '\n'
+                           'I made that metric up.\n'
+                           '\n'
+                           'He nodded approvingly.\n'
+                           '\n'
+                           'We\'re "AI-enabled" now.\n'
+                           '\n'
+                           "I don't know what that means.\n"
+                           '\n'
+                           "But it's in our investor deck.\n"
+                           '\n'
+                           "A senior developer asked why we didn't use Claude "
+                           'or ChatGPT.\n'
+                           '\n'
+                           'I said we needed "enterprise-grade security."\n'
+                           '\n'
+                           'He asked what that meant.\n'
+                           '\n'
+                           'I said "compliance."\n'
+                           '\n'
+                           'He asked which compliance.\n'
+                           '\n'
+                           'I said "all of them."\n'
+                           '\n'
+                           'He looked skeptical.\n'
+                           '\n'
+                           'I scheduled him for a "career development '
+                           'conversation."\n'
+                           '\n'
+                           'He stopped asking questions.\n'
+                           '\n'
+                           'Microsoft sent a case study team.\n'
+                           '\n'
+                           'They wanted to feature us as a success story.\n'
+                           '\n'
+                           'I told them we "saved 40,000 hours."\n'
+                           '\n'
+                           'I calculated that number by multiplying employees '
+                           'by a number I made up.\n'
+                           '\n'
+                           "They didn't verify it.\n"
+                           '\n'
+                           'They never do.\n'
+                           '\n'
+                           "Now we're on Microsoft's website.\n"
+                           '\n'
+                           '"Global enterprise achieves 40,000 hours of '
+                           'productivity gains with Copilot."\n'
+                           '\n'
+                           'The CEO shared it on LinkedIn.\n'
+                           '\n'
+                           'He got 3,000 likes.\n'
+                           '\n'
+                           "He's never used Copilot.\n"
+                           '\n'
+                           'None of the executives have.\n'
+                           '\n'
+                           'We have an exemption.\n'
+                           '\n'
+                           '"Strategic focus requires minimal digital '
+                           'distraction."\n'
+                           '\n'
+                           'I wrote that policy.\n'
+                           '\n'
+                           'The licenses renew next month.\n'
+                           '\n'
+                           "I'm requesting an expansion.\n"
+                           '\n'
+                           '5,000 more seats.\n'
+                           '\n'
+                           "We haven't used the first 4,000.\n"
+                           '\n'
+                           'But this time we\'ll "drive adoption."\n'
+                           '\n'
+                           'Adoption means mandatory training.\n'
+                           '\n'
+                           'Training means a 45-minute webinar no one '
+                           'watches.\n'
+                           '\n'
+                           'But completion will be tracked.\n'
+                           '\n'
+                           'Completion is a metric.\n'
+                           '\n'
+                           'Metrics go in dashboards.\n'
+                           '\n'
+                           'Dashboards go in board presentations.\n'
+                           '\n'
+                           'Board presentations get me promoted.\n'
+                           '\n'
+                           "I'll be SVP by Q3.\n"
+                           '\n'
+                           "I still don't know what Copilot does.\n"
+                           '\n'
+                           "But I know what it's for.\n"
+                           '\n'
+                           'It\'s for showing we\'re "investing in AI."\n'
+                           '\n'
+                           'Investment means spending.\n'
+                           '\n'
+                           'Spending means commitment.\n'
+                           '\n'
+                           "Commitment means we're serious about the future.\n"
+                           '\n'
+                           'The future is whatever I say it is.\n'
+                           '\n'
+                           'As long as the graph goes up and to the right.',
+                   'score': 159},
+                  {'author': 'ZJL1986',
+                   'body': 'I still laugh whenever I have notes open and see '
+                           'the Copilot symbol on the corner. Like seriously '
+                           'Microsoft?',
+                   'score': 41}],
+ 'url': 'https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot'}
+2025-12-29 00:27:32 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/r/pics/comments/1pqctkg/microsoft_founder_bill_gates_pictured_with_a_girl/.json> (referer: https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50)
+2025-12-29 00:27:32 [scrapy] DEBUG: Scraped from <200 https://www.reddit.com/r/pics/comments/1pqctkg/microsoft_founder_bill_gates_pictured_with_a_girl/.json>
+{'author': '80000-gvwr',
+ 'body': '',
+ 'created_utc': 1766121378.0,
+ 'keyword': 'microsoft',
+ 'num_comments': 7428,
+ 'permalink': 'https://reddit.com/r/pics/comments/1pqctkg/microsoft_founder_bill_gates_pictured_with_a_girl/',
+ 'post_type': 'competitor_post',
+ 'score': 115987,
+ 'subreddit': 'pics',
+ 'title': 'Microsoft founder Bill Gates pictured with a girl in the new '
+          'Epstein photo release',
+ 'top_comments': [],
+ 'url': 'https://i.redd.it/tj60h13mh38g1.jpeg'}
+2025-12-29 00:27:33 [scrapy] DEBUG: Crawled (200) <GET https://www.reddit.com/search.json?q=microsoft&sort=relevance&limit=50> (referer: None)
+2025-12-29 00:27:33 [scrapy] INFO: Closing spider (finished)
+2025-12-29 00:27:33 [scrapy] INFO: Stored json feed (15 items) in: posts/spiders/output/competitor_mentions_microsoft_2025-12-28T18-56-55+00-00.json
+2025-12-29 00:27:33 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 14989,
+ 'downloader/request_count': 17,
+ 'downloader/request_method_count/GET': 17,
+ 'downloader/response_bytes': 975637,
+ 'downloader/response_count': 17,
+ 'downloader/response_status_count/200': 17,
+ 'elapsed_time_seconds': 38.409477,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 12, 28, 18, 57, 33, 498698, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 8001655,
+ 'httpcompression/response_count': 17,
+ 'item_scraped_count': 15,
+ 'log_count/DEBUG': 34,
+ 'log_count/INFO': 8,
+ 'log_count/WARNING': 1,
+ 'request_depth_max': 1,
+ 'response_received_count': 17,
+ 'scheduler/dequeued': 17,
+ 'scheduler/dequeued/memory': 17,
+ 'scheduler/enqueued': 17,
+ 'scheduler/enqueued/memory': 17,
+ 'start_time': datetime.datetime(2025, 12, 28, 18, 56, 55, 89221, tzinfo=datetime.timezone.utc)}
+2025-12-29 00:27:33 [scrapy] INFO: Spider closed (finished)

@@ -1,17 +1,31 @@
+# #!/usr/bin/env bash
+# set -e
+
+# PORT=${PORT:-9080}
+
+# echo "Starting Scrapyrt on port $PORT"
+# echo "Working directory: $(pwd)"
+
+# exec scrapyrt -p $PORT
+
+
+
+# #!/usr/bin/env bash
+# set -e
+
+# PORT=${PORT:-8080}  # always use the env variable from Cloud Run
+
+# echo "Starting Scrapyrt on port $PORT"
+# echo "Working directory: $(pwd)"
+
+# # start Scrapyrt in foreground on the correct port
+# exec scrapyrt -p $PORT
+
 #!/bin/bash
 
-# Use the PORT environment variable from Cloud Run
-PORT=${PORT:-8080}  # default to 8080 if not set
+# 1. Start Scrapyrt in the background on port 9080
+# We use 9080 internally so it doesn't conflict with Flask
+scrapyrt -p 9080 -i 127.0.0.1 &
 
-# Start Scrapyrt on Cloud Run port
-scrapyrt -p $PORT &
-
-echo "Waiting for Scrapyrt to start..."
-while ! nc -z localhost $PORT; do
-  sleep 0.5
-done
-echo "Scrapyrt is ready!"
-
-# Start Flask on same port (optional, but Cloud Run allows only one process per $PORT)
-# If you want Flask to serve on same container, change Flask app to listen on $PORT
+# 2. Start the Flask app in the foreground on the port GCP expects (usually 8080)
 python flask_app.py

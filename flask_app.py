@@ -75,35 +75,21 @@
 #     except Exception as e:
 #         return jsonify({"error": "Scrapyrt request failed", "details": str(e)}), 500
 
-# # if __name__ == "__main__":
-# #     app.run(debug=True, port=5000)
 # if __name__ == "__main__":
-#     import os
-#     port = int(os.environ.get("PORT", 8080))  # GCP passes PORT env variable
-#     app.run(host="0.0.0.0", port=port, debug=True)
-
-
-
+#     app.run(debug=True, port=5000)
+# # if __name__ == "__main__":
+# #     import os
+# #     port = int(os.environ.get("PORT", 8080))  # GCP passes PORT env variable
+# #     app.run(host="0.0.0.0", port=port, debug=True)
 
 from flask import Flask, request, jsonify
 import requests
-import threading
-import subprocess
-import time
 import os
 
 app = Flask(__name__)
 
-SCRAPYRT_API = "http://localhost:9080/crawl.json"
-
-# Function to start Scrapyrt in background
-def start_scrapyrt():
-    subprocess.Popen(["scrapyrt", "-p", "9080"])
-    # optional: wait a few seconds for Scrapyrt to be ready
-    time.sleep(3)
-
-# Start Scrapyrt in a thread
-threading.Thread(target=start_scrapyrt, daemon=True).start()
+# This matches the internal port we set in the start.sh script
+SCRAPYRT_API = "http://127.0.0.1:9080/crawl.json"
 
 @app.route("/run-spider", methods=["GET"])
 def run_spider():
@@ -119,6 +105,7 @@ def run_spider():
     if keyword:
         payload["crawl_args"] = {"keyword": keyword}
         if not url:
+            # Note: Ensure your spider is designed to handle this URL
             url = f"https://www.reddit.com/search.json?q={keyword}&sort=relevance&limit=50"
 
     if url:
@@ -127,11 +114,15 @@ def run_spider():
     payload["spider_start"] = True
 
     try:
-        resp = requests.post(SCRAPYRT_API, json=payload)
-        return jsonify(resp.json())
+        # Flask talks to Scrapyrt inside the same container via 127.0.0.1:9080
+        scrapyrt_resp = requests.post(SCRAPYRT_API, json=payload, timeout=60)
+        return jsonify(scrapyrt_resp.json())
     except Exception as e:
         return jsonify({"error": "Scrapyrt request failed", "details": str(e)}), 500
 
+# --- CRITICAL CHANGE FOR GCP ---
 if __name__ == "__main__":
+    # Get the port from environment variable (Cloud Run defaults to 8080)
     port = int(os.environ.get("PORT", 8080))
-    app.run(host="0.0.0.0", port=port, debug=True)
+    # host="0.0.0.0" is mandatory for the container to be reachable
+    app.run(host="0.0.0.0", port=port)
